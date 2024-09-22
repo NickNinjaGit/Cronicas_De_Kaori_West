@@ -85,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main Folder/First Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Main Folder/First Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main Folder/First Note.md"
+                "file": "Main Folder/Drawing 2024-09-21 23.11.28.excalidraw.md"
               }
             }
           },
@@ -158,9 +156,10 @@
   },
   "active": "b81137c443582fac",
   "lastOpenFiles": [
+    "Main Folder/First Note.md",
+    "Main Folder/Drawing 2024-09-21 23.11.28.excalidraw.md",
     "Organização.canvas",
     "Untitled.md",
-    "Main Folder/First Note.md",
     "Main Folder/Second Note.md",
     "Main Folder/Josias.md",
     "conflict-files-obsidian-git.md",
