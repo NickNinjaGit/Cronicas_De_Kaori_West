@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"ef29be589c6ebb08","x":-540,"y":-280,"width":250,"height":50,"type":"text","text":"MEU PAI É DONO DO ROBLOX\n"},
+		{"id":"08694e9de810b86f","x":100,"y":-580,"width":400,"height":400,"type":"file","file":"Main Folder/First Note.md"}
+	],
+	"edges":[
+		{"id":"b521a71475c5cb6f","fromNode":"ef29be589c6ebb08","fromSide":"top","toNode":"08694e9de810b86f","toSide":"bottom"}
+	]
+}
