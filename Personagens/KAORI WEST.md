@@ -58,4 +58,7 @@
 ---
 > Hanna viveu um curto período de tempo com sua família pois Lúcifer descobriu que ela havia traído sua confiança, furioso ele mandou que demônios fossem em sua caça, prometendo uma grande recompensa aquele que matar a traidora do inferno, temendo que sua filha estivesse em perigo a mulher explicou a situação ao seu marido e disse para que nunca contasse a Kaori sobre seu passado, afim de livrar a filha do perigo eminente. Antes de partir Hana deixou a pedra de âmbar com sua filha, com o intuito de protege-lá se um dia ocorresse algo. Além disso, com a ajuda de suas habilidades de sacerdotisa ela selou o poder de Kaori por 20 anos.
 
+## Arquétipo do Órfão
 
+### Características
+O ***arquétipo do órfão*** está frequentemente associado a personagens que, por causa de uma perda ou circunstância difícil na infância, aprendem a se ***tornar resilientes, autossuficientes e desconfiados*.** Esses personagens geralmente têm uma sensação de que o mundo não é totalmente seguro e que precisam contar principalmente consigo mesmos para superar os desafios da vida.
