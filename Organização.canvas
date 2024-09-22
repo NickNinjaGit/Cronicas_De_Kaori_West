@@ -1,7 +1,7 @@
 {
 	"nodes":[
-		{"id":"ef29be589c6ebb08","type":"text","text":"MEU PAI É DONO DO ROBLOX\n","x":-540,"y":-280,"width":250,"height":50,"color":"4"},
-		{"id":"08694e9de810b86f","type":"file","file":"Personagens/KAORI WEST.md","x":-290,"y":-1240,"width":790,"height":1060,"color":"1"}
+		{"id":"ef29be589c6ebb08","type":"text","text":"MEU PAI É DONO DO ROBLOX\n","x":-540,"y":-280,"width":250,"height":50,"color":"#0c20bb"},
+		{"id":"08694e9de810b86f","type":"file","file":"Personagens/KAORI WEST.md","x":60,"y":-1240,"width":790,"height":1060,"color":"1"}
 	],
 	"edges":[
 		{"id":"b521a71475c5cb6f","fromNode":"ef29be589c6ebb08","fromSide":"top","toNode":"08694e9de810b86f","toSide":"bottom"}
