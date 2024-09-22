@@ -42,7 +42,7 @@
 
 ### ***Signo:*** Escorpião
 
-## Backstory:
+## Backstory
 
 > Kaori West nasceu na Califórnia em Sacramento, onde teve uma infância sem dificuldades, porém foi criada protegida de tudo, ela passou sua infância sem a presença de sua mãe, segundo seu pai ela foi morta em um acidente de carro, por conta disso era meio tímida e insegura na infância, porém desde cedo contava com um raciocínio elevado e curiosidade para aprender.
 ---
@@ -56,4 +56,4 @@
 ---
 > Ela se misturou entre os humanos e conheceu Martin West, um grande empresário que havia encontrado por acaso quando ele tentou evitar um assalto que ela sofria, mesmo corajoso foi Hanna quem resolveu a situação com bastante facilidade. Com o tempo os dois foram se falando e começaram uma relação. Depois de alguns anos tiveram Kaori, que foi nomeada assim em homenagem a mãe de Hanna (Saori).
 ---
-> Hanna viveu um curto período de tempo com sua família pois Lúcifer descobriu que ela havia traído sua confiança, furioso ele mandou que demônios fossem em sua caça, prometendo uma grande recompensa aquele que matar a traidora do inferno, temendo que sua filha estivesse em perigo a mulher explicou a situação ao seu marido e disse para que nunca contasse a Kaori sobre seu passado, afim de livrar a filha do perigo eminente. Antes de partir Hana deixou a pedra de âmbar com sua filha e usando suas habilidades de sacerdotisa ela selou o poder de Kaori por 20 anos.
+> Hanna viveu um curto período de tempo com sua família pois Lúcifer descobriu que ela havia traído sua confiança, furioso ele mandou que demônios fossem em sua caça, prometendo uma grande recompensa aquele que matar a traidora do inferno, temendo que sua filha estivesse em perigo a mulher explicou a situação ao seu marido e disse para que nunca contasse a Kaori sobre seu passado, afim de livrar a filha do perigo eminente. Antes de partir Hana deixou a pedra de âmbar com sua filha, com o intuito de protege-lá se um dia ocorresse algo. Além disso, com a ajuda de suas habilidades de sacerdotisa ela selou o poder de Kaori por 20 anos.
