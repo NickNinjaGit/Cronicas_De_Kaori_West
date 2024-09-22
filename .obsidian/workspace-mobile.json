@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Folder/Second Note.md",
+                "file": "Main Folder/Josias.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Main Folder/Second Note.md",
+            "file": "Main Folder/Josias.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Main Folder/Second Note.md",
+            "file": "Main Folder/Josias.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Main Folder/Second Note.md"
+            "file": "Main Folder/Josias.md"
           }
         }
       },
@@ -140,12 +140,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "16f4f8c124c6d77b",
+  "active": "e6184ffe9776bd34",
   "lastOpenFiles": [
-    "Main Folder/First Note.md",
-    "Main Folder/Second Note.md",
-    "Elias Furry/Elias.md",
     "/Main Folder/Second Note.md",
+    "Main Folder/First Note.md",
+    "Main Folder/Josias.md",
+    "Elias Furry/Elias.md",
     "Elias muito furry.md",
     "Elias Furry"
   ]
