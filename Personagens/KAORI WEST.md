@@ -38,18 +38,20 @@
 * Buscar o conhecimento e a verdade
 
 ### **Religião:** Agnóstica
+---
 ### **Profissão:** Gerente de Produção 
-
-### **Signo:** Escorpião
-
-### **Altura:** 1,73m
-
-### **Peso:** 65kg
-
-
-
 ---
 
+### **Signo:** Escorpião
+---
+
+### **Altura:** 1,73m
+---
+
+### **Peso:** 65kg
+--- 
+
+---
 ## Backstory
 #backstory
 > Kaori West nasceu na Califórnia em Sacramento, onde teve uma infância sem dificuldades, porém foi criada protegida de tudo, ela passou sua infância sem a presença de sua mãe, segundo seu pai ela foi morta em um acidente de carro, por conta disso era meio tímida e insegura na infância, porém desde cedo contava com um raciocínio elevado e curiosidade para aprender.
@@ -68,6 +70,10 @@
 
 
 --- 
+
+---
+
+---
 ## Arquétipo do Órfão
 --- 
 ### **Características:**
@@ -75,23 +81,21 @@
 O ***arquétipo do órfão*** está frequentemente associado a personagens que, por causa de uma perda ou circunstância difícil na infância, aprendem a se ***tornar resilientes, autossuficientes e desconfiados*.** Esses personagens geralmente têm uma sensação de que o mundo não é totalmente seguro e que precisam contar principalmente consigo mesmos para superar os desafios da vida.
 
 --- 
-
 ### **Pontos fortes:** 
 
 * Instinto de sobrevivência,
 * Empatia 
 * Perseverança 
-
 --- 
 ### **Fraquezas:** 
 
 * Falta de confiança 
 * Necessidade de agradar aos outros.
-
 --- 
+### **Desejos:**  Prosperar e se conectar com os outros.
 
-### **Desejos:** 
---- 
+
+---
 ## Aparência:
 
 *Uma mulher magra, de cabelos negros, pele branca com olhos pequenos e esverdeados, rosto fino. Ela tem uma postura confiante que combinam com seu terno rubor. Quando utiliza o poder da chama carmesim seu olhos mudam para um vermelho radiante, e seus brincos brilham refletindo a luz de sua íris.*
