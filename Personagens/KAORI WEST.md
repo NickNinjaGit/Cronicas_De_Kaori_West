@@ -1,6 +1,6 @@
 ## Ficha de Informações
 #char-info
-### ***==Personalidade==*** 
+### **Personalidade:** 
 --- 
 * Curiosa 
 * Resiliente 
@@ -11,9 +11,9 @@
 * Sofisticada 
 * Autoconsiente.
 
-### ***Extroversão:*** Ambivertida
+### **Extroversão:** Ambivertida
 
-### ***==Gostos:==*** 
+### **Gostos:** 
 --- 
 * Leitura
 * Assistir Séries e Filmes 
@@ -21,7 +21,7 @@
 * Jogar Tênis 
 * Culinária Japonesa e Italiana
 
-### ***==Desgostos:==*** 
+### **Desgostos:** 
 ---
 * Conflitos desnecessários 
 * Desorganização 
@@ -30,17 +30,25 @@
 * Rotina monótona 
 * Irresponsabilidade
 
-### ***==Ideais:==*** 
+### **Ideais:** 
 ---
 * Proteger os de sua confiança
 * Sempre trazer o melhor desempenho
 * Ter uma vida equilibrada
 * Buscar o conhecimento e a verdade
 
-### ***Religião:*** Agnóstica
-### ***Profissão:*** Gerente de Produção 
+### **Religião:** Agnóstica
+### **Profissão:** Gerente de Produção 
 
-### ***Signo:*** Escorpião
+### **Signo:** Escorpião
+
+### **Altura:** 1,73m
+
+### **Peso:** 65kg
+
+
+
+---
 
 ## Backstory
 #backstory
@@ -58,11 +66,38 @@
 ---
 > Hanna viveu um curto período de tempo com sua família pois Lúcifer descobriu que ela havia traído sua confiança, furioso ele mandou que demônios fossem em sua caça, prometendo uma grande recompensa aquele que matar a traidora do inferno, temendo que sua filha estivesse em perigo a mulher explicou a situação ao seu marido e disse para que nunca contasse a Kaori sobre seu passado, afim de livrar a filha do perigo eminente. Antes de partir Hana deixou a pedra de âmbar com sua filha, com o intuito de protege-lá se um dia ocorresse algo. Além disso, com a ajuda de suas habilidades de sacerdotisa ela selou o poder de Kaori por 20 anos.
 
-## Arquétipo do Órfão
 
-### Características
+--- 
+## Arquétipo do Órfão
+--- 
+### **Características:**
 
 O ***arquétipo do órfão*** está frequentemente associado a personagens que, por causa de uma perda ou circunstância difícil na infância, aprendem a se ***tornar resilientes, autossuficientes e desconfiados*.** Esses personagens geralmente têm uma sensação de que o mundo não é totalmente seguro e que precisam contar principalmente consigo mesmos para superar os desafios da vida.
+
+--- 
+
+### **Pontos fortes:** 
+
+* Instinto de sobrevivência,
+* Empatia 
+* Perseverança 
+
+--- 
+### **Fraquezas:** 
+
+* Falta de confiança 
+* Necessidade de agradar aos outros.
+
+--- 
+
+### **Desejos:** 
+--- 
+## Aparência:
+
+*Uma mulher magra, de cabelos negros, pele branca com olhos pequenos e esverdeados, rosto fino. Ela tem uma postura confiante que combinam com seu terno rubor. Quando utiliza o poder da chama carmesim seu olhos mudam para um vermelho radiante, e seus brincos brilham refletindo a luz de sua íris.*
+
+
+![[IMG_6643.jpeg]]
 
 
 
