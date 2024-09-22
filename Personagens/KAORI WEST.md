@@ -1,5 +1,5 @@
 ## Ficha de Informações
-
+#char-info
 ### ***==Personalidade==*** 
 --- 
 * Curiosa 
@@ -43,7 +43,7 @@
 ### ***Signo:*** Escorpião
 
 ## Backstory
-
+#backstory
 > Kaori West nasceu na Califórnia em Sacramento, onde teve uma infância sem dificuldades, porém foi criada protegida de tudo, ela passou sua infância sem a presença de sua mãe, segundo seu pai ela foi morta em um acidente de carro, por conta disso era meio tímida e insegura na infância, porém desde cedo contava com um raciocínio elevado e curiosidade para aprender.
 ---
 > Já na juventude, ela se destacou muito na escola sendo uma aluna exemplar, entretanto para a garota foi difícil se enturmar e confiar nas pessoas, mesmo assim nunca deixou de ser prestativa e respeitosa com seus colegas. Apesar dos problemas da infância, ela não se abalou, continuou seus estudos e se formou como Engenheira da Produção, onde começou a trabalhar como consultora prestando serviços para pequenas empresas, e rapidamente recebeu propostas para trabalhar com grandes empresas.
