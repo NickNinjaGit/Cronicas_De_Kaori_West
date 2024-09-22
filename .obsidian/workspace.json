@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Folder/First Note.md",
+                "file": "Main Folder/Second Note.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main Folder/First Note.md",
+                "file": "Main Folder/Second Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Main Folder/First Note.md",
+                "file": "Main Folder/Second Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,31 +125,40 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main Folder/First Note.md"
+                "file": "Main Folder/Second Note.md"
               }
             }
+          },
+          {
+            "id": "0b39142cb0fed2e1",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "0b627b5158ab4266",
   "lastOpenFiles": [
     "Main Folder/First Note.md",
+    "Main Folder/Second Note.md",
     "Main Folder",
     "Welcome.md"
   ]
