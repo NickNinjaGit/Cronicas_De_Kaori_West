@@ -1,1 +1,53 @@
-LORE: lala-rifowe-=ghwrihgnbvwsgh9jbv´wreshdhb-iwsrhbg-i9serwdgbhnj-9´wasehbg9jni-sewdrgbhinp´wsedgbh-jni9´rwsdehbg-pj9in´rwsdehgb9ij-pserwdhgbj9-erwsdgbherwsdhbggbhegbh-9jrwseghb9-rwsehgb9-wsehgb9-=.
+## Ficha Pessoal
+
+### ***==Personalidade==*** 
+
+* Curiosa 
+* Resiliente 
+* Autossuficiente 
+* Cautelosa 
+* Pragmática 
+* Protetora 
+* Sofisticada 
+* Autoconsiente.
+
+### ***Extroversão:*** Ambivertida
+
+### ***==Gostos:==*** 
+
+* Leitura
+* Assistir Séries e Filmes 
+* Caminhar 
+* Jogar Tênis 
+* Culinária Japonesa e Italiana
+
+### ***==Desgostos:==*** 
+
+* Conflitos desnecessários 
+* Desorganização 
+* Falta de sinceridade 
+* Superexposição 
+* Rotina monótona 
+* Irresponsabilidade
+
+### ***==Ideais:==*** 
+
+* Proteger os de sua confiança
+* Sempre trazer o melhor desempenho
+* Ter uma vida equilibrada
+* Buscar o conhecimento e a verdade
+
+### ***Religião:*** Agnóstica
+### ***Profissão:*** Gerente de Produção 
+
+### ***Signo:*** Escorpião
+
+## Backstory:
+
+> Kaori West nasceu na Califórnia em Sacramento, onde teve uma infância sem dificuldades porém protegida de tudo, ela passou sua infância sem a presença de sua mãe, segundo seu pai ela foi morta em um acidente de carro, por conta disso era meio tímida e insegura na infância, porém desde cedo contava com um raciocínio elevado e curiosidade para aprender. Já na juventude, ela se destacou muito na escola sendo uma aluna exemplar, entretanto para a garota foi difícil se enturmar e confiar nas pessoas, mesmo assim nunca deixou de ser prestativa e respeitosa com seus colegas. Apesar dos problemas da infância, ela não se abalou, continuou seus estudos e se formou como Engenheira da Produção, onde começou a trabalhar como consultora prestando serviços para pequenas empresas, e rapidamente recebeu propostas para trabalhar com grandes empresas.
+> 
+> Apesar de ser comunicativa, ela confia em poucas pessoas e não se abre muito sobre sua vida, e na maioria de seu tempo livre ela reserva pra si.
+> 
+> O que ela não sabe é que seu passado está assolado de mistérios e misticismo, do contrário do que foi dito a ela, sua mãe além de estar viva não é humana, na verdade ela é um demônio herdeira de Lucifer, além disso ela faz parte de uma linhagem de sacerdotisas das chamas que Kaori também herda. Hanna foi a escolhida para governar o inferno, o que significava ter que lidar com um poder imenso sobre suas mãos. Ela recusou pois não queria carregar o fardo de receber os pecados da humanidade pra si, e por isso e razões de tamanha injustiça com as almas humanas no inferno, ela elaborou um plano para fugir do submundo.  Ela escondeu sua identidade e enganou os guardiões das chaves do inferno e as roubou. Com as chaves roubadas e com a que ela protegia, Hanna abriu os portões do inferno, liberando muitos demônios para Terra. Ao longo dos anos ela escondeu as chaves por todo o mundo, a fim de evitar que um mal possa cair sobre os humanos, e deixou a sua chave (uma pedra de âmbar polida) aos cuidados de Kaori.
+> 
+> Ela se misturou entre os humanos e conheceu Martin West, um grande empresário que havia conhecido por acaso quando ele tentou evitar um assalto que ela sofria, mesmo corajoso foi ela quem resolveu a situação com sua força extraordinária. Com o tempo os dois foram se falando e começaram uma relação. Após um tempo tiveram Kaori, que foi nomeada assim em homenagem a mãe de Hanna (Saori), porém com o tempo Lúcifer descobriu que Hana havia traído sua confiança, furioso ele mandou que os demônios fossem em sua caça, prometendo poder e prestígio aquele que matar a traidor do inferno, temendo que sua filha estivesse em perigo Hana explicou a situação ao seu marido e disse para que nunca contasse a Kaori sobre seu passado e sobre tudo isso. Antes de partir Hana deixou a pedra de âmbar com sua filha e usando suas habilidades mágicas ela selou o poder de Kaori por 20 anos.
