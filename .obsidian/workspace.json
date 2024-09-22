@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "017764519835eab4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HGATOEMEÉLE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "HGATOEMEÉLE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "HGATOEMEÉLE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main Folder/Drawing 2024-09-21 23.11.28.excalidraw.md"
+                "file": "HGATOEMEÉLE.md"
               }
             }
           },
@@ -154,12 +169,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b81137c443582fac",
+  "active": "017764519835eab4",
   "lastOpenFiles": [
     "Main Folder/First Note.md",
+    "HGATOEMEÉLE.md",
     "Main Folder/Drawing 2024-09-21 23.11.28.excalidraw.md",
     "Organização.canvas",
-    "Untitled.md",
     "Main Folder/Second Note.md",
     "Main Folder/Josias.md",
     "conflict-files-obsidian-git.md",
