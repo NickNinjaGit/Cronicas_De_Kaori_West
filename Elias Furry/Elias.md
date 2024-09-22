@@ -1,1 +1,0 @@
-Elias gosta da Lopunny

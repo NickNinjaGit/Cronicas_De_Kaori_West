@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Folder/Second Note.md",
+                "file": "Main Folder/First Note.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main Folder/Second Note.md",
+                "file": "Main Folder/First Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Main Folder/Second Note.md",
+                "file": "Main Folder/First Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main Folder/Second Note.md"
+                "file": "Main Folder/First Note.md"
               }
             }
           },
@@ -157,8 +157,8 @@
   },
   "active": "0b627b5158ab4266",
   "lastOpenFiles": [
-    "Main Folder/Josias.md",
     "Main Folder/Second Note.md",
+    "Main Folder/Josias.md",
     "Main Folder/First Note.md",
     "conflict-files-obsidian-git.md",
     "Elias Furry/Elias.md",
