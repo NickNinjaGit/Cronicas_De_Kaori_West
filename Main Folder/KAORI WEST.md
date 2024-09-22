@@ -1,7 +1,7 @@
 ## Ficha Pessoal
 
 ### ***==Personalidade==*** 
-
+--- 
 * Curiosa 
 * Resiliente 
 * Autossuficiente 
@@ -14,7 +14,7 @@
 ### ***Extroversão:*** Ambivertida
 
 ### ***==Gostos:==*** 
-
+--- 
 * Leitura
 * Assistir Séries e Filmes 
 * Caminhar 
@@ -22,7 +22,7 @@
 * Culinária Japonesa e Italiana
 
 ### ***==Desgostos:==*** 
-
+---
 * Conflitos desnecessários 
 * Desorganização 
 * Falta de sinceridade 
@@ -31,7 +31,7 @@
 * Irresponsabilidade
 
 ### ***==Ideais:==*** 
-
+---
 * Proteger os de sua confiança
 * Sempre trazer o melhor desempenho
 * Ter uma vida equilibrada
