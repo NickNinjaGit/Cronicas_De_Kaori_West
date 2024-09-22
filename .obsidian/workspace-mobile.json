@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Folder/KAORI WEST.md",
+                "file": "Personagens/KAORI WEST.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Folder/KAORI WEST.md",
+                "file": "Personagens/KAORI WEST.md",
                 "mode": "preview",
                 "source": false
               }
@@ -97,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Main Folder/KAORI WEST.md",
+            "file": "Personagens/KAORI WEST.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Main Folder/KAORI WEST.md",
+            "file": "Personagens/KAORI WEST.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Main Folder/KAORI WEST.md"
+            "file": "Personagens/KAORI WEST.md"
           }
         }
       },
@@ -152,10 +152,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c5adb582f567a1cc",
+  "active": "4d8922ba5087d13d",
   "lastOpenFiles": [
     "[]().md",
-    "Main Folder/KAORI WEST.md",
+    "Personagens/KAORI WEST.md",
     "Organização.canvas",
     "Outra pasta",
     "Main Folder/First Note.md",
