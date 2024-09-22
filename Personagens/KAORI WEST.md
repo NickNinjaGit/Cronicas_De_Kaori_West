@@ -61,4 +61,11 @@
 ## Arquétipo do Órfão
 
 ### Características
+
 O ***arquétipo do órfão*** está frequentemente associado a personagens que, por causa de uma perda ou circunstância difícil na infância, aprendem a se ***tornar resilientes, autossuficientes e desconfiados*.** Esses personagens geralmente têm uma sensação de que o mundo não é totalmente seguro e que precisam contar principalmente consigo mesmos para superar os desafios da vida.
+
+
+
+
+
+
