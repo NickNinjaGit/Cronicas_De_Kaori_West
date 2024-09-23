@@ -1,4 +1,4 @@
-## Ficha de Informações
+##  Ficha de Informações
 #char-info
 ### **Personalidade:** 
 --- 
@@ -97,7 +97,7 @@ O ***arquétipo do órfão*** está frequentemente associado a personagens que, 
 ---
 ## Aparência:
 
-*Uma mulher magra, de cabelos negros, pele branca com olhos pequenos e esverdeados, rosto fino. Ela tem uma postura confiante que combinam com seu terno rubor. Quando utiliza o poder da chama carmesim seu olhos mudam para um vermelho radiante, e seus brincos brilham refletindo a luz de sua íris.*
+*Uma mulher magra, de cabelos negros, pele branca com olhos pequenos e esverdeados, rosto fino. Ela tem uma postura confiante que combina com seu terno rubro. Quando utiliza o poder da chama carmesim seus olhos mudam para um vermelho radiante, e seus brincos brilham em conjunto com a luz de sua íris.*
 
 
 ![[IMG_6643.jpeg]]

@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "78e5efe213fe6a26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Building/Sistema de poder.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "b01ce63f6ba963e0",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Personagens/KAORI WEST.md",
+            "file": "World Building/Sistema de poder.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Personagens/KAORI WEST.md",
+            "file": "World Building/Sistema de poder.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Personagens/KAORI WEST.md"
+            "file": "World Building/Sistema de poder.md"
           }
         }
       },
@@ -143,30 +156,33 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c5adb582f567a1cc",
+  "active": "4d8922ba5087d13d",
   "lastOpenFiles": [
-    "Organização.canvas",
+    "World Building",
     "Personagens/KAORI WEST.md",
-    "IMG_6643.jpeg",
+    "World Building/Sistema de poder.md",
+    "Organização.canvas",
+    "Imagens",
+    "Imagens/IMG_6643.jpeg",
+    "/Personagens/KAORI WEST.md",
+    "/Organização.canvas",
     "[]().md",
     "Outra pasta",
     "Main Folder/First Note.md",
-    "/Organização.canvas",
     "/Main Folder/KAORI WEST.md",
     "HGATOEMEÉLE.md",
     "/Main Folder/First Note.md",
     "/HGATOEMEÉLE.md",
     "Main Folder/Drawing 2024-09-21 23.04.20.excalidraw.md",
-    "Untitled.md",
     "Main Folder/Josias.md",
     "/Main Folder/Second Note.md",
     "Elias Furry/Elias.md",
