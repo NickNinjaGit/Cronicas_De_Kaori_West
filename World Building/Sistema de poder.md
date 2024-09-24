@@ -46,8 +46,16 @@
 
 ### Encantamento
 
-### Encantamento
+> *A Técnica de encantamento permite o usuário impor um benefício ao elemento puro, esses condições permitem o indivíduo benefícios em troca de uma certa quantidade de Éter, quanto mais poderoso ou específico for o encantamento mais ele consumirá Éter, se chegar ao seu limite, a pessoa morre *
 
-### Encantamento
+**Alguns Exemplos de Encantamentos:**
 
-### Encantamento
+| Encantamento  | Condição                                                                                                                         | Complexidade | Duração    |
+| ------------- | -------------------------------------------------------------------------------------------------------------------------------- | ------------ | ---------- |
+| Punhos de Aço | Aumenta a resistência e força do usuário, permitindo com que ele facilmente destrua objetos grandes.                             | Baixa        | 1 hora     |
+| Graça da Lua  | Cria uma cúpula brilhante de vento que reflete a lua, o usuário pode controlar a gravidade de todos os objetos dentro da cúpula. | Alta         | 10 minutos |
+|               |                                                                                                                                  |              |            |
+> *Um dominador elemental pode ter quantos encantamentos ele quiser, porém criar um encantamento demanda tempo e prática sobre ele. Dominadores conectados ao Celestial do Éter tem facilidade nesses quesitos. *
+
+
+### Transmissão
