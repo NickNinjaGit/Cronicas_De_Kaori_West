@@ -11,18 +11,28 @@
             "id": "0b627b5158ab4266",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Organização.canvas",
-                "viewState": {
-                  "x": -172.3784237476542,
-                  "y": -488.3610738575728,
-                  "zoom": -1.2774589894304544
-                }
+                "file": "World Building/Sistema de poder.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "518e107c685e1568",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "World Building/Sistema de poder.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Organização.canvas",
+                "file": "World Building/Sistema de poder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Organização.canvas",
+                "file": "World Building/Sistema de poder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Organização.canvas"
+                "file": "World Building/Sistema de poder.md"
               }
             }
           },
@@ -155,18 +165,24 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0b627b5158ab4266",
+  "active": "518e107c685e1568",
   "lastOpenFiles": [
+    "World Building/Circulo_Elemental.excalidraw.md",
+    "World Building/Sistema de poder.md",
+    "Organização.canvas",
+    "World Building",
+    "Imagens/IMG_6643.jpeg",
+    "Imagens",
     "Personagens/KAORI WEST.md",
     "IMG_6643.jpeg",
     "Main Folder/KAORI WEST.md",
     "Personagens",
     "HGATOEMEÉLE.md",
     "Main Folder/Drawing 2024-09-21 23.11.28.excalidraw.md",
-    "Organização.canvas",
     "Main Folder/Second Note.md",
     "Main Folder/Josias.md",
     "conflict-files-obsidian-git.md",
