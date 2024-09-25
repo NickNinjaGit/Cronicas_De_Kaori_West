@@ -4,7 +4,7 @@
 
 > *Um dominador elemental pode aprender a conectar seu elemento com o Éter, isso permite que o usuário possa modificar seu elemento original, podendo assim se criar um estilo próprio. Este estilo próprio é denominado Técnica de Éter.*
 ---
-
+[[Circulo_Elemental.excalidraw]]
 ## Técnicas de Éter:
 ---
 ### Transmutação: 
@@ -46,16 +46,40 @@
 
 ### Encantamento
 
-> *A Técnica de encantamento permite o usuário impor um benefício ao elemento puro, esses condições permitem o indivíduo benefícios em troca de uma certa quantidade de Éter, quanto mais poderoso ou específico for o encantamento mais ele consumirá Éter, se chegar ao seu limite, a pessoa morre *
+> *A Técnica de encantamento permite o usuário impor um benefício ao elemento puro, em troca de uma certa quantidade de Éter, quanto mais poderoso ou específico for o encantamento mais ele consumirá Éter, se chegar ao seu limite, a pessoa morre *
 
 **Alguns Exemplos de Encantamentos:**
 
-| Encantamento  | Condição                                                                                                                         | Complexidade | Duração    |
-| ------------- | -------------------------------------------------------------------------------------------------------------------------------- | ------------ | ---------- |
-| Punhos de Aço | Aumenta a resistência e força do usuário, permitindo com que ele facilmente destrua objetos grandes.                             | Baixa        | 1 hora     |
-| Graça da Lua  | Cria uma cúpula brilhante de vento que reflete a lua, o usuário pode controlar a gravidade de todos os objetos dentro da cúpula. | Alta         | 10 minutos |
-|               |                                                                                                                                  |              |            |
-> *Um dominador elemental pode ter quantos encantamentos ele quiser, porém criar um encantamento demanda tempo e prática sobre ele. Dominadores conectados ao Celestial do Éter tem facilidade nesses quesitos. *
+| Encantamento  | Des                                                                                                  | Complexidade | Duração    |
+| ------------- | ---------------------------------------------------------------------------------------------------- | ------------ | ---------- |
+| Punhos de Aço | Aumenta a resistência e força do usuário, permitindo com que ele facilmente destrua objetos grandes. | Baixa        | 1 hora     |
+| Graça da Lua  | Cria um campo curativo envolta do usuário, ferimentos são altamente regenerados nesse período.       | Alta         | 10 minutos |
+|               |                                                                                                      |              |            |
+> *Um dominador elemental pode ter quantos encantamentos ele quiser, porém criar um encantamento demanda tempo e prática sobre ele.*
 
 
-### Transmissão
+### Maldição
+> *A Maldição é o total oposto ao encantamento, aplique um malefício a um indivíduo, em troca de uma certa quantidade de Éter. Quanto mais poderosa e complexa for a maldição mais Éter ela consumira.*
+
+Exemplos de Maldição:
+
+
+| Maldição               | Descricao                                                                          | Complexidade | Duração                         |
+| ---------------------- | ---------------------------------------------------------------------------------- | ------------ | ------------------------------- |
+| Ossos Frágeis          | Conceda fraqueza ao alvo, movimentos bruscos podem ser severos                     | Média        | 10 minutos                      |
+| Traças de Fogo         | Conjure chamas que perseguem o alvo instintivamente                                | Baixa        | 1 hora                          |
+| Correntes da Submissão | Atrele o alvo às suas ordens, ele não pode recusar, caso aconteça, ele perde Éter  | Alta         | 1 hora                          |
+| Parasita               | Lance um projétil perfurante no alvo, caso acerte cria um parasita que rouba Éter. | Média        | 30 minutos ou até ser destruído |
+> Assim como encantamentos, um usuário pode ter quantas maldições ele quiser, porém criar uma maldição demanda tempo e prática dela.
+
+> Maldições podem ser evitadas caso o usuário tenha um encantamento de proteção espiritual.
+
+> Algumas maldições persistem depois do indivíduo que a invocou morrer, esse tipo de maldição tem um nível imenso de complexidade.
+### Transmissao 
+
+> A técnica de transmissão usa o Éter para modificar o ambiente a sua volta ou influenciar uma pessoa com sua energia.
+
+
+
+
+
