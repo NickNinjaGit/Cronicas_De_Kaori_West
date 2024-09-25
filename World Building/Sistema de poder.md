@@ -72,12 +72,20 @@ Exemplos de Maldição:
 | Parasita               | Lance um projétil perfurante no alvo, caso acerte cria um parasita que rouba Éter. | Média        | 30 minutos ou até ser destruído |
 > Assim como encantamentos, um usuário pode ter quantas maldições ele quiser, porém criar uma maldição demanda tempo e prática dela.
 
-> Maldições podem ser evitadas caso o usuário tenha um encantamento de proteção espiritual.
+> Maldições podem ser evitadas caso o usuário tenha um encantamento de proteção espiritual, se ele for mais poderoso que a maldição, será bloqueada com sucesso.
 
 > Algumas maldições persistem depois do indivíduo que a invocou morrer, esse tipo de maldição tem um nível imenso de complexidade.
 ### Transmissao 
 
-> A técnica de transmissão usa o Éter para modificar o ambiente a sua volta ou influenciar uma pessoa com sua energia.
+> A técnica de transmissão usa o Éter para modificar o ambiente a sua volta ou influenciar uma pessoa com sua energia. Diferente dos encantamentos e maldições, a Transmissão é mantida por tempo, ou seja, quanto mais poderoso o usuário for, mais duradoura é a transmissão.
+
+Exemplos de Transmissão:
+
+
+| Transmissão |     |
+| ----------- | --- |
+|             |     |
+
 
 
 
