@@ -8,6 +8,7 @@
 ## Técnicas de Éter:
 ---
 ### Transmutação: 
+
 > Combine o seu elemento original com outro elemento para se criar um subelemento, isso não permite o usuário controlar a forma pura do elemento secundário. 
 > 
 > Além disso, com mais prática sobre a técnica, é possível combinar até 3 elementos, a combinação dos quatro elementos gera no **Caos Elemental** um subelemento quase impossível de se controlar.
@@ -59,6 +60,7 @@
 
 
 ### Maldição
+
 > *A Maldição é o total oposto ao encantamento, aplique um malefício a um indivíduo, em troca de uma certa quantidade de Éter. Quanto mais poderosa e complexa for a maldição mais Éter ela consumira.*
 
 Exemplos de Maldição:
@@ -75,19 +77,17 @@ Exemplos de Maldição:
 > Maldições podem ser evitadas caso o usuário tenha um encantamento de proteção espiritual, se ele for mais poderoso que a maldição, será bloqueada com sucesso.
 
 > Algumas maldições persistem depois do indivíduo que a invocou morrer, esse tipo de maldição tem um nível imenso de complexidade.
-### Transmissao 
+### Transmissão 
 
-> A técnica de transmissão usa o Éter para modificar o ambiente a sua volta ou influenciar uma pessoa com sua energia. Diferente dos encantamentos e maldições, a Transmissão é mantida por tempo, ou seja, quanto mais poderoso o usuário for, mais duradoura é a transmissão.
+> A técnica de transmissão usa o Éter para modificar o ambiente a sua volta. Diferente dos encantamentos e maldições, a Transmissão é mantida por tempo, ou seja, quanto mais poderoso o usuário for, mais duradoura é a transmissão.
 
 Exemplos de Transmissão:
 
 
-| Transmissão |     |
-| ----------- | --- |
-|             |     |
+| Nome            | Descrição                                                                                                                      | Consumo de Éter |
+| --------------- | ------------------------------------------------------------------------------------------------------------------------------ | --------------- |
+| Atlantis        | Todo o ambiente começa a inundar, rapidamente se transformando em um oceano. Enquanto estiver ativo, controle o nível da água. | Alto            |
+| Ventos Uivantes | Crie um campo cercado de ventos fortes, o usuário pode moldar o formato dessa área da forma que ele quiser.                    | Baixo           |
+|                 |                                                                                                                                |                 |
 
-
-
-
-
-
+> Uma Técnica de transmissão pode ser parada caso o usuário seja severamente ferido ou se ele não tiver Éter suficiente para mantê-la.
