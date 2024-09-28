@@ -75,19 +75,29 @@ Exemplos de Maldição:
 > Maldições podem ser evitadas caso o usuário tenha um encantamento de proteção espiritual, se ele for mais poderoso que a maldição, será bloqueada com sucesso.
 
 > Algumas maldições persistem depois do indivíduo que a invocou morrer, esse tipo de maldição tem um nível imenso de complexidade.
-### Transmissao 
+### Transmissão 
 
-> A técnica de transmissão usa o Éter para modificar o ambiente a sua volta ou influenciar uma pessoa com sua energia. Diferente dos encantamentos e maldições, a Transmissão é mantida por tempo, ou seja, quanto mais poderoso o usuário for, mais duradoura é a transmissão.
+> A técnica de transmissão usa o Éter para modificar o ambiente a sua volta ou imbuir em objeto sua energia. Diferente dos encantamentos e maldições, a Transmissão é mantida por tempo, ou seja, quanto mais poderoso o usuário for, mais duradoura é a transmissão.
 
 Exemplos de Transmissão:
 
 
-| Transmissão |     |
-| ----------- | --- |
-|             |     |
+| Transmissão         | Descrição                                                                                                                                                     |
+| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Campos Movediços    | Modifique o solo criando campos erosivos similares a areia movediça                                                                                           |
+| Armadilha Tóxica    | Preencha o ambiente inteiro com gás tóxico, quanto mais for respirado mais incapacita a pessoa                                                                |
+| Atlantis            | Comece lentamente inundar o ambiente, é possível controlar o nível da água, fluxo e a pressão. Quanto maior o fluxo ou a pressão mais rápido consumirá Éter.  |
+| Runas da Destruição | Imbua Éter em 5 objetos diferentes, criando uma marca em cada um. Dispare as runas no alvo, se acertar, a próxima runa tem o dobro de impacto que a anterior. |
+> Objetos imbuídos através da transmissão costumam durar mais do que uma transmissão ambiental.
 
+--- 
+## Usos genéricos do Éter
+> O Éter além é amplamente usado para modificar o elemento puro do dominador elemental. **Porém caso seja usado sozinho ele pode ter utilidade fora de combate:**
 
+* **Identificação:** Use seu Éter para tentar rastrear objetos imbuídos ou um indivíduo, quanto mais específico a descrição do alvo na mente do usuário, mais facilmente será encontrado.
 
+* **Camuflagem:** Esconda sua presença usando Éter, quanto mais Éter for gasto, mais difícil será rastrear o usuário camuflado.
 
+* **Interceptação:** Use seu Éter para tentar ler a mente de um ser vivo, caso ele permita a interceptação irá funcionar automaticamente.
 
-
+* **Bloqueio Mental:** Proteja sua mente de ser interceptada, quanto mais Éter gastar melhor será o bloqueio.

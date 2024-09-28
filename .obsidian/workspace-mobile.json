@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Building/Sistema de poder.md",
+                "file": "Personagens/CLEVER-ROACH.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "World Building/Sistema de poder.md",
+            "file": "Personagens/CLEVER-ROACH.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "World Building/Sistema de poder.md",
+            "file": "Personagens/CLEVER-ROACH.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "World Building/Sistema de poder.md"
+            "file": "Personagens/CLEVER-ROACH.md"
           }
         }
       },
@@ -168,9 +168,22 @@
   },
   "active": "78e5efe213fe6a26",
   "lastOpenFiles": [
-    "Organização.canvas",
+    "Excalidraw/Drawing 2024-09-27 22.45.45.excalidraw.md",
+    "Personagens/CLEVER-ROACH.md",
+    "Excalidraw",
+    "Personagens/TAE-JUNG.md",
+    "Personagens/HANNA WEST.md",
+    "World Building/Lugares Importantes/Reino dos Renegados.md",
+    "World Building/Lugares Importantes/Reino Profano (Inferno).md",
+    "World Building/Lugares Importantes/Reino Divino (Céu).md",
+    "World Building/Celestiais.md",
+    "World Building/Lugares Importantes",
+    "World Building/Dilúvio Elemental.md",
+    "World Building/Sacerdotisas das Chamas Renascentes.md",
+    "World Building/10 Mestres do Éter.md",
     "Personagens/KAORI WEST.md",
     "World Building/Sistema de poder.md",
+    "Organização.canvas",
     "World Building/Circulo_Elemental.excalidraw.md",
     "/World Building/Sistema de poder.md",
     "/World Building/Circulo_Elemental.excalidraw.md",
@@ -189,8 +202,6 @@
     "Main Folder/Drawing 2024-09-21 23.04.20.excalidraw.md",
     "Main Folder/Josias.md",
     "/Main Folder/Second Note.md",
-    "Elias Furry/Elias.md",
-    "Elias muito furry.md",
     "Elias Furry"
   ]
 }
