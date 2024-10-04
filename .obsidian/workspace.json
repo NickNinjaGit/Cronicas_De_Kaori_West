@@ -4,33 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "0d55596f95061346",
+        "id": "4ef6d94cb8a3c718",
         "type": "tabs",
         "children": [
           {
-            "id": "0b627b5158ab4266",
+            "id": "c258987f7244c3f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Building/Organizações Importantes/10 Mestres do Éter.md",
+                "file": "Personagens/Mestres do Éter/ALEXANDRE-CLIFFORD.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "518e107c685e1568",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Organização.canvas",
-                "viewState": {
-                  "x": 155,
-                  "y": -710,
-                  "zoom": -0.2774589894304546
-                }
               }
             }
           }
@@ -100,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Organizações Importantes/10 Mestres do Éter.md",
+                "file": "Personagens/Mestres do Éter/ALEXANDRE-CLIFFORD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "World Building/Organizações Importantes/10 Mestres do Éter.md",
+                "file": "Personagens/Mestres do Éter/ALEXANDRE-CLIFFORD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,12 +125,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "World Building/Organizações Importantes/10 Mestres do Éter.md"
+                "file": "Personagens/Mestres do Éter/ALEXANDRE-CLIFFORD.md"
               }
             }
           },
           {
-            "id": "0b39142cb0fed2e1",
+            "id": "516a9c8e56ee2089",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -167,18 +152,16 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-kanban:Create new board": false,
-      "templater-obsidian:Templater": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0b627b5158ab4266",
+  "active": "c258987f7244c3f5",
   "lastOpenFiles": [
+    "Organização.canvas",
+    "World Building/Organizações Importantes/10 Mestres do Éter.md",
     "World Building/Organizações Importantes/Sacerdotisas das Chamas Renascentes.md",
     "World Building/Circulo_Elemental.excalidraw.md",
     "Personagens/Mestres do Éter/MANUEL-IXCHAJIL.md",
-    "World Building/Organizações Importantes/10 Mestres do Éter.md",
     "World Building/Organizações Importantes",
     "Personagens/Mestres do Éter/YUJIMA-CHEN.md",
     "World Building/Sistema de poder.md",
@@ -191,7 +174,6 @@
     "World Building/Dilúvio Elemental.md",
     "conflict-files-obsidian-git.md",
     "Personagens/KAORI WEST.md",
-    "Organização.canvas",
     "Untitled.canvas",
     "Untitled Kanban.md",
     "Personagens/TAE-JUNG.md",
