@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Building/Sistema de poder.md",
+                "file": "World Building/10 Mestres do Éter.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "World Building/Sistema de poder.md",
+            "file": "World Building/10 Mestres do Éter.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "World Building/Sistema de poder.md",
+            "file": "World Building/10 Mestres do Éter.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "World Building/Sistema de poder.md"
+            "file": "World Building/10 Mestres do Éter.md"
           }
         }
       },
@@ -163,12 +163,15 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-kanban:Create new board": false
     }
   },
   "active": "78e5efe213fe6a26",
   "lastOpenFiles": [
+    "World Building/Sistema de poder.md",
     "Personagens/KAORI WEST.md",
+    "/Organização.canvas",
     "Personagens/HANNA WEST.md",
     "Personagens/TAIJUN.md",
     "Personagens/CLEVER-ROACH.md",
@@ -183,7 +186,6 @@
     "World Building/Dilúvio Elemental.md",
     "World Building/Sacerdotisas das Chamas Renascentes.md",
     "World Building/10 Mestres do Éter.md",
-    "World Building/Sistema de poder.md",
     "Organização.canvas",
     "World Building/Circulo_Elemental.excalidraw.md",
     "/World Building/Circulo_Elemental.excalidraw.md",
@@ -191,7 +193,6 @@
     "Imagens",
     "Imagens/IMG_6643.jpeg",
     "/Personagens/KAORI WEST.md",
-    "/Organização.canvas",
     "[]().md",
     "Outra pasta",
     "Main Folder/First Note.md",
@@ -201,7 +202,6 @@
     "/HGATOEMEÉLE.md",
     "Main Folder/Drawing 2024-09-21 23.04.20.excalidraw.md",
     "Main Folder/Josias.md",
-    "/Main Folder/Second Note.md",
     "Elias Furry"
   ]
 }
