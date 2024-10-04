@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personagens/CLEVER-ROACH.md",
+                "file": "World Building/Sistema de poder.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Personagens/CLEVER-ROACH.md",
+            "file": "World Building/Sistema de poder.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Personagens/CLEVER-ROACH.md",
+            "file": "World Building/Sistema de poder.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Personagens/CLEVER-ROACH.md"
+            "file": "World Building/Sistema de poder.md"
           }
         }
       },
@@ -168,11 +168,13 @@
   },
   "active": "78e5efe213fe6a26",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-09-27 22.45.45.excalidraw.md",
-    "Personagens/CLEVER-ROACH.md",
-    "Excalidraw",
-    "Personagens/TAE-JUNG.md",
+    "Personagens/KAORI WEST.md",
     "Personagens/HANNA WEST.md",
+    "Personagens/TAIJUN.md",
+    "Personagens/CLEVER-ROACH.md",
+    "/World Building/Sistema de poder.md",
+    "Excalidraw/Drawing 2024-09-27 22.45.45.excalidraw.md",
+    "Excalidraw",
     "World Building/Lugares Importantes/Reino dos Renegados.md",
     "World Building/Lugares Importantes/Reino Profano (Inferno).md",
     "World Building/Lugares Importantes/Reino Divino (Céu).md",
@@ -181,11 +183,9 @@
     "World Building/Dilúvio Elemental.md",
     "World Building/Sacerdotisas das Chamas Renascentes.md",
     "World Building/10 Mestres do Éter.md",
-    "Personagens/KAORI WEST.md",
     "World Building/Sistema de poder.md",
     "Organização.canvas",
     "World Building/Circulo_Elemental.excalidraw.md",
-    "/World Building/Sistema de poder.md",
     "/World Building/Circulo_Elemental.excalidraw.md",
     "World Building",
     "Imagens",

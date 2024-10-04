@@ -1,1 +1,0 @@
-Koreano significa “Grande Coração”
