@@ -79,30 +79,19 @@ Exemplos de Maldição:
 > Algumas maldições persistem depois do indivíduo que a invocou morrer, esse tipo de maldição tem um nível imenso de complexidade.
 ### Transmissão 
 
-<<<<<<< HEAD
-> A técnica de transmissão usa o Éter para modificar o ambiente a sua volta. Diferente dos encantamentos e maldições, a Transmissão é mantida por tempo, ou seja, quanto mais poderoso o usuário for, mais duradoura é a transmissão.
-=======
+> A técnica de transmissão usa o Éter para modificar o ambiente a sua volta. Diferente dos encantamentos e maldições, a Transmissão é mantida por tempo, ou seja, quanto mais poderoso o usuário for, mais duradoura é a transmissão. 
+
 > A técnica de transmissão usa o Éter para modificar o ambiente a sua volta ou imbuir em objeto sua energia. Diferente dos encantamentos e maldições, a Transmissão é mantida por tempo, ou seja, quanto mais poderoso o usuário for, mais duradoura é a transmissão.
->>>>>>> origin/master
+
 
 Exemplos de Transmissão:
 
-
-<<<<<<< HEAD
 | Nome            | Descrição                                                                                                                      | Consumo de Éter |
 | --------------- | ------------------------------------------------------------------------------------------------------------------------------ | --------------- |
 | Atlantis        | Todo o ambiente começa a inundar, rapidamente se transformando em um oceano. Enquanto estiver ativo, controle o nível da água. | Alto            |
 | Ventos Uivantes | Crie um campo cercado de ventos fortes, o usuário pode moldar o formato dessa área da forma que ele quiser.                    | Baixo           |
 |                 |                                                                                                                                |                 |
 
-> Uma Técnica de transmissão pode ser parada caso o usuário seja severamente ferido ou se ele não tiver Éter suficiente para mantê-la.
-=======
-| Transmissão         | Descrição                                                                                                                                                     |
-| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Campos Movediços    | Modifique o solo criando campos erosivos similares a areia movediça                                                                                           |
-| Armadilha Tóxica    | Preencha o ambiente inteiro com gás tóxico, quanto mais for respirado mais incapacita a pessoa                                                                |
-| Atlantis            | Comece lentamente inundar o ambiente, é possível controlar o nível da água, fluxo e a pressão. Quanto maior o fluxo ou a pressão mais rápido consumirá Éter.  |
-| Runas da Destruição | Imbua Éter em 5 objetos diferentes, criando uma marca em cada um. Dispare as runas no alvo, se acertar, a próxima runa tem o dobro de impacto que a anterior. |
 > Objetos imbuídos através da transmissão costumam durar mais do que uma transmissão ambiental.
 
 --- 
@@ -116,4 +105,3 @@ Exemplos de Transmissão:
 * **Interceptação:** Use seu Éter para tentar ler a mente de um ser vivo, caso ele permita a interceptação irá funcionar automaticamente.
 
 * **Bloqueio Mental:** Proteja sua mente de ser interceptada, quanto mais Éter gastar melhor será o bloqueio.
->>>>>>> origin/master

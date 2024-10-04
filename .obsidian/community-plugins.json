@@ -1,6 +1,10 @@
 [
   "obsidian-git",
   "obsidian-excalidraw-plugin",
+<<<<<<< HEAD
   "obsidian-kanban",
   "templater-obsidian"
+=======
+  "obsidian-kanban"
+>>>>>>> origin/master
 ]
