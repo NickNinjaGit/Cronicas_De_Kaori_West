@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "World Building/Sistema de poder.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -40,14 +40,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Personagens/TAE-JUNG.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "World Building/Sistema de poder.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "World Building/Sistema de poder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "World Building/Sistema de poder.md"
               }
             }
           },
@@ -181,30 +180,34 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-kanban:Create new board": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "8e1292ed52c6de42",
+  "active": "0b627b5158ab4266",
   "lastOpenFiles": [
+    "World Building/Circulo_Elemental.excalidraw.md",
+    "World Building/Sistema de poder.md",
+    "World Building/Celestiais.md",
+    "World Building/10 Mestres do Éter.md",
+    "Personagens/KAORI WEST.md",
     "Organização.canvas",
-    "conflict-files-obsidian-git.md",
+    "Untitled.canvas",
+    "Untitled Kanban.md",
+    "Personagens/TAE-JUNG.md",
     "World Building/Sacerdotisas das Chamas Renascentes.md",
+    "Personagens/HANNA WEST.md",
+    "World Building/Dilúvio Elemental.md",
+    "Personagens/CLEVER-ROACH.md",
+    "conflict-files-obsidian-git.md",
     "World Building/Lugares Importantes/Reino Profano (Inferno).md",
     "World Building/Lugares Importantes/Reino dos Renegados.md",
     "World Building/Lugares Importantes/Reino Divino (Céu).md",
     "World Building/Lugares Importantes",
-    "World Building/Dilúvio Elemental.md",
-    "World Building/Celestiais.md",
-    "World Building/10 Mestres do Éter.md",
-    "Personagens/TAE-JUNG.md",
-    "Personagens/HANNA WEST.md",
-    "Personagens/CLEVER-ROACH.md",
-    "World Building/Sistema de poder.md",
-    "World Building/Circulo_Elemental.excalidraw.md",
     "World Building",
     "Imagens/IMG_6643.jpeg",
     "Imagens",
-    "Personagens/KAORI WEST.md",
     "IMG_6643.jpeg",
     "Main Folder/KAORI WEST.md",
     "Personagens",
