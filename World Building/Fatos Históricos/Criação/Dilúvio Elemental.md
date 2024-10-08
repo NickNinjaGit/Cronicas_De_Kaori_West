@@ -1,0 +1,5 @@
+> *O Dilúvio elemental surge de tempos em tempos quando os 4 elementais menores entram em guerra, isso por culpa do Celestial do vazio como citado em [[Celestiais]].*
+
+> *Esse grande evento resulta em um grande cataclisma sobre os 4 reinos (Terra, [[Reino Profano (Inferno)]], [[Reino Divino (Céu)]] e [[Reino dos Renegados]]), na qual faz despertar repentinamente a energia elemental dos seres vivos. Além disso, é a única vez que os reinos se conectam temporariamente na história e começam a surgir grandes desastres naturais sobre o universo.*
+
+> *Porém graças aos Mestres do Éter, nunca que um Dilúvio Elemental foi concluído. Esse feito só foi possível graças aos [[Templos Celestiais]], estruturas construídas por povos antigos que guardam um obelisco para cada um dos celestiais*

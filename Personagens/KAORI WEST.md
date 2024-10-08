@@ -42,7 +42,7 @@
 ### **Profissão:** Gerente de Produção 
 ---
 
-### **Signo:** Escorpião
+### **Signo:** Leão
 ---
 
 ### **Altura:** 1,73m

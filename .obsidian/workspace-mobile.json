@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Building/Celestiais.md",
+                "file": "World Building/Lugares Importantes/Reino Profano (Inferno).md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "World Building/Celestiais.md",
+            "file": "World Building/Lugares Importantes/Reino Profano (Inferno).md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "World Building/Celestiais.md",
+            "file": "World Building/Lugares Importantes/Reino Profano (Inferno).md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "World Building/Celestiais.md"
+            "file": "World Building/Lugares Importantes/Reino Profano (Inferno).md"
           }
         }
       },
@@ -170,12 +170,19 @@
   "active": "78e5efe213fe6a26",
   "lastOpenFiles": [
     "Personagens/KAORI WEST.md",
-    "conflict-files-obsidian-git.md",
-    "World Building/Celestiais.md",
-    "/conflict-files-obsidian-git.md",
-    "World Building/Sistema de poder.md",
+    "World Building/Lugares Importantes/Reino Profano (Inferno)",
     "Personagens/TAIJUN.md",
     "World Building/Organizações Importantes/10 Mestres do Éter.md",
+    "World Building/Fatos Históricos/Criação/Celestiais.md",
+    "World Building/Fatos Históricos/Criação/Dilúvio Elemental.md",
+    "World Building/Sistema de poder.md",
+    "World Building/Lugares Importantes/Reino Profano (Inferno).md",
+    "World Building/Lugares Importantes/Reino Divino (Céu).md",
+    "World Building/Lugares Importantes/Reino dos Renegados.md",
+    "World Building/Fatos Históricos/Criação",
+    "World Building/Fatos Históricos",
+    "conflict-files-obsidian-git.md",
+    "/conflict-files-obsidian-git.md",
     "Personagens/Untitled.md",
     "Personagens/Secundários",
     "Personagens/Antagonistas",
@@ -186,27 +193,19 @@
     "Personagens/Mestres do Éter/ENNARD-MELAHEL.md",
     "Personagens/Mestres do Éter/SIGVARD.md",
     "Personagens/Mestres do Éter/ELEONORA-FIORE.md",
-    "World Building/Dilúvio Elemental.md",
     "Personagens/Mestres do Éter/VICENT-DRAKE.md",
     "VINCENT-DRAKE.md",
-    "World Building/Lugares Importantes/Reino Divino (Céu).md",
     "World Building/Circulo_Elemental.excalidraw.md",
     "Personagens/Mestres do Éter/BAAKO.md",
     "Personagens/Jfeusjsj.md",
     "Personagens/Mestres do Éter/YUJIMA-CHEN.md",
-    "Templates/Template Personagem.md",
     "Organização.canvas",
     "Templates",
-    "Personagens/Mestres do Éter/ALEXANDRE-CLIFFORD.md",
-    "Personagens/Antagonistas/CLEVER-ROACH.md",
     "Personagens/Mestres do Éter",
     "World Building/Organizações Importantes",
     "/World Building/Organizações Importantes",
     "/Personagens/Mestres do Éter",
     "/Organização.canvas",
-    "Excalidraw",
-    "World Building/Lugares Importantes",
-    "World Building",
     "Imagens/IMG_6643.jpeg"
   ]
 }

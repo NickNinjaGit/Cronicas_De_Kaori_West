@@ -40,7 +40,7 @@ Exemplos de Maldição:
 
 > Algumas maldições persistem depois do indivíduo que a invocou morrer, esse tipo de maldição tem um nível imenso de complexidade.
 
-### Transmutação: 
+### Transmutação 
 
 > Combine o seu elemento original com outro elemento para se criar um subelemento, isso não permite o usuário controlar a forma pura do elemento secundário. 
 > 
@@ -95,6 +95,16 @@ Exemplos de Transmissão:
 > Objetos imbuídos através da transmissão costumam durar mais do que uma transmissão ambiental.
 
 --- 
+### Invocação
+
+> A técnica de invocação consiste no usuário usar seu Éter para manifestar uma entidade espiritual no mundo fisico, como animais de poder, espíritos demoníacos e até mesmo a presença de anjos.
+
+> Para se manifestar um espírito é preciso estabelecer uma relação de parceria com ele, onde o seu invocador tem de respeitar e de adequar a personalidade e estilo de combate, a combinação desses dois elementos resulta em uma perfeita sincronia com seu espírito.
+
+> Além disso para se manter o espírito por mais tempo é necessário concentração e um treinamento intensivo de Éter, sendo uma das técnicas mais difíceis de se dominar.
+
+> Mestres especialistas em invocação podem convocar um exército inteiro de espíritos ao seu comando.
+
 ## Usos genéricos do Éter
 > O Éter além é amplamente usado para modificar o elemento puro do dominador elemental. **Porém caso seja usado sozinho ele pode ter utilidade fora de combate:**
 
