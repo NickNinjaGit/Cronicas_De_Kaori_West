@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personagens/Mestres do Éter/ALEXANDRE-CLIFFORD.md",
+                "file": "Personagens/Mestres do Éter/MANUEL-IXCHAJIL.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personagens/Mestres do Éter/ALEXANDRE-CLIFFORD.md",
+                "file": "Personagens/Mestres do Éter/MANUEL-IXCHAJIL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personagens/Mestres do Éter/ALEXANDRE-CLIFFORD.md",
+                "file": "Personagens/Mestres do Éter/MANUEL-IXCHAJIL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personagens/Mestres do Éter/ALEXANDRE-CLIFFORD.md"
+                "file": "Personagens/Mestres do Éter/MANUEL-IXCHAJIL.md"
               }
             }
           },
@@ -146,6 +146,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -157,6 +158,7 @@
   },
   "active": "c258987f7244c3f5",
   "lastOpenFiles": [
+    "Personagens/Mestres do Éter/ALEXANDRE-CLIFFORD.md",
     "Organização.canvas",
     "World Building/Organizações Importantes/10 Mestres do Éter.md",
     "World Building/Organizações Importantes/Sacerdotisas das Chamas Renascentes.md",
@@ -166,7 +168,6 @@
     "Personagens/Mestres do Éter/YUJIMA-CHEN.md",
     "World Building/Sistema de poder.md",
     "Personagens/Mestres do Éter/FLAVIA-TSARA.md",
-    "Personagens/Mestres do Éter/ALEXANDRE-CLIFFORD.md",
     "Personagens/CLEVER-ROACH.md",
     "World Building/Celestiais.md",
     "Personagens/TAIJUN.md",
