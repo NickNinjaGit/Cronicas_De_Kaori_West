@@ -7,44 +7,6 @@
 [[Circulo_Elemental.excalidraw]]
 ## Técnicas de Éter:
 ---
-### Transmutação: 
-
-> Combine o seu elemento original com outro elemento para se criar um subelemento, isso não permite o usuário controlar a forma pura do elemento secundário. 
-> 
-> Além disso, com mais prática sobre a técnica, é possível combinar até 3 elementos, a combinação dos quatro elementos gera no **Caos Elemental** um subelemento quase impossível de se controlar.
-
-| Elemento Primário | Elemento Secundário | Elemento Terciário | Resultado                                    |
-| ----------------- | ------------------- | ------------------ | -------------------------------------------- |
-| Fogo              | Água                | -                  | Vapor                                        |
-| Fogo              | Terra               | -                  | Lava                                         |
-| Fogo              | Vento               | -                  | Fogo ou Vento (Depende do elemento original) |
-| Fogo              | Éter                | -                  | Chama Etérea                                 |
-| Fogo              | Terra               | Água               | Gelo                                         |
-| Fogo              | Água                | Vento              | Névoa Flamejante                             |
-| Fogo              | Vento               | Terra              | Cinzas                                       |
-| ==========        | =========           | =========          | ========                                     |
-| Água              | Terra               | -                  | Planta                                       |
-| Água              | Vento               | -                  | Raio                                         |
-| Água              | Éter                | -                  | Água Etérea                                  |
-| ==========<br>    | ==========<br>      | ==========<br>     | ==========<br>                               |
-| Terra             | Vento               | -                  | Areia                                        |
-| Terra             | Éter                | -                  | Terra Etérea                                 |
-| =========         | =========           | =========          | =========                                    |
-| Vento             | Éter                | -                  | Vento Etéreo                                 |
-| Água              | Terra               | Vento              | Areia Movediça                               |
-
-
-**Chama Etérea**: Chamas que não queimam, mas purificam e transmitem energia.
-
-**Água Etérea**: Uma forma pura e revitalizante de água que cura e restaura.
-
-**Terra Etérea**: Um solo sagrado que potencializa o crescimento e oferece proteção espiritual.
-
-**Vento Etéreo**: Correntes de ar que transportam mensagens ou energias, podendo desorientar inimigos.
-
->*Elementos secundários podem ser combinados com elementos primários, assim gerando uma infinita possibilidade de habilidades baseadas nos 5 Elementos Principais*
----
-
 ### Encantamento
 
 > *A Técnica de encantamento permite o usuário impor um benefício ao elemento puro, em troca de uma certa quantidade de Éter, quanto mais poderoso ou específico for o encantamento mais ele consumirá Éter, se chegar ao seu limite, a pessoa morre *
@@ -77,6 +39,44 @@ Exemplos de Maldição:
 > Maldições podem ser evitadas caso o usuário tenha um encantamento de proteção espiritual, se ele for mais poderoso que a maldição, será bloqueada com sucesso.
 
 > Algumas maldições persistem depois do indivíduo que a invocou morrer, esse tipo de maldição tem um nível imenso de complexidade.
+
+### Transmutação: 
+
+> Combine o seu elemento original com outro elemento para se criar um subelemento, isso não permite o usuário controlar a forma pura do elemento secundário. 
+> 
+> Além disso, com mais prática sobre a técnica, é possível combinar até 3 elementos, a combinação dos quatro elementos gera o **Caos Elemental** um subelemento quase impossível de se controlar.
+
+| Elemento Primário | Elemento Secundário | Elemento Terciário | Resultado                                    |
+| ----------------- | ------------------- | ------------------ | -------------------------------------------- |
+| Fogo              | Água                | -                  | Vapor                                        |
+| Fogo              | Terra               | -                  | Lava                                         |
+| Fogo              | Vento               | -                  | Fogo ou Vento (Depende do elemento original) |
+| Fogo              | Éter                | -                  | Chama Etérea                                 |
+| Fogo              | Terra               | Água               | Gelo                                         |
+| Fogo              | Água                | Vento              | Névoa Flamejante                             |
+| Fogo              | Vento               | Terra              | Cinzas                                       |
+| ==========        | =========           | =========          | ========                                     |
+| Água              | Terra               | -                  | Planta                                       |
+| Água              | Vento               | -                  | Raio                                         |
+| Água              | Éter                | -                  | Água Etérea                                  |
+| ==========<br>    | ==========<br>      | ==========<br>     | ==========<br>                               |
+| Terra             | Vento               | -                  | Areia                                        |
+| Terra             | Éter                | -                  | Terra Etérea                                 |
+| =========         | =========           | =========          | =========                                    |
+| Vento             | Éter                | -                  | Vento Etéreo                                 |
+| Água              | Terra               | Vento              | Areia Movediça                               |
+
+
+**Chama Etérea**: Chamas que não queimam, mas purificam e transmitem energia.
+
+**Água Etérea**: Uma forma pura e revitalizante de água que cura e restaura.
+
+**Terra Etérea**: Um solo sagrado que potencializa o crescimento e oferece proteção espiritual.
+
+**Vento Etéreo**: Correntes de ar que transportam mensagens ou energias, podendo desorientar inimigos.
+
+>*Elementos secundários podem ser combinados com elementos primários, assim gerando uma infinita possibilidade de habilidades baseadas nos 5 Elementos Principais*
+---
 ### Transmissão 
 
 > A técnica de transmissão usa o Éter para modificar o ambiente a sua volta. Diferente dos encantamentos e maldições, a Transmissão é mantida por tempo, ou seja, quanto mais poderoso o usuário for, mais duradoura é a transmissão. 

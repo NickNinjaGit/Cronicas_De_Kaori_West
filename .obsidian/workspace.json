@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9b579d91cab144d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personagens/Mestres do Éter/MANUEL-IXCHAJIL.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personagens/Mestres do Éter/MANUEL-IXCHAJIL.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personagens/Mestres do Éter/MANUEL-IXCHAJIL.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -156,14 +169,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c258987f7244c3f5",
+  "active": "9b579d91cab144d1",
   "lastOpenFiles": [
+    "Personagens/Mestres do Éter/MANUEL-IXCHAJIL.md",
+    "conflict-files-obsidian-git.md",
+    "Templates/Template Personagem.md",
+    "Templates",
+    "Personagens/Secundários/HANNA WEST.md",
+    "Personagens/Secundários",
+    "Personagens/Mestres do Éter/SIGVARD.md",
+    "Personagens/Mestres do Éter/SARAH-QUINTZ.md",
+    "Personagens/Mestres do Éter/EVELYN-RABNOTT.md",
+    "Personagens/Mestres do Éter/ENNARD-MELAHEL.md",
+    "Personagens/Mestres do Éter/ELEONORA-FIORE.md",
+    "Personagens/Mestres do Éter/BAAKO.md",
+    "Personagens/Antagonistas/CLEVER-ROACH.md",
+    "Personagens/Antagonistas",
     "Personagens/Mestres do Éter/ALEXANDRE-CLIFFORD.md",
     "Organização.canvas",
     "World Building/Organizações Importantes/10 Mestres do Éter.md",
     "World Building/Organizações Importantes/Sacerdotisas das Chamas Renascentes.md",
     "World Building/Circulo_Elemental.excalidraw.md",
-    "Personagens/Mestres do Éter/MANUEL-IXCHAJIL.md",
     "World Building/Organizações Importantes",
     "Personagens/Mestres do Éter/YUJIMA-CHEN.md",
     "World Building/Sistema de poder.md",
@@ -173,27 +199,17 @@
     "Personagens/TAIJUN.md",
     "Personagens/Mestres do Éter",
     "World Building/Dilúvio Elemental.md",
-    "conflict-files-obsidian-git.md",
     "Personagens/KAORI WEST.md",
     "Untitled.canvas",
     "Untitled Kanban.md",
     "Personagens/TAE-JUNG.md",
     "Personagens/HANNA WEST.md",
-    "World Building/Lugares Importantes/Reino Profano (Inferno).md",
-    "World Building/Lugares Importantes/Reino dos Renegados.md",
-    "World Building/Lugares Importantes/Reino Divino (Céu).md",
     "World Building/Lugares Importantes",
     "World Building",
     "Imagens/IMG_6643.jpeg",
     "Imagens",
     "IMG_6643.jpeg",
-    "Main Folder/KAORI WEST.md",
     "Personagens",
-    "HGATOEMEÉLE.md",
-    "Main Folder/Drawing 2024-09-21 23.11.28.excalidraw.md",
-    "Main Folder/Second Note.md",
-    "Main Folder/Josias.md",
-    "Elias Furry",
-    "Main Folder"
+    "Elias Furry"
   ]
 }

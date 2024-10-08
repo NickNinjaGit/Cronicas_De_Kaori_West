@@ -1,5 +1,12 @@
 [
   "obsidian-git",
+<<<<<<< HEAD
   "obsidian-icon-folder",
   "templater-obsidian"
+=======
+  "obsidian-excalidraw-plugin",
+  "templater-obsidian",
+  "obsidian-kanban",
+  "obsidian-icon-folder"
+>>>>>>> origin/master
 ]

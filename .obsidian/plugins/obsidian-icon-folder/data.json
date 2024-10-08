@@ -5,7 +5,17 @@
     "fontSize": 16,
     "emojiStyle": "native",
     "iconColor": null,
+<<<<<<< HEAD
     "recentlyUsedIcons": [],
+=======
+    "recentlyUsedIcons": [
+      "LiAtom",
+      "❤️‍🔥",
+      "🔥",
+      "LiShell",
+      "☁"
+    ],
+>>>>>>> origin/master
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -26,5 +36,41 @@
     "iconIdentifier": ":",
     "lucideIconPackType": "native",
     "debugMode": false
+<<<<<<< HEAD
+=======
+  },
+  "Personagens/Mestres do Éter": {
+    "iconName": "LiAperture",
+    "iconColor": "#00fffc"
+  },
+  "World Building/Organizações Importantes/10 Mestres do Éter.md": {
+    "iconName": "LiAperture",
+    "iconColor": "#00fbf0"
+  },
+  "World Building/Organizações Importantes/Sacerdotisas das Chamas Renascentes.md": "❤️‍🔥",
+  "World Building/Organizações Importantes": {
+    "iconName": "LiFlag",
+    "iconColor": "#fb9100"
+  },
+  "World Building/Lugares Importantes": "🏝",
+  "Personagens/Antagonistas": "🦹",
+  "Personagens/Secundários": "👨‍👨‍👦",
+  "Personagens/KAORI WEST.md": "❤️‍🔥",
+  "Personagens/Secundários/HANNA WEST.md": "❤️‍🔥",
+  "Personagens/TAIJUN.md": "✝",
+  "Personagens": {
+    "iconName": "LiPersonStanding",
+    "iconColor": "#e84b26"
+  },
+  "Imagens": "LiImage",
+  "Templates": "LiAlignJustify",
+  "World Building": "🌎",
+  "World Building/Celestiais.md": "⭐",
+  "World Building/Lugares Importantes/Reino Divino (Céu).md": "☁",
+  "World Building/Lugares Importantes/Reino Profano (Inferno).md": "🔥",
+  "World Building/Lugares Importantes/Reino dos Renegados.md": {
+    "iconName": "LiAtom",
+    "iconColor": "#00dbd5"
+>>>>>>> origin/master
   }
 }

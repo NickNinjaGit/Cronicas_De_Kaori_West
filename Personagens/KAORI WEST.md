@@ -68,10 +68,6 @@
 > Hanna viveu um curto período de tempo com sua família pois Lúcifer descobriu que ela havia traído sua confiança, furioso ele mandou que demônios fossem em sua caça, prometendo uma grande recompensa aquele que matar a traidora do inferno, temendo que sua filha estivesse em perigo a mulher explicou a situação ao seu marido e disse para que nunca contasse a Kaori sobre seu passado, afim de livrar a filha do perigo eminente. Antes de partir Hana deixou a pedra de âmbar com sua filha, com o intuito de protege-lá se um dia ocorresse algo. Além disso, com a ajuda de suas habilidades de sacerdotisa ela selou o poder de Kaori por 20 anos.
 
 
---- 
-
----
-
 ---
 ## Arquétipo do Órfão
 --- 

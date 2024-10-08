@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personagens/Mestres do Éter/FLAVIA-TSARA.md",
+                "file": "World Building/Celestiais.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Personagens/KAORI WEST.md",
+            "file": "World Building/Celestiais.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Personagens/KAORI WEST.md",
+            "file": "World Building/Celestiais.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Personagens/KAORI WEST.md"
+            "file": "World Building/Celestiais.md"
           }
         }
       },
@@ -162,48 +162,51 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "4d8922ba5087d13d",
+  "active": "78e5efe213fe6a26",
   "lastOpenFiles": [
-    "World Building/Organizações Importantes/10 Mestres do Éter.md",
-    "Personagens/Mestres do Éter/ALEXANDRE-CLIFFORD.md",
-    "Personagens/Mestres do Éter/YUJIMA-CHEN.md",
-    "Personagens/Mestres do Éter/MANUEL-IXCHAJIL.md",
-    "Personagens/Mestres do Éter/FLAVIA-TSARA.md",
-    "Organização.canvas",
     "World Building/Sistema de poder.md",
-    "World Building/10 Mestres do Éter.md",
+    "World Building/Celestiais.md",
+    "Personagens/KAORI WEST.md",
+    "Personagens/TAIJUN.md",
+    "World Building/Organizações Importantes/10 Mestres do Éter.md",
+    "Personagens/Untitled.md",
+    "Personagens/Secundários",
+    "Personagens/Antagonistas",
+    "Personagens/Mestres do Éter/SARAH-QUINTZ.md",
+    "World Building/Organizações Importantes/Sacerdotisas das Chamas Renascentes.md",
+    "Personagens/Mestres do Éter/EVELYN-RABNOTT.md",
+    "EVELYN-RABNOTT.md",
+    "Personagens/Mestres do Éter/ENNARD-MELAHEL.md",
+    "Personagens/Mestres do Éter/SIGVARD.md",
+    "Personagens/Mestres do Éter/ELEONORA-FIORE.md",
+    "World Building/Dilúvio Elemental.md",
+    "Personagens/Mestres do Éter/VICENT-DRAKE.md",
+    "VINCENT-DRAKE.md",
+    "World Building/Lugares Importantes/Reino Divino (Céu).md",
+    "World Building/Circulo_Elemental.excalidraw.md",
+    "Personagens/Mestres do Éter/BAAKO.md",
+    "Personagens/Jfeusjsj.md",
+    "Personagens/Mestres do Éter/YUJIMA-CHEN.md",
+    "Templates/Template Personagem.md",
+    "Organização.canvas",
+    "Templates",
+    "Personagens/Mestres do Éter/ALEXANDRE-CLIFFORD.md",
+    "Personagens/Antagonistas/CLEVER-ROACH.md",
+    "Personagens/Mestres do Éter/MANUEL-IXCHAJIL.md",
     "Personagens/Mestres do Éter",
     "World Building/Organizações Importantes",
-    "World Building/Organizações Importantes/Sacerdotisas das Chamas Renascentes.md",
-    "/World Building/Organizações Importantes/10 Mestres do Éter.md",
-    "/Personagens/Mestres do Éter/YUJIMA-CHEN.md",
-    "/Personagens/Mestres do Éter/MANUEL-IXCHAJIL.md",
-    "/World Building/Organizações Importantes/Sacerdotisas das Chamas Renascentes.md",
-    "/Personagens/Mestres do Éter/FLAVIA-TSARA.md",
-    "/Personagens/Mestres do Éter/ALEXANDRE-CLIFFORD.md",
     "/World Building/Organizações Importantes",
     "/Personagens/Mestres do Éter",
-    "Personagens/KAORI WEST.md",
     "/Organização.canvas",
-    "Personagens/HANNA WEST.md",
-    "Personagens/TAIJUN.md",
-    "Personagens/CLEVER-ROACH.md",
-    "/World Building/Sistema de poder.md",
-    "Excalidraw/Drawing 2024-09-27 22.45.45.excalidraw.md",
     "Excalidraw",
-    "World Building/Lugares Importantes/Reino dos Renegados.md",
-    "World Building/Lugares Importantes/Reino Profano (Inferno).md",
-    "World Building/Lugares Importantes/Reino Divino (Céu).md",
-    "World Building/Celestiais.md",
     "World Building/Lugares Importantes",
-    "World Building/Dilúvio Elemental.md",
     "World Building",
-    "Imagens",
-    "Imagens/IMG_6643.jpeg",
-    "Outra pasta",
-    "Elias Furry"
+    "Imagens/IMG_6643.jpeg"
   ]
 }
