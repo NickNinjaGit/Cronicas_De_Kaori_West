@@ -4,7 +4,7 @@
 
 > *Um dominador elemental pode aprender a conectar seu elemento com o Éter, isso permite que o usuário possa modificar seu elemento original, podendo assim se criar um estilo próprio. Este estilo próprio é denominado Técnica de Éter.*
 ---
-   [[Circulo_Elemental.excalidraw]]
+[[Circulo_Elemental.excalidraw]]
 ## Técnicas de Éter:
 ---
 ### Encantamento

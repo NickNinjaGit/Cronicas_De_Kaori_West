@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Personagens/Secundários/HANNA WEST.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "conflict-files-obsidian-git.md",
+            "file": "Personagens/KAORI WEST.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "conflict-files-obsidian-git.md",
+            "file": "Personagens/KAORI WEST.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "conflict-files-obsidian-git.md"
+            "file": "Personagens/KAORI WEST.md"
           }
         }
       },
@@ -164,17 +164,16 @@
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "templater-obsidian:Templater": false,
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "78e5efe213fe6a26",
+  "active": "4d8922ba5087d13d",
   "lastOpenFiles": [
-    "World Building/Celestiais.md",
+    "Personagens/KAORI WEST.md",
     "conflict-files-obsidian-git.md",
+    "World Building/Celestiais.md",
     "/conflict-files-obsidian-git.md",
     "World Building/Sistema de poder.md",
-    "Personagens/KAORI WEST.md",
     "Personagens/TAIJUN.md",
     "World Building/Organizações Importantes/10 Mestres do Éter.md",
     "Personagens/Untitled.md",
