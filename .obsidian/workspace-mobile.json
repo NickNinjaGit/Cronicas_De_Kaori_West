@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personagens/Secundários/HANNA WEST.md",
+                "file": "World Building/Celestiais.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Personagens/KAORI WEST.md",
+            "file": "World Building/Celestiais.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Personagens/KAORI WEST.md",
+            "file": "World Building/Celestiais.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Personagens/KAORI WEST.md"
+            "file": "World Building/Celestiais.md"
           }
         }
       },
@@ -167,7 +167,7 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "4d8922ba5087d13d",
+  "active": "78e5efe213fe6a26",
   "lastOpenFiles": [
     "Personagens/KAORI WEST.md",
     "conflict-files-obsidian-git.md",
