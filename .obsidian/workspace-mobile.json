@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Building/Celestiais.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "World Building/Celestiais.md",
+            "file": "conflict-files-obsidian-git.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "World Building/Celestiais.md",
+            "file": "conflict-files-obsidian-git.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "World Building/Celestiais.md"
+            "file": "conflict-files-obsidian-git.md"
           }
         }
       },
@@ -170,8 +170,10 @@
   },
   "active": "78e5efe213fe6a26",
   "lastOpenFiles": [
-    "World Building/Sistema de poder.md",
     "World Building/Celestiais.md",
+    "conflict-files-obsidian-git.md",
+    "/conflict-files-obsidian-git.md",
+    "World Building/Sistema de poder.md",
     "Personagens/KAORI WEST.md",
     "Personagens/TAIJUN.md",
     "World Building/Organizações Importantes/10 Mestres do Éter.md",
@@ -198,7 +200,6 @@
     "Templates",
     "Personagens/Mestres do Éter/ALEXANDRE-CLIFFORD.md",
     "Personagens/Antagonistas/CLEVER-ROACH.md",
-    "Personagens/Mestres do Éter/MANUEL-IXCHAJIL.md",
     "Personagens/Mestres do Éter",
     "World Building/Organizações Importantes",
     "/World Building/Organizações Importantes",
