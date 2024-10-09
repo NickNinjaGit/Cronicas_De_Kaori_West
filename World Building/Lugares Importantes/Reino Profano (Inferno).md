@@ -16,13 +16,14 @@
 ## Camadas do Inferno:
 
 ### Vale de Ossos
-> Entrada do Inferno, um lugar onde o chão é literalmente feito de ossos, demônios selvagens a espreita por aqui, pequenas tribos e ninhos. Para se alcançar a Penumbra é necessário descer por um grande vale com uma névoa intensa e derrotar a serpente de ossos.
+> A entrada do Inferno, um lugar onde o chão é literalmente feito de ossos, demônios selvagens a espreita por aqui, pequenas tribos e ninhos. Para se alcançar a Penumbra é necessário descer por um grande vale com uma névoa densa e derrotar a grande serpente de ossos que guarda a passagem.
 ### Penumbra
-> Após cruzar o Vale de Ossos, começara a surgir um imenso oceano negro, na qual carrega aquela névoa do cenário anterior, seguindo adiante é possível encontrar algumas ilhas remotas, parecem desertas porém guardam bestas sombrias muito poderosas, para se continuar o caminho é preciso passar por uma delas. Além disso aqui habita um misterioso povoado de seres feitos de sombra. Para se alcançar o Asfodélo é necessário cruzar o Mar Negro até chegar em uma extensa cachoeira, aqui é uma queda profunda que depois de muito tempo joga quem passa por aqui na Arena dos Demônios de Rocha.
+> Após cruzar o Vale de Ossos, começara a surgir um imenso oceano negro, na qual carrega aquela névoa do cenário anterior, seguindo adiante é possível encontrar algumas ilhas remotas, parecem desertas porém guardam bestas sombrias muito poderosas, para se continuar o caminho é preciso passar por uma delas. Além disso aqui habita um misterioso povoado de seres feitos de sombra. Para se alcançar o Asfodélo é necessário cruzar o Mar Negro até chegar em uma extensa cachoeira, aqui é uma queda profunda que depois de muito tempo levará quem passa por aqui ao Asfodélo
 
 ### Asfodélo
 
+> Após passar pela Penumbra, por essa passagem chegará até o Coliseu de Tártarus, onde demônios prisioneiros lutam por sua liberdade, esse coliseu fica numa ilha remota que só possível sair de barco. Depois de atravessar o mar de lava, finalmente chegaremos no Reino Profano de fato, onde Lúcifer tem seu castelo ao redor da cidade dos demônios. Além disso vale citar que fora do reino há alguns povoados menores e o habitat de bestas demoníacas. Para se chegar aos Campos de Carne, é necessário ir mais fundo ainda, ou acessar os portões do flagelo.
+
 ### Campos de Carne
 
-
-
+> Esta é a última camada do Inferno, onde os demônios são mandados para trabalhar quando são severamente punidos, praticamente um lugar sem vida, aqui também está localizado o Templo Celestial do fogo, responsável por controlar sua presença durante o [[Dilúvio Elemental]]

@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "World Building/Lugares Importantes/Reino Profano (Inferno).md",
-                "mode": "source",
+                "file": "World Building/Lugares Importantes/Reino Divino (Céu).md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -110,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "World Building/Lugares Importantes/Reino Profano (Inferno).md",
+            "file": "World Building/Lugares Importantes/Reino Divino (Céu).md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "World Building/Lugares Importantes/Reino Profano (Inferno).md",
+            "file": "World Building/Lugares Importantes/Reino Divino (Céu).md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -139,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "World Building/Lugares Importantes/Reino Profano (Inferno).md"
+            "file": "World Building/Lugares Importantes/Reino Divino (Céu).md"
           }
         }
       },
@@ -169,14 +169,15 @@
   },
   "active": "78e5efe213fe6a26",
   "lastOpenFiles": [
-    "Personagens/KAORI WEST.md",
-    "World Building/Lugares Importantes/Reino Profano (Inferno)",
+    "World Building/Lugares Importantes/Reino Profano (Inferno).md",
     "Personagens/TAIJUN.md",
+    "Personagens/KAORI WEST.md",
+    "Untitled.md",
+    "World Building/Lugares Importantes/Reino Profano (Inferno)",
     "World Building/Organizações Importantes/10 Mestres do Éter.md",
     "World Building/Fatos Históricos/Criação/Celestiais.md",
     "World Building/Fatos Históricos/Criação/Dilúvio Elemental.md",
     "World Building/Sistema de poder.md",
-    "World Building/Lugares Importantes/Reino Profano (Inferno).md",
     "World Building/Lugares Importantes/Reino Divino (Céu).md",
     "World Building/Lugares Importantes/Reino dos Renegados.md",
     "World Building/Fatos Históricos/Criação",
