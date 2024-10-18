@@ -4,15 +4,24 @@
 
 ## Atuais mestres do Éter:
 
-[[YUJIMA-CHEN]] - Especialista em Encantamentos de Fortificação.
+[[YUJIMA-CHEN]] - Especialista em Encantamentos de Combate.
+
 [[ALEXANDRE-CLIFFORD]] - Especialista em Encantamentos de Proteção.
+
 [[FLAVIA-TSARA]] - Especialista em Encantamentos de Cura.
+
 [[MANUEL-IXCHAJIL]] - Especialista em Transmutação.
+
 [[ELEONORA-FIORE]] - Especialista em Transmissão.
+
 [[BAAKO]] - Especialista em Invocação.
+
 [[SIGVARD]] - Especialista em Maldições Ilusórias.
-[[EVELYN-RABNOTT]] - Especialista em Maldições Necróticas
+
+[[EVELYN-RABNOTT]] - Especialista em Maldições Necróticas.
+
 [[SARAH-QUINTZ]] - Especialista em Maldições de Manipulação.
+
 [[ENNARD-MELAHEL]] - Especialista em Maldições de Pacto.
 
 
