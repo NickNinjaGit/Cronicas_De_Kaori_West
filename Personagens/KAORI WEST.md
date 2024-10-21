@@ -9,8 +9,6 @@
 * Pragmática 
 * Protetora 
 * Sofisticada 
-* Autoconsiente.
-
 ### **Extroversão:** Ambivertida
 
 ### **Gostos:** 

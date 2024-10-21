@@ -18,7 +18,7 @@
 ### Vale de Ossos
 > A entrada do Inferno, um lugar onde o chão é literalmente feito de ossos, demônios selvagens a espreita por aqui, pequenas tribos e ninhos. Para se alcançar a Penumbra é necessário descer por um grande vale com uma névoa densa e derrotar a grande serpente de ossos que guarda a passagem.
 ### Penumbra
-> Após cruzar o Vale de Ossos, começara a surgir um imenso oceano negro, na qual carrega aquela névoa do cenário anterior, seguindo adiante é possível encontrar algumas ilhas remotas, parecem desertas porém guardam bestas sombrias muito poderosas, para se continuar o caminho é preciso passar por uma delas. Além disso aqui habita um misterioso povoado de seres feitos de sombra. Para se alcançar o Asfodélo é necessário cruzar o Mar Negro até chegar em uma extensa cachoeira, aqui é uma queda profunda que depois de muito tempo levará quem passa por aqui ao Asfodélo
+> Após cruzar o Vale de Ossos, começara a surgir um imenso oceano negro, na qual carrega aquela névoa do cenário anterior, seguindo adiante é possível encontrar algumas ilhas remotas, parecem desertas porém guardam bestas sombrias muito poderosas, para se continuar o caminho é preciso passar por uma delas. Além disso aqui habita um misterioso povoado de seres feitos de sombra. Para se alcançar o Asfodélo é necessário cruzar o Mar Negro até chegar em uma extensa cachoeira, aqui é uma queda profunda que depois de muito tempo levará quem passa por aqui ao Asfodélo.
 
 ### Asfodélo
 
