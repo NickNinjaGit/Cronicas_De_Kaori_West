@@ -51,9 +51,11 @@
 ---
 ## Backstory
 #backstory
-> Kaori West nasceu na Califórnia em Sacramento, onde teve uma infância sem dificuldades, porém foi criada protegida de tudo, ela passou sua infância sem a presença de sua mãe, segundo seu pai ela foi morta em um acidente de carro, por conta disso era meio tímida e insegura na infância, porém desde cedo contava com um raciocínio elevado e curiosidade para aprender.
+> Kaori West nasceu no Brasil em São Paulo, onde cresceu na Liberdade sem complicações, entretanto foi criada protegida de tudo e todos. Além disso, ela passou sua infância sem a presença de uma figura materna, segundo seu pai, sua mãe faleceu em um acidente de carro, por conta disso a garota fora meio tímida e insegura na infância,  porém ela se mostrou esperta desde cedo por conta de seu raciocínio rápido e curiosidade de aprender.
 ---
-> Já na juventude, ela se destacou muito na escola sendo uma aluna exemplar, entretanto para a garota foi difícil se enturmar e confiar nas pessoas, mesmo assim nunca deixou de ser prestativa e respeitosa com seus colegas. Apesar dos problemas da infância, ela não se abalou, continuou seus estudos e se formou como Engenheira da Produção, onde começou a trabalhar como consultora prestando serviços para pequenas empresas, e rapidamente recebeu propostas para trabalhar com grandes empresas.
+> Já na juventude, ela se destacou muito na escola sendo uma aluna exemplar, entretanto para a garota fora difícil se enturmar e confiar nas pessoas, mesmo assim nunca deixou de ser prestativa e respeitosa com seus colegas. Apesar dos problemas da infância, ela não se abalou, continuou seus estudos e se formou como Engenheira da Produção, onde começou a trabalhar como consultora prestando serviços para pequenas empresas, e rapidamente recebeu propostas para trabalhar com grandes corporações.
+--- 
+> Hoje em dia Kaori trabalha no exterior prestando seus serviços para institutos e pesquisa e grandes setores da produção internacionais, nesse período ela conheceu seu atual chefe, Francis Garcia, e logo criou uma boa relação com ele justamente por ter muito em comum., Kaori também se tornou grande amiga da filha dele, Kate Garcia, que havia nascido no exterior porém mostrou uma enorme paixão pela cultura brasileira, e por isso e outros gostos em comum elas se deram muito bem.
 --- 
 > Apesar de ser comunicativa, ela confia em poucas pessoas e não se abre muito sobre sua vida, e na maioria de seu tempo livre ela reserva pra si.
 --- 
@@ -63,7 +65,7 @@
 ---
 > Ela se misturou entre os humanos e conheceu Martin West, um grande empresário que havia encontrado por acaso quando ele tentou evitar um assalto que ela sofria, mesmo corajoso foi Hanna quem resolveu a situação com bastante facilidade. Com o tempo os dois foram se falando e começaram uma relação. Depois de alguns anos tiveram Kaori, que foi nomeada assim em homenagem a mãe de Hanna (Saori).
 ---
-> Hanna viveu um curto período de tempo com sua família pois Lúcifer descobriu que ela havia traído sua confiança, furioso ele mandou que demônios fossem em sua caça, prometendo uma grande recompensa aquele que matar a traidora do inferno, temendo que sua filha estivesse em perigo a mulher explicou a situação ao seu marido e disse para que nunca contasse a Kaori sobre seu passado, afim de livrar a filha do perigo eminente. Antes de partir Hana deixou a pedra de âmbar com sua filha, com o intuito de protege-lá se um dia ocorresse algo. Além disso, com a ajuda de suas habilidades de sacerdotisa ela selou o poder de Kaori por 20 anos.
+> Hanna viveu um curto período de tempo com sua família pois Lúcifer descobriu que ela havia traído sua confiança, furioso ele mandou que demônios fossem em sua caça, prometendo uma grande recompensa aquele que matar a traidora do inferno. Temendo que sua filha estivesse em perigo a mulher explicou a situação a Martin e disse para que nunca contasse a Kaori sobre seu passado, afim de livrar a filha do perigo eminente. Antes de partir Hana deixou a pedra de âmbar com sua filha, com o intuito de protege-lá se um dia ocorresse algo. Além disso, com a ajuda de suas habilidades de sacerdotisa ela selou o poder de Kaori por 20 anos.
 
 
 ---
