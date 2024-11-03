@@ -13,11 +13,14 @@
 
 ### **Gostos:** 
 --- 
-* Leitura
-* Assistir Séries e Filmes 
+* Livros - Harry Potter, Lovecraft, Os Sete
+* Assistir Séries, Filmes e Animes - Supernatural, Vingadores, The Office, One Piece, Yu hakusho, Hunter x Hunter, Dragon Ball.
+* Gostos Musicais - Rock, POP, MPB.
+* Artistas Favoritos - Sepultura, Angra, Queen, Red Hot Chilli Peppers, Tribalistas, Elis Regina, Legião Urbana, Michael Jackson, Bruno Mars
 * Caminhar 
+* Fazer Academia
 * Jogar Tênis 
-* Culinária Japonesa e Italiana
+* Culinária Japonesa e Brasileira
 
 ### **Desgostos:** 
 ---
@@ -50,25 +53,37 @@
 
 ---
 ## Backstory
-#backstory
-> Kaori West nasceu no Brasil em São Paulo, onde cresceu na Liberdade sem complicações, entretanto foi criada protegida de tudo e todos. Além disso, ela passou sua infância sem a presença de uma figura materna, segundo seu pai, sua mãe faleceu em um acidente de carro, por conta disso a garota fora meio tímida e insegura na infância,  porém ela se mostrou esperta desde cedo por conta de seu raciocínio rápido e curiosidade de aprender.
----
-> Já na juventude, ela se destacou muito na escola sendo uma aluna exemplar, entretanto para a garota fora difícil se enturmar e confiar nas pessoas, mesmo assim nunca deixou de ser prestativa e respeitosa com seus colegas. Apesar dos problemas da infância, ela não se abalou, continuou seus estudos e se formou como Engenheira da Produção, onde começou a trabalhar como consultora prestando serviços para pequenas empresas, e rapidamente recebeu propostas para trabalhar com grandes corporações.
+#backstory 
+#### Infância 
+ >  Kaori Silva Matsuda nasceu e cresceu no bairro da Liberdade, em São Paulo, uma área conhecida pela presença marcante da cultura japonesa e pela diversidade que enche suas ruas de tradições e histórias. Criada pelo pai, Martin Silva, um homem amoroso e dedicado, Kaori sempre sentiu a ausência de sua mãe, Hanna Matsuda, que, segundo o pai, havia morrido em um acidente quando ela era apenas um bebê. Essa perda, misteriosa e envolta em poucas lembranças, deixava uma sensação de vazio que a acompanhava, reforçando nela uma natural introspecção e uma curiosidade sobre sua própria origem.
 --- 
-> Hoje em dia Kaori trabalha no exterior prestando seus serviços para institutos e pesquisa e grandes setores da produção internacionais, nesse período ela conheceu seu atual chefe, Francis Garcia, e logo criou uma boa relação com ele justamente por ter muito em comum., Kaori também se tornou grande amiga da filha dele, Kate Garcia, que havia nascido no exterior porém mostrou uma enorme paixão pela cultura brasileira, e por isso e outros gostos em comum elas se deram muito bem.
---- 
-> Apesar de ser comunicativa, ela confia em poucas pessoas e não se abre muito sobre sua vida, e na maioria de seu tempo livre ela reserva pra si.
---- 
-> O que ela não sabe é que seu passado está assolado de mistérios e misticismo, do contrário do que foi dito a ela, sua mãe além de estar viva não é humana, na verdade ela é um demônio herdeira de Lucifer, além disso ela faz parte de uma linhagem de sacerdotisas das chamas que Kaori também herda. Hanna foi a escolhida para governar o inferno, o que significava ter que lidar com um poder imenso sobre suas mãos. Ela recusou pois não queria carregar o fardo de receber os pecados da humanidade pra si, e por isso e razões de tamanha injustiça com as almas humanas no inferno, ela elaborou um plano para fugir do submundo. Ela escondeu sua identidade e enganou os guardiões das chaves do inferno as roubando.
----
-> Com as chaves roubadas e com a que ela protegia, Hanna abriu os portões do inferno, liberando muitos demônios para Terra. Ao longo dos anos ela escondeu as chaves por todo o mundo, a fim de evitar que um mal possa cair sobre os humanos, e deixou a sua chave (uma pedra de âmbar polida) aos cuidados de Kaori.
----
-> Ela se misturou entre os humanos e conheceu Martin West, um grande empresário que havia encontrado por acaso quando ele tentou evitar um assalto que ela sofria, mesmo corajoso foi Hanna quem resolveu a situação com bastante facilidade. Com o tempo os dois foram se falando e começaram uma relação. Depois de alguns anos tiveram Kaori, que foi nomeada assim em homenagem a mãe de Hanna (Saori).
----
-> Hanna viveu um curto período de tempo com sua família pois Lúcifer descobriu que ela havia traído sua confiança, furioso ele mandou que demônios fossem em sua caça, prometendo uma grande recompensa aquele que matar a traidora do inferno. Temendo que sua filha estivesse em perigo a mulher explicou a situação a Martin e disse para que nunca contasse a Kaori sobre seu passado, afim de livrar a filha do perigo eminente. Antes de partir Hana deixou a pedra de âmbar com sua filha, com o intuito de protege-lá se um dia ocorresse algo. Além disso, com a ajuda de suas habilidades de sacerdotisa ela selou o poder de Kaori por 20 anos.
+> Martin criou Kaori com um carinho imenso e tentou manter vivas as tradições da família de sua esposa. As memórias culturais foram se misturando ao cotidiano: Kaori frequentava aulas de nihongo (japonês) nos finais de semana e adorava participar das festividades da Liberdade, como o Tanabata Matsuri e o Ano Novo Lunar. Martin incentivava essa conexão com a cultura japonesa, esperando que isso mantivesse algo da memória de Hanna viva em Kaori, ainda que a jovem sentisse que faltava uma peça importante para completar sua identidade.
 
+  
 
+#### Adolescência e Carreira Acadêmica
+--- 
+> Na adolescência, Kaori se destacou nos estudos, demonstrando uma mente analítica e uma dedicação acima da média. Discreta e tímida, ela nunca gostou de ser o centro das atenções, mas seu compromisso com a excelência acadêmica e a natural inteligência a tornaram conhecida entre colegas e professores. Ela construiu um pequeno círculo de amigos, que sempre a valorizavam por sua lealdade e honestidade, mas sua confiança era difícil de se conquistar por completo. Essa reserva, em parte, vinha da sensação de que algo em sua história estava oculto, como se uma camada invisível separasse Kaori do restante das pessoas.
+--- 
+> Após o colégio, Kaori decidiu cursar Engenharia de Produção, um campo em que pôde explorar seu raciocínio lógico e sua natureza meticulosa. Com o tempo, ela se especializou na área de consultoria, ajudando empresas a otimizarem processos e a resolverem problemas complexos. Logo, seu nome começou a ser reconhecido, e ela passou a receber propostas de grandes corporações e projetos internacionais.
+#### Vida Profissional e Amizades no Exterior
+
+> Atualmente, Kaori atua como consultora em diversos países, especialmente para institutos de pesquisa e setores tecnológicos. Durante esse período, ela conheceu Francis Garcia, um empresário brasileiro radicado no exterior. Francis tornou-se um amigo próximo e a apresentou a sua filha, Kate Garcia, uma jovem que, embora criada fora do Brasil, tinha grande interesse em sua cultura de origem. A amizade entre Kaori e Kate cresceu naturalmente, com as duas dividindo histórias e experiências de suas infâncias e de suas raízes familiares.
 ---
+   > Apesar de bem-sucedida e respeitada no ambiente profissional, Kaori mantém uma postura reservada, preferindo passar seu tempo livre em atividades que lhe tragam paz e introspecção. Caminhadas, leituras e a prática de esportes são seus passatempos favoritos, onde ela encontra um equilíbrio para lidar com a pressão e o ritmo acelerado da carreira.
+
+#### O Passado Oculto: A Linhagem Infernal e das Chamas Renascentes
+---
+> O que Kaori não sabe é que o passado de sua mãe, Hanna, está enraizado em duas linhagens poderosas e conflitantes: uma infernal, descendente direta de Lúcifer, e outra, espiritual, das Sacerdotisas das Chamas Renascentes. Essa dualidade em Hanna a colocou em uma posição singular, carregando tanto uma herança demoníaca quanto a conexão com uma ordem ancestral de mulheres devotas à renovação, ao equilíbrio e às energias do fogo purificador.
+---
+  > Antes do nascimento de Kaori, Hanna foi designada a um papel crucial nos domínios infernais. Herdando o direito e o poder de governar as regiões sombrias, ela deveria cumprir os desígnios de sua linhagem infernal. No entanto, o lado das Sacerdotisas das Chamas Renascentes fez com que Hanna visse o sofrimento eterno como algo contrário à sua essência e aos ensinamentos de sua linhagem espiritual. Decidida a desafiar esse destino, ela escolheu abandonar o inferno e seu papel nele.
+---
+ > A fuga de Hanna, no entanto, não foi simples. Ela desafiou Lúcifer, roubando artefatos místicos conhecidos como as “chaves do inferno”, objetos que selavam as entradas e saídas do submundo, para evitar que os demônios fossem usados como peões em jogos de poder. Um desses artefatos era uma pedra de âmbar polida, que Hanna trouxe consigo como proteção. Ao chegar ao mundo humano, foi durante essa fuga que Hanna conheceu Martin Alves, que, sem saber de sua natureza mística, tentou protegê-la de um ataque. A conexão entre os dois foi imediata, e Hanna escolheu permanecer ao seu lado, buscando viver uma vida normal e afastada dos reinos infernais.
+---
+ > Com o nascimento de Kaori, Hanna sabia que sua filha carregaria parte de sua herança mística. Para proteger a criança das forças infernais que a perseguiam, Hanna selou os poderes de Kaori na pedra de âmbar e deixou o artefato com a filha, pedindo a Martin que a criasse sem contato com o sobrenatural. Sabendo que sua presença colocaria ambos em perigo, ela partiu, mantendo-se nas sombras para proteger a filha e o marido.
+---
+  >Kaori, portanto, cresceu sem saber que, ao completar vinte anos, o selo da pedra de âmbar começaria a se romper, despertando lentamente os poderes herdados das duas linhagens de sua mãe. Hanna, por sua vez, permanece à distância, esperando que Kaori esteja preparada para enfrentar a verdade sobre sua origem e decidir qual caminho seguirá, seja em relação ao legado infernal ou ao das Chamas Renascentes.
+
 ## Arquétipo do Órfão
 --- 
 ### **Características:**
