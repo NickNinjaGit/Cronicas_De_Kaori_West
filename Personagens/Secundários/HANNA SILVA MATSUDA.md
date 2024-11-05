@@ -11,9 +11,31 @@
 
 ### **Gostos:**
 
+* Pintura 
+* Arte
+* Tocar instrumentos Clássicos: (Violino, Piano, Flauta)
+* Fazer trilha
+* Meditação
+* Ler
+
 ### **Desgostos:**
 
+- **Ambição desmedida e egoísmo**: Hanna despreza pessoas que colocam suas ambições acima do bem-estar dos outros, especialmente porque ela já viu os efeitos devastadores da ganância em seu passado.
+---
+- **Agressividade e falta de empatia**: Como uma pessoa profundamente empática, Hanna se sente desconfortável perto de quem não se importa com os sentimentos dos outros ou age de maneira agressiva e impulsiva.
+---
+- **Abuso de poder e manipulação**: Hanna tem uma aversão natural a quem usa seu poder ou influência para manipular ou prejudicar os mais vulneráveis, refletindo uma oposição ao seu passado demoníaco e ao abuso de poder que viu ao lado de Lúcifer.
+---
+- **Negligência com a natureza**: Tendo gosto por trilhas e meditação, ela se incomoda com quem desrespeita o meio ambiente e a tranquilidade que a natureza proporciona.
+
 ### **Ideais:**
+
+- **Proteger os inocentes**: Hanna sente a responsabilidade de usar seus poderes e sua sabedoria para proteger os que não podem se defender sozinhos, especialmente agora que está fora do inferno.
+---
+- **Buscar redenção e equilíbrio**: Consciente de seu passado sombrio, Hanna busca equilibrar as forças do bem e do mal, servindo como um agente de harmonia entre os dois mundos.
+---
+- **Cultivar a beleza e a paz**: Ela acredita que a arte e a música são forças restauradoras que podem ajudar a trazer paz e compreensão, algo que tenta compartilhar sempre que possível.
+
 
 ### **Signo:** Peixes
 

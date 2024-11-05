@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🦸",
+      "🔥",
       "✊",
       "🧑",
-      "⭐",
-      "❤️‍🔥",
-      "LiAperture"
+      "⭐"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -39,10 +39,6 @@
     "iconColor": "#ff0000"
   },
   "Personagens/Antagonistas": "🦹",
-  "Personagens/Mestres do Éter": {
-    "iconName": "LiAperture",
-    "iconColor": "#00d5ff"
-  },
   "Templates": "LiAlignJustify",
   "World Building": "🌎",
   "World Building/Lugares Importantes": "🏝",
@@ -57,7 +53,13 @@
   "World Building/Organizações Importantes/Sacerdotisas das Chamas Renascentes.md": "❤️‍🔥",
   "Personagens/Secundários": "🧑",
   "World Building/Sistema de poder.md": "✊",
-  "Personagens/TAE-JUN.md": "✝",
-  "Personagens/KAORI SILVA MATSUDA.md": "❤️‍🔥",
-  "Personagens/Secundários/HANNA SILVA MATSUDA.md": "❤️‍🔥"
+  "Personagens/Secundários/HANNA SILVA MATSUDA.md": "❤️‍🔥",
+  "World Building/Lugares Importantes/Reino Profano (Inferno).md": "🔥",
+  "Personagens/Secundários/Mestres do Éter": {
+    "iconName": "LiAperture",
+    "iconColor": "#00d5ff"
+  },
+  "Personagens/Protagonistas/KAORI SILVA MATSUDA.md": "❤️‍🔥",
+  "Personagens/Protagonistas": "⭐",
+  "Personagens/Protagonistas/TAE-JUNG.md": "✝"
 }
