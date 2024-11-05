@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personagens/KAORI WEST.md",
+                "file": "Personagens/KAORI SILVA MATSUDA.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "KAORI WEST"
+              "title": "KAORI SILVA MATSUDA"
             }
           },
           {
@@ -97,7 +97,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "783e05f9d37f295b",
@@ -176,13 +176,17 @@
   },
   "active": "c5adb582f567a1cc",
   "lastOpenFiles": [
-    "Personagens/TAIJUN.md",
+    "World Building/Sistema de poder.md",
+    "Personagens/KAORI SILVA MATSUDA.md",
+    "Personagens/Secundários/HANNA SILVA MATSUDA.md",
+    "Imagens/hanna-img.jpg",
     "Personagens/TAE-JUN.md",
+    "Templates/Template Personagem.md",
+    "Personagens/TAIJUN.md",
     "/World Building/Lugares Importantes/Reino Profano (Inferno).md",
     "/World Building/Circulo_Elemental.excalidraw.md",
     "/Personagens/KAORI WEST.md",
     "/Personagens/TAE-JUN.md",
-    "Personagens/KAORI WEST.md",
     "World Building/Lugares Importantes/Reino Profano (Inferno).md",
     "World Building/Organizações Importantes/10 Mestres do Éter.md",
     "World Building/Organizações Importantes/Sacerdotisas das Chamas Renascentes.md",
@@ -192,7 +196,6 @@
     "World Building/Lugares Importantes/Reino Profano (Inferno)",
     "World Building/Fatos Históricos/Criação/Celestiais.md",
     "World Building/Fatos Históricos/Criação/Dilúvio Elemental.md",
-    "World Building/Sistema de poder.md",
     "World Building/Lugares Importantes/Reino dos Renegados.md",
     "World Building/Fatos Históricos/Criação",
     "World Building/Fatos Históricos",
@@ -204,9 +207,6 @@
     "Personagens/Mestres do Éter/SARAH-QUINTZ.md",
     "Personagens/Mestres do Éter/EVELYN-RABNOTT.md",
     "EVELYN-RABNOTT.md",
-    "Personagens/Mestres do Éter/ENNARD-MELAHEL.md",
-    "Personagens/Mestres do Éter/SIGVARD.md",
-    "Personagens/Mestres do Éter/ELEONORA-FIORE.md",
     "Organização.canvas",
     "Templates",
     "Personagens/Mestres do Éter",

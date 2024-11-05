@@ -20,7 +20,7 @@
 * Caminhar 
 * Fazer Academia
 * Jogar Tênis 
-* Culinária Japonesa e Brasileira
+* Culinária Japonesa e Brasileira - Curte Feijoada, Churrasco, Sushi, Lamen, Onigiri, Pizza, Cuscuz.
 
 ### **Desgostos:** 
 ---
