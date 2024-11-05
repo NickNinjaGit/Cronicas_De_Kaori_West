@@ -24,9 +24,17 @@
 
 ## Backstory:
 
- #### Infância 
+#### Infância
  
-> Hanna ~~Devil~~ Matsuda, cresceu no Reino Profano (Inferno), fruto da poderosa Sacerdotisa Saori Zayra, e Lúcifer, o grande Rei do Inferno. Ela cresceu em uma situação muito favorecida já que era literalmente A Princesa do Inferno, tendo alguns privilégios como educação particular, comida chique, e vários serviçais a seu favor. Ela simpatizou com aqueles a sua volta e se tornou muito amiga 
+> Hanna ~~Devil~~ Matsuda, cresceu no Reino Profano (Inferno), fruto da poderosa Sacerdotisa Saori Zayra, e Lúcifer, o grande Rei do Inferno. Ela cresceu em uma situação muito favorecida, tendo alguns privilégios como educação particular, comida boa e vários serviçais a seu favor, seu pai por estar muito ocupado não lhe dava muita atenção, por isso a garota fez amizade com os servos que cuidavam dela, que eram apenas almas humanas penadas. Hanna todo dia ia visitar sua mãe em seu quarto, na qual já estava bem fraca e não podia sair muito. Entre essas visitas, Saori ensinava a menina coisas sobre o amor ao próximo, humildade e simpatia, afim de tornar a garota uma pessoa gentil, isso posteriormente moldou a personalidade carinhosa de Hanna com os próximos. 
+
+#### Adolescência e Rebeldia
+
+> Após completar 15 anos, Hanna acordou no meio da noite se sentindo muito mal, como se seu corpo estivesse queimando,naquela noite seus cabelos pretos haviam ficado brancos e seu olhos brilhavam em um tom vermelho, suas unhas se tornaram garras e sua pele ficava mais escamosa. mal sabia a garota mas ela estava passando, mas a puberdade fez seu lado demoníaco finalmente florescer. 
+> 
+> Naquele fatídico dia, Hanna destruiu uma grande parte do palácio com sua força sobrenatural e matou dezenas de demônios e servos de seu pai que residiam ali, isso chamou a atenção de Lúcifer, que já prevendo isso acontecer um dia, usou a oportunidade para testar Hanna em um combate mortal. No final da luta, quando estava prestes a derrotar a garota, Saori interviu usando seus poderes para fazer a garota desmaiar. Lucífer havia se enfurecido e confrontou a mulher, Saori enfurecida disse que ele havia feito ela estimular seu lado demoníaco de propósito sem se quer preocupar com a humanidade de sua própria filha.
+> 
+> Depois daquele dia, Hanna não se lembrará de nada enquanto estava transtornada, e 
 
 ## Arquétipo do Cuidador
 
