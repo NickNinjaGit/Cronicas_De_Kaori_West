@@ -11,7 +11,7 @@
 
 > O Inferno é regido por um sistema Monárquico onde os herdeiros de Lúcifer assumem a Coroa da Serpente a cada geração. As almas penadas que vem da Terra são submetidas a qualquer ato de um demônio, assim como demônios podem comercializar humanos como escravos. 
 
-> Outra lei importante é que qualquer demônio que se voltar contra a família real ou causar destruição ao Reino Profano será castigado a punição eterna, sendo torturado, morto e renascendo em um ciclo infinito.
+> Outra lei importante é que qualquer demônio que se voltar contra a família real ou causar destruição ao Reino Profano será sujeito a punição eterna, sendo torturado, morrendo e renascendo em um ciclo infinito.
 
 ## Camadas do Inferno:
 
