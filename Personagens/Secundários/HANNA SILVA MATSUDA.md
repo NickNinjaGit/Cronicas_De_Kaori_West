@@ -58,11 +58,33 @@
 > 
 > A batalha foi dura, mas Saori saiu vitoriosa conseguindo conter a fúria de Lúcifer, entretanto isso enfraqueceu a mulher. Neste instante, por um breve momento a Coroa da Serpente deixou de controlar a mente de Lúcifer, e arrependido de suas ações, antes que fosse dominado novamente, ele chorou e se despediu de Saori a beijando uma última vez, pois sabia que seu fim era inevitável, além de abraçar uma última vez sua filha.
 > 
-> No dia seguinte, Hanna acordou sem se lembrar do que havia acontecido, mas se encontrava no casebre de sua mãe que já estava se desintegrando aos poucos. Chocada com aquela cena Hanna estava muito nervosa e preocupada, porém Saori apenas pediu calma e começou a explicar a filha sobre as [[Sacerdotisas das Chamas Renascentes]] e também a Coroa da Serpente, na qual dava controle absoluto do inferno aquele que se abdicasse da sanidade. No fim de tudo ela pediu que Hanna buscasse as Sacerdotisas remanescentes e não desse ouvidos a Lúcifer, na qual tentaria incentivar constantemente ela a seguir seu caminho demoníaco. Após isso Saori adoeceu e faleceu abraçada de Hanna com lágrimas nos olhos.
+> No dia seguinte, Hanna acordou sem se lembrar do que havia acontecido, mas se encontrava no casebre de sua mãe que já estava se desintegrando aos poucos. Chocada com aquela cena Hanna estava muito nervosa e preocupada, porém Saori apenas pediu calma e começou a explicar a filha sobre as [[Sacerdotisas das Chamas Renascentes]] e também a Coroa da Serpente, na qual dava controle absoluto do inferno aquele que se abdicasse da sanidade. No fim de tudo ela pediu que Hanna buscasse as Sacerdotisas remanescentes e não desse ouvidos a Lúcifer, na qual tentaria incentivar constantemente ela a seguir seu caminho demoníaco. Após isso Saori adoeceu e acabou falecendo abraçada de Hanna com lágrimas nos olhos. Enquanto se transformava em cinzas, Hanna foi cercada por uma chama acolhedora que a cercava e aos poucos, essa era a passagem da chama renascente para a próxima sacerdotisa.
 
-#### Rebeldia e Conflitos Internos
+#### Rebeldia e Liberdade
 
-> Depois daquele episódio, Hanna havia decidido
+> Depois daquele episódio, com seus 18 Hanna havia decidido seguir o seu próprio caminho segundo as vontades da mãe, e para isso ela assumiu a identidade secreta de Moeru Shobutsu (Cerejeira do Fogo), para arquitetar seu plano de fugir do inferno e encontrar as sacerdotisas, ela fugiu palácio carregando consigo a pedra de âmbar, uma das chaves do inferno, na qual seu pai havia deixado sobre seus cuidados.
+> 
+> Em sua jornada ela enfrentou diversos demônios e desafios utilizando o que a mãe havia ensinado sobre a arte do Éter e o domínio do Fogo, sempre evitando a todo custo usar suas habilidades demoníacas afim de não seguir o que Lúcifer pretendia. Para que seu plano fosse bem sucedido, ela enfrentou sozinha os Guardiões das Chaves, na qual eram pessoas de extrema confiança para o Rei.
+
+> Após concluir sua missão, Hanna finalmente abriu os portões do inferno o que fez com que diversos demônios chegassem ao plano terrestre, antes que fosse tarde ela selou o portão para que a terra não fosse dominada completamente.
+> 
+> Depois de selar o portão a mulher tomou um tempo para se habituar com o mundo humano, para se misturar, Hanna resolveu escolher a cultura japonesa para conhecer, o que era muito similar com as histórias que sua mãe lhe contava.
+
+> Nesse tempo ela também continuou sua missão, reunindo novamente o antigo clã de Sacerdotisas das Chamas Renascentes, viajando o mundo contatando antigas integrantes, relatando o sobre o ocorrido com Saori.
+> 
+   Em meio essas viagens Hanna visitou o Brasil, onde conheceu sem querer, enquanto sofria um assalto, Martin Silva, que tentará defender a mulher do ataque, uma tentativa frustada que o colocou em perigo, mas foi rapidamente resolvido pela mulher. Isso fez com que os dois se conhecerem melhor e começassem a se falar e posteriormente gostar um do outro, o que resultou em uma relação amorosa.
+> 
+> Além disso, Hanna decidiu espalhar pelo mundo as chaves do inferno em locais de difícil acesso afim de evitar que caíssem em mãos erradas. 
+> 
+> Nesse tempo ela também teve uma filha, nomeada de Kaori em homenagem a sua mãe na qual pode ficar apenas por 2 anos junto dela, pois após esse tempo Lúcifer havia descoberto sobre sua traição através dos guardiões, e resolveu mandar demônios a sua caça. 
+> 
+> A mulher, temendo por colocar sua família em risco, resolveu contar para Martin sobre seu passado e suas origens demoníacas, o marido a princípio se espantou, porém de forma compreensiva prometeu proteger Kaori a todo custo. Antes de partir Hanna deixou com sua filha a pedra de âmbar, afim de selar seus poderes por um longo tempo.
+
+> No final de tudo, Hanna sabia que seu pai sempre fora assim graças a Coroa da Serpente, um artefato que tomou toda sua sanidade em troca do controle do inferno, e isso era o que Saori sempre desejava, libertar Lucifer de seu sofrimento. 
+> 
+> Agora tendo que ficar escondida nas sombras com uma identidade falsa, ela se uniu as sacerdotisas para achar um meio de destruir esse artefato amaldiçoado de uma vez por todas, além de continuar o legado do clã.
+
+
 
 ## Arquétipo do Cuidador
 
