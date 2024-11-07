@@ -16,7 +16,12 @@
 
 ## Backstory
 
-Taijun Koehan nasceu na região de Gancheon, um lugar muito pobre situado na Coreia do Sul. Ele teve uma infância muito difícil, onde seu pai alcoólatra era bem possessivo com sua mãe, e após um tempo ele a abandonou, fazendo com que jun tivesse que começar a trabalhar aos 15 anos, para cuidar das despesas da casa. Ele trabalhava em uma lojinha que vendia marmitas, lá ele logo mostrou suas habilidades culinárias, que lhe renderam um bom dinheiro. Apesar da correria de trabalhar e estudar, no seu tempo livre, Jun se dedicava a aprender Artes Marciais e a doutrina da fé católica, na qual frequenta aos domingos por influência de sua mãe, e ele sempre rezava para conseguir sair daquela situação, além disso ele ajudava a igreja diretamente servindo como acólito e dando dinheiro ao dízimo por vontade própria.
+#### Infancia
+
+
+>Tae-Jung nasceu na região de Gancheon, um lugar muito pobre situado na Coreia do Sul. Ele teve uma infância muito difícil, onde seu pai alcoólatra era bem possessivo com sua mãe, e após um tempo ele a abandonou, fazendo com que Jung tivesse que começar a trabalhar aos 12 anos, com o intuito de ajudar a mãe com as despesas de casa. Ele trabalhava em uma lojinha que vendia marmitas, lá ele logo mostrou suas habilidades culinárias, que lhe renderam um bom dinheiro. 
+
+> Apesar da correria de trabalhar e estudar, no seu tempo livre, o garoto se dedicava a aprender Artes Marciais e a aprender a doutrina da Fé Católica. Aos domingos ele sempre ia na igreja com sua mãe, onde lá encontrou conforto para toda aquela situação carente que ele passava. Jung rezava constantemente para conseguir sair daquela situação difícil e dar conforto a sua mãe, e de vez em quando o garoto até ajudava a igreja com o dízimo dando o pouco que tinha.
 
 ## Arquétipo do Guerreiro
 
