@@ -19,49 +19,61 @@
 #### Infancia
 
 
->Tae-Jung nasceu na região de Gancheon, um lugar muito pobre situado na Coreia do Sul. Ele teve uma infância muito difícil, onde seu pai alcoólatra era bem possessivo com sua mãe, e após um tempo ele a abandonou, fazendo com que Jung tivesse que começar a trabalhar aos 12 anos, com o intuito de ajudar a mãe com as despesas de casa. Ele trabalhava em uma lojinha que vendia marmitas, lá ele logo mostrou suas habilidades culinárias, que lhe renderam um bom dinheiro. 
+>Tae-Jung nasceu na região de Gancheon, um lugar muito pobre situado na Coreia do Sul. Ele teve uma infância muito difícil, onde seu pai alcoólatra era bem possessivo com sua mãe, e após um tempo ele a abandonou, fazendo com que Jung tivesse que começar a trabalhar aos 12 anos. Ele trabalhava em uma lojinha que vendia marmitas, onde aprendeu muito sobre culinária.
 
-> Apesar da correria de trabalhar e estudar, no seu tempo livre, o garoto se dedicava a aprender Artes Marciais e a aprender a doutrina da Fé Católica Romana. Aos domingos ele sempre ia na igreja com sua mãe, onde lá encontrou conforto para toda aquela situação carente que ele passava. Jung rezava constantemente para conseguir sair daquela situação difícil e dar conforto a sua mãe. 
+> Apesar da correria de trabalhar e estudar, no seu tempo livre, o garoto se dedicava a aprender Artes Marciais e a aprender sobre a Fé Católica. Aos domingos ele sempre ia na igreja com sua mãe, onde lá encontrou conforto para toda aquela situação que ele passava, e Jung rezava constantemente para conseguir dar conforto a sua mãe. 
 
 #### O grande chamado
 
-> Bem perto dos 18 anos, Jung estava com um emprego bom e finalmente havia conseguido dar conforto a sua mãe, que já estava idosa. Além disso o rapaz se tornou faixa preta em karatê, mostrando que ele continuou sendo perseverante mesmo depois de ter resolvido suas adversidades.
+> Bem perto dos 18 anos, Jung estava com um emprego bom e finalmente havia conseguido dar conforto a sua mãe, que já estava idosa. Além disso o rapaz se tornou faixa preta em karatê, mostrando que ele continuou sendo proativo em seu tempo livre mesmo depois de ter resolvido suas adversidades.
 
-> Até que em um dia, enquanto treinava ele percebeu que podia ver correntes de vento se formando a sua volta. Isso instigou Jung que procurava de alguma forma descobrir aquele mistério. Em sua busca disso, ele chegou a perguntar ao padre de sua igreja, um homem que ele demonstrava enorme respeito e admiração desde pequeno. E quando o relato chegou aos ouvidos do Pároco ele se espantou, dizendo que esperava esse dia finalmente chegar.
+> Até que em um dia, enquanto treinava, ele percebeu que podia ver correntes de vento se formando a sua volta, como se fosse algo de sua cabeça. Mas aquilo instigou Jung que procurou descobrir aquele mistério. Enquanto procurava uma resposta, ele chegou a perguntar ao padre de sua igreja, um homem que ele demonstrava enorme respeito e admiração desde pequeno, e após ter ouvido sobre o relato ele se surpreendeu dizendo que esperava esse dia chegar.
 
-> Confuso Jung não entendeu, mas logo o Padre lhe contou de uma antiga profecia revelada em um sonho. Segundo ele, o rumor havia surgido na época dos Apóstolos, e dizia que um dia aconteceria um apocalipse na terra, onde as criaturas do submundo emergiriam do inferno para acabar com a humanidade. E então 12 guerreiros sagrados estariam designados para evangelizar o povo e defender os pecadores desse grande mal. E segundo o que Deus havia dito em seu sonho o primeiro desses guerreiros teria o milagre de enxergar e manipular esses ventos, além de se encontrar com o Padre.
+> Confuso Jung não entendeu, mas logo o sacerdote lhe contou de uma antiga profecia revelada em um sonho. Segundo ele, o rumor havia surgido na época dos Apóstolos, e dizia que um dia os demônios do inferno iriam subir para dominar a terra, Porém 12 profetas estariam designados para defender a humanidade contra este mal. E segundo sua revelação, ele encontraria o primeiro desses profetas na qual tem o milagre de enxergar e manipular esses ventos.
 
-> Com toda essa informação, ele havia realmente se espantado com tamanha grandiosidade que Deus havia lhe reservado, e não sabia quando e nem como enfrentaria esses demônios, além disso o rapaz se perguntava também onde acharia os outros guerreiros? Como se lesse seus pensamentos o Padre lhe disse para não temer que Deus iria guia-lo para a vitória.
+> Com toda essa informação, ele havia realmente se assustado, não sabia como lidar com tamanha grandiosidade que Deus havia lhe reservado, e não sabia quando e nem como enfrentaria esses demônios, e nem onde arrumaria forças para isso. Alem disso o rapaz se perguntava também onde acharia os outros profetas? Como se lesse seus pensamentos o Padre lhe disse para não temer que Deus iria guia-lo para a vitória.
 
-> Antes que fosse para casa, Jung recebeu de presente do velho sacerdote uma grande Caixa na qual pertencia a um dos antigos Apóstolos e estava guardada para a chegada desse dia.
+> Antes que fosse para casa, Jung recebeu de presente do velho sacerdote uma grande caixa cheia de adornos de ouro, na qual pertencia a um dos antigos Apóstolos e estava guardada para a chegada desse dia.
 
 #### O caminho da Profecia
 
-> Após aquele dia, Jung havia recebido um sonho de um anjo em pessoa, na qual era a mesma figura que fora vista pelo Padre, e lá ele explico ser Gabriel, o Arcanjo mensageiro, e disse ao rapaz que Deus havia visto bondade em seu coração e o escolheu para essa importante missão. Além disso a poderosa entidade esclareceu suas dúvidas e disse onde poderia encontrar os outros 11 destinados.
+> Após aquele dia, Jung teve um sonho de um anjo em pessoa, na qual era a mesma figura que fora vista pelo Padre, e lá ele explicou ser Gabriel, o Arcanjo mensageiro, e disse ao rapaz que Deus havia visto bondade em seu coração e o escolheu para essa importante missão, ele também esclareceu suas dúvidas e disse que lhe ajudaria a encontrar os outros 11 .
 
-> Determinado a cumprir a vontade de Deus que o tanto ajudará no passado através das orações, Tae-Jung aceitou a missão sem pensar duas vezes, e a mando do Padre abriu a misteriosa caixa onde encontrou uma cruz de procissão e um manto similar ao da Virgem Maria, na qual pertencia a um dos Apóstolos. E após isso embarcou em sua jornada como um monge cristão, procurando os outros escolhidos e evangelizando os que passavam em seu caminho.
+> Determinado a cumprir a vontade de Deus que o tanto ajudará no passado através das orações, Tae-Jung aceitou a missão sem pensar duas vezes, e a mando do Padre abriu a misteriosa caixa onde encontrou uma cruz de procissão e um manto similar ao da Virgem Maria, uma homenagem. E após isso embarcou em sua jornada como um monge cristão, procurando os outros escolhidos e evangelizando os que passavam em seu caminho.
 
 > Sua jornada não fora fácil, muitas vezes enfrentando obstáculos como as diferencias religiosas, a falta de recursos e muitas vezes o preconceito com sua peregrinação muitas vezes sendo tachado de louco e incômodo, mas mesmo assim ele foi perseverante e continuou a cumprir cada uma das etapas que Deus lhe enviará afim de libertar todos da maldição que estava por vir.
 
-> Em uma de suas passagens pela Índia, afim de encontrar um dos últimos escolhidos, Jung acabou conhecendo uma moça muito morena muito bela que falava sobre histórias do plano astral e espiritualidade. Seu nome era [[Sarah-Kayla]] que assim como ele estava também em uma missão divina, como uma andarilha pelo mundo tentando combater os maus que cercavam a terra. Os dois se tornaram bastante próximos nesse período, tanto que fez Jung ficar mais um tempo por ali antes que a moça fosse embora, ele não sabia ainda, mas estava apaixonado por ela, assim como a mulher mostrará gostar dele romanticamente.
+> Em uma de suas passagens, Jung acabou conhecendo uma moça morena muito bela que falava sobre histórias do plano astral e espiritualidade. Seu nome era [[Sarah-Kayla]] que assim como ele estava tentando proteger a humanidade de um mal eminente, como uma andarilha pelo mundo. Os dois tornaram-se bastante próximos nesse período, tanto que fez Jung insistiu que ela lhe acompanhasse, fazendo com que ela se juntasse ao grupo, e com o tempo os dois começaram a se gostar cada vez mais.
 
 #### A grande tragédia
 
-> Em paralelo, perto de um santuário antigo situado no Havaí, havia surgido uma escuridão tão profunda que começará a se espalhar por toda a Terra, a princípio para os olhos dos menos atenciosos se tratava de um simples eclipse, porém o que acontecia por baixo dos panos era a abertura dos Porões do Inferno, na qual fazia parte do grande plano de [[HANNA SILVA MATSUDA]]. A partir desse evento os demônios e entidades mais poderosas do inferno conseguiram escapar em um breve período de 10 minutos, tempo em que Hanna teve para selar os portões antes que o inferno inteiro aparecesse, mal sabia a sacerdotisa que aquilo já bastava para se cumprir o terrível destino da Profecia.
+> Em paralelo, perto de um santuário antigo situado no Havaí, havia surgido uma escuridão tão profunda que começará a se espalhar por toda a Terra, a princípio para os olhos dos menos atenciosos diriam se tratar de um eclipse, porém o que acontecia por baixo dos panos era a abertura dos Portões do Inferno, na qual fazia parte do grande plano de [[HANNA SILVA MATSUDA]]. A partir desse evento os demônios e entidades mais poderosas do inferno conseguiram escapar em um breve período de 10 minutos, tempo em que Hanna teve para selar os portões antes que o inferno inteiro surgisse, mal sabia a sacerdotisa que aquilo já bastava para se cumprir o terrível destino da Profecia.
 
 > E em menos de 2 horas os céus foram de um preto penumbre para uma vista amaldiçoada, bestas infernais terríveis emergiam de lá. Jung presenciou aquilo, e sem aviso prévio de seu guia angelical, ele foi pego de surpresa quando viu aqueles demônios finalmente dando as caras.
 
-> Apesar de nunca ter enfrentado um antes, ele sabia que não poderia contar com ajudas externas naquele momento, e então liderou os outros escolhidos para enfrentar aquelas aberrações, apesar do medo de seus colegas, Jung os encorajou dizendo para não temerem, pois Deus e a Santíssima Virgem os protegeriam.
+> Apesar de nunca ter enfrentado um antes, ele sabia que não poderia contar com ajudas externas naquele momento, então liderou os outros escolhidos para enfrentar aquelas aberrações. Apesar do medo de seus colegas, Jung os encorajou dizendo para não temerem, pois Deus e a Santíssima Virgem os protegeriam.
 
-> A batalha foi intensa, sendo principalmente liderada por Jung e seus companheiros que já dominavam o Éter, e por um momento eles pareciam levar a melhor, até que de repente, o rapaz ouviu uma voz familiar clamando por sua ajuda, e percebeu que se tratava de sua amada.
+> A batalha foi intensa, sendo principalmente liderada por ele e seus companheiros que já dominavam o Éter. Por um momento eles pareciam levar a melhor, até que de repente, o rapaz ouviu uma voz familiar clamando por sua ajuda, e percebeu que se tratava de sua amada.
 
-> Ele havia percebido que no meio de toda a confusão se esquecera de quem realmente lhe importava, e deixará Sarah sozinha no meio do conflito. Em um ato de coragem, Jung correu imediatamente até ela para salvá-la, sendo acobertado por seus companheiros.
+> Ele havia notado que no meio de toda a confusão ele se esquecera dela, e acabou deixando Sarah sozinha no meio do perigo.. Em um ato de coragem, Jung correu imediatamente para salvá-la, sendo acobertado por seus companheiros.
 
-> Até que quando chegará, a garota estava sozinha, o que era muito estranho para quem pedia socorro, quando se deu conta que sua amada estava possuída, já estava em seus braços e fora dominado pelo demônio, Jung em um ato de desespero vendo sua confiança abalada pelo demônio que o intimará, percebeu que os outros seriam facilmente derrotados sem sua ajuda.
+> Até que quando chegou, a garota estava sozinha, o que era muito estranho para quem pedia socorro, e se deu conta que ela estava diferente, porém já era tarde para notar, sendo cercado imediatamente por mais indivíduos, sendo ferroado facilmente. Agora com sua confiança abalada, ele percebeu que os outros seriam facilmente derrotados sem sua ajuda.
 
-> Aproveitando a oportunidade, o demônio que o dominará fez com que o jovem derrotado assistisse a execução de cada um daqueles que ele amava, nesse ato, Jung presenciou todos os seus companheiros sendo mortos brutalmente acabando de vez com sua confiança. Sua amada seria a próxima, entretanto antes disso acontecer, ele não aguentará mais o tamanho sofrimento e como se alguém atendesse seu pedido, sua confiança se restaurou, fazendo com que ele não desistisse de sua missão, ele pode sentir que isso viera das almas de seus companheiros que de alguma forma, lhe trouxeram força.
+> Aproveitando a oportunidade, o demônio que estava em Sarah fez com que o jovem derrotado assistisse a execução de cada um daqueles que ele amava. Jung presenciou todos os seus companheiros sendo mortos brutalmente acabando de vez com sua determinação. Sua amada seria a próxima, entretanto antes disso acontecer, uma luz divina se apoderou dele, e um último milagre ocorreu.  
+> 
+> Além de se sentir determinado novamente, Jung também se tornou poderoso mais que suficiente para conseguir  erradicar aquelas bestas infernais. Ele por um momento, ele  sentiu que foram seus companheiros que lhe deram forças para ascender.
 
-> Agora com a força do Anio Miguel e a proteção Santissima Virgem, 
+> Entretanto apesar de ter conseguido tirar o demônio de sua amada, o mesmo havia satirizado a situação, dizendo que Sarah nunca acordaria, pois teve a alma roubada, isso fez com que o rapaz declarasse abertamente guerra contra do Inferno antes dos demônios restante fugirem derrotados.
+
+#### Um novo propósito
+
+>  Após essa grande batalha, Jung estava bem cansado e já sem forças, triste e confuso ele não sabia como lidar com a perda de sua amada, e jurou que faria de tudo para salvá-la
+
+> Antes que fosse embora, alguém havia surgido atrás dele, um dos [[10 Mestres do Éter]], [[YUJIMA-CHEN]]  havia presenciado a tamanha força divina de Jung de longe, e perguntou so rapaz se ele estaria disposto a realmente salvar sua amada.
+
+> O rapaz respondeu um “sim” com toda vontade, e isso foi suficiente para Yujima, que se ofereceu para treinar Jung a um propósito bem maior do que apenas erradicar demônios.
+
+> Após tudo isso, Tae-Jung se tornou discípulo de Yujima e continuou aperfeiçoando seu domínio do Éter, afim de um dia vingar sua amada e recuperar sua alma roubada.
 
 
 
