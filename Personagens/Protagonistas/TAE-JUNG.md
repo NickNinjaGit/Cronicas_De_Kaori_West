@@ -2,17 +2,35 @@
 
 ### **Personalidade**
 
-### **Extroversão** 
+### **Extroversão:** Extrovertido 
 
 ### **Gostos**
 
+*  Leitura de Livros sobre Filosofia
+*  Escaladas
+*  Atividades ao Ar Livre
+*  Arte Marcial Tradicional
+*  Cozinhar
+*  Caminhadas Solitárias
+*  Músicas: (Gospel, Rock, Rap)
+*  Filme Favorito: (Clube da Luta)
+
 ### **Desgostos**
 
+* Injustiça
+* Dogmas religiosos rígidos: *Embora ele seja católico, Tae-Jung não aceita passivamente a doutrina religiosa se ela for usada de forma rígida ou cruel. Ele acredita em um Deus misericordioso, mas também que o ser humano tem livre arbítrio e capacidade de mudança.*
+* Fracasso pessoal: *O medo de não conseguir cumprir sua missão e a dor por não conseguir salvar seus amigos ou recuperar a alma de Sarah-Kayla podem ser algo que ele evita a todo custo. O fracasso pessoal, mesmo que não necessariamente o de outros, é algo que o corrói por dentro.*
 ### **Ideais**
+
+- **Proteção e redenção:** Tae-Jung acredita que é seu dever proteger os que ama, especialmente Sarah-Kayla, e que deve buscar uma forma de redimi-la e de salvar aqueles que sofrem nas mãos de forças malignas. A missão de salvar a humanidade e de derrotar os demônios é um reflexo desse ideal.
+---
+- **Justiça e equilíbrio:** Mesmo sendo motivado pela vingança e pela dor, Tae-Jung ainda acredita que deve fazer isso de forma justa. Ele acredita que a verdadeira justiça não é vingança pura, mas sim corrigir os desequilíbrios do mundo e trazer uma verdadeira paz.
+---
+- **Autossuperação:** Ele busca constantemente melhorar, não apenas fisicamente, mas também espiritualmente, para se tornar alguém digno de seu papel de profeta e líder.
 
 ### **Religião:** Católico 
 
-### **Signo**
+### **Signo:** Leão
 
 ## Backstory
 
@@ -69,9 +87,9 @@
 
 >  Após essa grande batalha, Jung estava bem cansado e já sem forças, triste e confuso ele não sabia como lidar com a perda de sua amada, e jurou que faria de tudo para salvá-la
 
-> Antes que fosse embora, alguém havia surgido atrás dele, um dos [[10 Mestres do Éter]], [[YUJIMA-CHEN]]  havia presenciado a tamanha força divina de Jung de longe, e perguntou so rapaz se ele estaria disposto a realmente salvar sua amada.
+> Antes que fosse embora, alguém havia surgido atrás dele, um dos [[10 Mestres do Éter]], [[YUJIMA-CHEN]]  havia presenciado a tamanha força divina de Jung de longe, e perguntou ao rapaz se ele estaria disposto a realmente salvar sua amada.
 
-> O rapaz respondeu um “sim” com toda vontade, e isso foi suficiente para Yujima, que se ofereceu para treinar Jung a um propósito bem maior do que apenas erradicar demônios.
+> O rapaz respondeu um “sim” com toda vontade, e isso foi suficiente para Yujima, que se ofereceu para treinar Jung a um propósito bem maior do que apenas eliminar os demônios, a se tornar de fato um Mestre do Éter.
 
 > Após tudo isso, Tae-Jung se tornou discípulo de Yujima e continuou aperfeiçoando seu domínio do Éter, afim de um dia vingar sua amada e recuperar sua alma roubada.
 

@@ -42,8 +42,6 @@
 ### **Altura:** 1,75
 ### **Peso:** 68kg
 
-
-
 ## Backstory:
 
 #### Infância
@@ -62,30 +60,32 @@
 
 #### Rebeldia e Liberdade
 
-> Depois daquele episódio, com seus 18 Hanna havia decidido seguir o seu próprio caminho segundo as vontades da mãe, e para isso ela assumiu a identidade secreta de Moeru Shobutsu (Cerejeira do Fogo), para arquitetar seu plano de fugir do inferno e encontrar as sacerdotisas, ela fugiu palácio carregando consigo a pedra de âmbar, uma das chaves do inferno, na qual seu pai havia deixado sobre seus cuidados.
-> 
-> Em sua jornada ela enfrentou diversos demônios e desafios utilizando o que a mãe havia ensinado sobre a arte do Éter e o domínio do Fogo, sempre evitando a todo custo usar suas habilidades demoníacas afim de não seguir o que Lúcifer pretendia. Para que seu plano fosse bem sucedido, ela enfrentou sozinha os Guardiões das Chaves, na qual eram pessoas de extrema confiança para o Rei.
+>Há muitos anos, Hanna, então com 18 anos, tomou uma decisão que mudaria o curso dos reinos infernais e da Terra: ela iria seguir o próprio caminho, afastando-se do plano sombrio de seu pai, Lúcifer, e honrando a memória de sua mãe, Saori. Usando a identidade secreta de Moeru Shobutsu (a Cerejeira do Fogo), ela arquitetou um plano ousado para fugir do inferno e encontrar as antigas Sacerdotisas das Chamas Renascentes.
 
-> Após concluir sua missão, Hanna finalmente abriu os portões do inferno o que fez com que diversos demônios chegassem ao plano terrestre, antes que fosse tarde ela selou o portão para que a terra não fosse dominada completamente.
-> 
-> Depois de selar o portão a mulher tomou um tempo para se habituar com o mundo humano, para se misturar, Hanna resolveu escolher a cultura japonesa para conhecer, o que era muito similar com as histórias que sua mãe lhe contava.
+> Como primeira medida, Hanna roubou a pedra de âmbar, uma das chaves do inferno, deixada sob sua responsabilidade por Lúcifer. Com essa chave em mãos, ela escapou do palácio, determinada a abrir os portões do inferno de forma controlada e impedir que o domínio infernal engolisse completamente o mundo humano.
 
-> Nesse tempo ela também continuou sua missão, reunindo novamente o antigo clã de Sacerdotisas das Chamas Renascentes, viajando o mundo contatando antigas integrantes, relatando o sobre o ocorrido com Saori.
-> 
-   Em meio essas viagens Hanna visitou o Brasil, onde conheceu sem querer, enquanto sofria um assalto, Martin Silva, que tentará defender a mulher do ataque, uma tentativa frustada que o colocou em perigo, mas foi rapidamente resolvido pela mulher. Isso fez com que os dois se conhecerem melhor e começassem a se falar e posteriormente gostar um do outro, o que resultou em uma relação amorosa.
-> 
-> Além disso, Hanna decidiu espalhar pelo mundo as chaves do inferno em locais de difícil acesso afim de evitar que caíssem em mãos erradas. 
-> 
-> Nesse tempo ela também teve uma filha, nomeada de Kaori em homenagem a sua mãe na qual pode ficar apenas por 2 anos junto dela, pois após esse tempo Lúcifer havia descoberto sobre sua traição através dos guardiões, e resolveu mandar demônios a sua caça. 
-> 
-> A mulher, temendo por colocar sua família em risco, resolveu contar para Martin sobre seu passado e suas origens demoníacas, o marido a princípio se espantou, porém de forma compreensiva prometeu proteger Kaori a todo custo. Antes de partir Hanna deixou com sua filha a pedra de âmbar, afim de selar seus poderes por um longo tempo.
+> Em sua jornada, Hanna enfrentou inúmeros demônios e outros perigos, sempre se valendo da Arte do Éter e do domínio sobre o Fogo, habilidades que sua mãe havia lhe ensinado. Ela evitava usar suas habilidades demoníacas, recusando-se a sucumbir às intenções de seu pai. Sozinha, Hanna travou batalhas contra os Guardiões das Chaves — demônios poderosos e leais ao rei infernal, destinados a proteger as chaves do inferno a qualquer custo.
 
-> No final de tudo, Hanna sabia que seu pai sempre fora assim graças a Coroa da Serpente, um artefato que tomou toda sua sanidade em troca do controle do inferno, e isso era o que Saori sempre desejava, libertar Lucifer de seu sofrimento. 
-> 
-> Agora tendo que ficar escondida nas sombras com uma identidade falsa, ela se uniu as sacerdotisas para achar um meio de destruir esse artefato amaldiçoado de uma vez por todas, além de continuar o legado do clã.
+> Após batalhas árduas, Hanna conseguiu abrir os portões do inferno, permitindo que demônios chegassem ao plano terrestre. Contudo, antes que o plano humano fosse completamente tomado, ela selou o portal, limitando a invasão e salvando a humanidade de uma tomada total.
+
+#### Adaptação ao Mundo Humano e o Reencontro com as Sacerdotisas
+
+> Buscando uma vida nova e um refúgio no mundo humano, Hanna escolheu o Japão, cuja cultura se alinhava com as histórias e lendas que sua mãe lhe contava. Lá, ela viveu entre os humanos e prosseguiu em sua missão de reunir o antigo clã das Sacerdotisas das Chamas Renascentes. Para isso, viajou pelo mundo em busca das sacerdotisas dispersas e contou a elas sobre a queda de Saori e as novas ameaças.
+
+> Durante essas viagens, ela chegou ao Brasil, onde, em um incidente envolvendo um assalto, conheceu Martin Silva. Ele tentou protegê-la, mas foi rapidamente colocado em risco — situação que Hanna resolveu rapidamente. Esse ato de coragem de Martin impressionou Hanna, e os dois começaram a se conhecer melhor. Desse relacionamento surgiu um amor profundo, levando ao nascimento de sua filha, Kaori.
+
+#### Separação e Sacrifício
+
+> Com o nascimento de Kaori, Hanna experimentou uma paz que nunca havia conhecido. Porém, essa tranquilidade foi breve: Lúcifer descobriu sua traição e enviou demônios para caçá-la. Temendo colocar sua nova família em perigo, Hanna revelou a Martin suas verdadeiras origens e a ameaça iminente. Martin, chocado, mas disposto a proteger sua filha, aceitou a verdade e prometeu cuidar de Kaori.
+
+> Antes de partir, Hanna deixou a pedra de âmbar com Kaori, selando temporariamente os poderes da criança e garantindo que ela crescesse protegida das influências demoníacas. Hanna então se despediu de sua família, sabendo que a batalha contra Lúcifer estava longe de terminar.
 
 
+#### O Legado e a Missão das Sacerdotisas
 
+> Hanna sabia que a tirania de Lúcifer vinha, em parte, de um artefato conhecido como a Coroa da Serpente, que havia corrompido sua sanidade em troca de controle absoluto sobre o inferno. Saori sempre desejara destruir esse artefato e libertar Lúcifer da maldição, e Hanna decidiu continuar o legado de sua mãe e das sacerdotisas.
+
+> Escondida nas sombras, Hanna reuniu-se com as Sacerdotisas das Chamas Renascentes. Juntas, elas planejaram uma forma de destruir a Coroa da Serpente, acreditando que, ao fazer isso, poderiam libertar Lúcifer dessa tortura e, quem sabe, transformar o inferno em um lugar melhor. Ela também espalhou as chaves do inferno pelo mundo em locais de difícil acesso, garantindo que não caíssem nas mãos erradas.
 ## Arquétipo do Cuidador
 
 **Características:**
