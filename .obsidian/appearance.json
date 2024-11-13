@@ -1,7 +1,10 @@
 {
   "accentColor": "#eb4d3d",
-  "cssTheme": "Things",
-  "theme": "system",
+  "cssTheme": "",
+  "theme": "obsidian",
   "baseFontSize": 12,
-  "baseFontSizeAction": false
+  "baseFontSizeAction": false,
+  "enabledCssSnippets": [
+    "theme"
+  ]
 }

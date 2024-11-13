@@ -1,0 +1,182 @@
+:root {
+    --font-monospace: "Source Code Pro", monospace;
+  }
+  
+  .theme-dark {
+    --button-hover-bg-color: #B22222; /* Darker Red Background for Hover */
+    --button-hover-text-color: #ffffff; /* White Text for Hover */
+    --button-bg-color: #A52A2A; /* Dark Red Background */
+    --button-text-color: #242424; /* Light Gray Text */
+    --background-primary: #242424;
+    --background-primary-alt: #242424;
+    --background-secondary: #191919;
+    --background-secondary-alt: #3D3D3D;
+    --text-normal: #faf2d6;
+    --text-faint: #bdae93;
+    --text-title-h1: #E0E0E0;
+    --text-title-h2: #E0E0E0;
+    --text-title-h3: #E0E0E0;
+    --text-title-h4: #E0E0E0;
+    --text-title-h5: #E0E0E0;
+    --text-title-h6: #E0E0E0;
+    --text-highlight-bg: #640211;
+    --text-link: #cd5c5c;
+    --text-a-hover: #cd5c5c;
+    --text-accent-hover: #A52A2A;
+    --inline-code: #cd5c5c;
+    --code-block: #cd5c5c;
+    --text-a: #8B0000;
+    --interactive-accent: #A52A2A;
+    --text-accent: #FF6F61;
+    --text-on-accent: #fff;
+    --interactive-accent-rgb: #8B0000;
+    --vim-cursor: #8B0000;
+    --background-modifier-border: #8B0000;
+    --text-selection: #8B0000;
+  }
+  
+  .theme-dark .cm-s-obsidian span.obsidian-search-match-highlight {
+    color: var(--text-normal);
+    background-color: #483699;
+  }
+  
+  .theme-light {
+    --background-primary: #EDEDED;
+    --background-secondary: #C4C4C4;
+    --background-primary-alt: #;
+    --background-secondary-alt: #707070;
+    --text-normal: #1A2023;
+    --text-faint: #DEDEDE;
+    --text-title-h1: #A52A2A;
+    --text-title-h2: #A52A2A;
+    --text-title-h3: #A52A2A;
+    --text-title-h4: #A52A2A;
+    --text-title-h5: #A52A2A;
+    --text-link: #A52A2A;
+    --text-a-hover: #A52A2A;
+    --text-accent-hover: #A52A2A;
+    --inline-code: #cd5c5c;
+    --pre-code: #bebebe;
+    --interactive-before: #a89984;
+    --background-modifier-border: #A52A2A;
+    --text-a: #8B0000;
+    --interactive-accent: #A52A2A;
+    --text-accent: #8B0000;
+    --interactive-accent-rgb: #8B0000;
+    --vim-cursor: #8B0000;
+    --text-selection: #ED8B8B;
+    --text-white: #ffffff;
+  }
+  
+  .nav-file-title, .nav-folder-title {
+    color: var(--text-normal);
+  }
+  
+  .nav-file-title.is-active,
+  .nav-folder-title.is-active,
+  body:not(.is-grabbing) .nav-file-title:hover,
+  body:not(.is-grabbing) .nav-folder-title:hover {
+    background-color: var(--background-modifier-border);
+    color: white;
+  }
+  
+  .cm-s-obsidian span.cm-formatting-link {
+    color: var(--text-normal);
+  }
+  
+  .CodeMirror-guttermarker-subtle {
+    color: var(--text-normal) !important;
+  }
+  
+  button.mod-cta {
+    background-color: var(--interactive-accent);
+    color: var(--text-normal);
+  }
+  
+  .vertical-tab-header-group-title {
+    color: var(--text-white);
+  }
+  
+  .cm-header-1, .cm-header-2, .cm-header-3, .cm-header-4, .cm-header-5, .cm-header-6 {
+    font-size: 18px;
+    color: var(--text-title-h1) !important;
+  }
+  
+  .markdown-preview-view h1,
+  .markdown-preview-view h2,
+  .markdown-preview-view h3,
+  .markdown-preview-view h4,
+  .markdown-preview-view h5,
+  .markdown-preview-view h6 {
+    font-size: 20px;
+    line-height: 24px;
+    color: var(--text-title-h1) !important;
+  }
+  
+  .markdown-source-view {
+    font-family: var(--font-monospace);
+  }
+  
+  .cm-fat-cursor .CodeMirror-cursor {
+    background-color: #8B0000 !important;
+    opacity: 80% !important;
+    width: 9px !important;
+    visibility: visible !important;
+  }
+  
+  .plugin-tabs .stayopen .view-header {
+    border-bottom: 2px solid var(--interactive-accent) !important;
+  }
+  
+  button.mod-cta:hover,
+  button.mod-cta:focus,
+  .vertical-tab-nav-item.is-active:hover,
+  .vertical-tab-nav-item.is-active:focus,
+  body:not(.is-phone) .vertical-tab-nav-item.is-active:hover,
+  body:not(.is-phone) .vertical-tab-nav-item.is-active:focus {
+    background-color: var(--button-hover-bg-color);
+    color: var(--button-text-color);
+  }
+  
+  body:not(.is-phone) .vertical-tab-nav-item.is-active {
+    --background-modifier-hover: var(--button-hover-bg-color);
+    --icon-color: var(--button-text-color);
+    background-color: var(--button-bg-color);
+    color: var(--button-text-color);
+  }
+  
+  .checkbox-container.is-enabled,
+  .checkbox-container.is-enabled:hover,
+  .checkbox-container.is-enabled:focus,
+  .flair.mod-pop,
+  .flair.mod-pop:hover,
+  .flair.mod-pop:focus {
+    background-color: var(--button-bg-color);
+    color: var(--button-text-color);
+  }
+  
+  /** hr styles -- PREVIEW MODE */
+  .cm-line hr,
+  .markdown-preview-view hr {
+    margin-block-start: 4em;
+    margin-block-end: 4em;
+    border: none;
+    height: 0;
+    border-bottom: 1px solid;
+    border-image-slice: 1;
+    border-width: 1px;
+    border-image-source: linear-gradient(to right, transparent, var(--text-accent), transparent);
+  }
+  
+  .cm-line hr::after,
+  .markdown-preview-view hr::after {
+    display: inline-block;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    transform-origin: 50% 50%;
+    padding: 0.5rem;
+    color: var(--text-sub-accent);
+    background-color: var(--background-primary);
+  }
+  
