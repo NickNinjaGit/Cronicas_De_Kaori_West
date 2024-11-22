@@ -1,4 +1,6 @@
-## Ficha de Personagem:
+## Ficha de Personagem
+
+### Idade: 666 anos
 
 ### **Personalidade**
 ---

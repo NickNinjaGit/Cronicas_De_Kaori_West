@@ -114,4 +114,5 @@ Exemplos de Transmissão:
 
 * **Interceptação:** Use seu Éter para tentar ler a mente de um ser vivo, caso ele permita a interceptação irá funcionar automaticamente.
 
+
 * **Bloqueio Mental:** Proteja sua mente de ser interceptada, quanto mais Éter gastar melhor será o bloqueio.

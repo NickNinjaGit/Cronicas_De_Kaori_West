@@ -1,9 +1,17 @@
 ## Ficha de Personagem
 
-### **Personalidade**
+### Idade: 25 anos
 
-### **Extroversão:** Extrovertido 
+### **Personalidade: **
 
+* Calmo
+* Humilde
+* Confiante
+* Empatico
+* Amigável
+---
+### **Extroversão:** Extrovertido
+--- 
 ### **Gostos**
 
 *  Leitura de Livros sobre Filosofia
@@ -15,11 +23,16 @@
 *  Músicas: (Gospel, Rock, Rap)
 *  Filme Favorito: (Clube da Luta)
 
+--- 
 ### **Desgostos**
 
 * Injustiça
+
 * Dogmas religiosos rígidos: *Embora ele seja católico, Tae-Jung não aceita passivamente a doutrina religiosa se ela for usada de forma rígida ou cruel. Ele acredita em um Deus misericordioso, mas também que o ser humano tem livre arbítrio e capacidade de mudança.*
+---
 * Fracasso pessoal: *O medo de não conseguir cumprir sua missão e a dor por não conseguir salvar seus amigos ou recuperar a alma de Sarah-Kayla podem ser algo que ele evita a todo custo. O fracasso pessoal, mesmo que não necessariamente o de outros, é algo que o corrói por dentro.*
+---
+
 ### **Ideais**
 
 - **Proteção e redenção:** Tae-Jung acredita que é seu dever proteger os que ama, especialmente Sarah-Kayla, e que deve buscar uma forma de redimi-la e de salvar aqueles que sofrem nas mãos de forças malignas. A missão de salvar a humanidade e de derrotar os demônios é um reflexo desse ideal.
