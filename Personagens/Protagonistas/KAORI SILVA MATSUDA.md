@@ -5,12 +5,13 @@
 ### **Personalidade:** 
 --- 
 * Curiosa 
-* Resiliente 
-* Autossuficiente 
+* Resiliente (As vezes pode persistir que não está errada)
+* Autossuficiente (Evita pedir ajudas)
 * Cautelosa 
 * Pragmática 
 * Protetora 
-* Sofisticada 
+* Reversada
+* Um pouco controladora (Tende a ser Perfeccionista) 
 ### **Extroversão:** Ambivertida
 
 ### **Gostos:** 

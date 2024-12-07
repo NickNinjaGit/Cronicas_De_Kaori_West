@@ -2,22 +2,44 @@
 
 ### **Personalidade:**
 
-### **Extroversão:** 
+* Calmo
+* Astuto
+* Sábio
+* Paciente
+* Brincalhão
+* Simples
+* Caridoso
+* Humilde
+
+### **Extroversão:** Extrovertido
 
 ### **Signo:**
 
-### **Altura:**
+### **Altura:** 1,55
 
-### **Peso:** 
+### **Peso:**  55kg
 
 ### **Gostos:**
 
-### **Desgostos:** 
+* Lutas de Artes Marciais
+* Meditação
 
+### **Desgostos:**
+
+* Pessoas Orgulhosas
+* Teimosia
+* Imaturidade
+* Maldade e o ódio ao próximo.
 ### **Ideais:** 
 
+* Atingir a paz onde quer que ele for.
+* Ser bondoso e gentil sempre.
+* Tirar o máximo de proveito da vida.
+* Compartilhar conhecimento e experiências a todo custo.
 
 ## Backstory:
+
+### Prólogo
 
 
 

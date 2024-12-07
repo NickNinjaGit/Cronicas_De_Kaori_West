@@ -2,24 +2,21 @@
 
 ### Idade: 25 anos
 
-### **Personalidade: **
+### **Personalidade:** 
 
-* Calmo
-* Humilde
-* Confiante
-* Empatico
-* Amigável
+* Confiante (Arrogancia)
+* Empático 
+* Impulsivo (Imprudencia)
+* Determinado
 ---
 ### **Extroversão:** Extrovertido
 --- 
 ### **Gostos**
 
-*  Leitura de Livros sobre Filosofia
 *  Escaladas
 *  Atividades ao Ar Livre
 *  Arte Marcial Tradicional
 *  Cozinhar
-*  Caminhadas Solitárias
 *  Músicas: (Gospel, Rock, Rap)
 *  Filme Favorito: (Clube da Luta)
 
@@ -100,11 +97,13 @@
 
 >  Após essa grande batalha, Jung estava bem cansado e já sem forças, triste e confuso ele não sabia como lidar com a perda de sua amada, e jurou que faria de tudo para salvá-la
 
-> Antes que fosse embora, alguém havia surgido atrás dele, um dos [[10 Mestres do Éter]], [[YUJIMA-CHEN]]  havia presenciado a tamanha força divina de Jung de longe, e perguntou ao rapaz se ele estaria disposto a realmente salvar sua amada.
+> Antes que fosse embora, alguém havia surgido atrás dele, um dos [[10 Mestres do Éter]], [[YUJIMA-CHEN]]  havia presenciado a tamanha força divina de Jung longe do campo de batalha, e perguntou ao rapaz se ele estaria realmente disposto a se vingar dos demônios.
 
-> O rapaz respondeu um “sim” com toda vontade, e isso foi suficiente para Yujima, que se ofereceu para treinar Jung a um propósito bem maior do que apenas eliminar os demônios, a se tornar de fato um Mestre do Éter.
+> O rapaz obviamente sim, e isso foi suficiente para Yujima se oferecer para treinar o rapaz após testemunhar todo seu potencial.
 
-> Após tudo isso, Tae-Jung se tornou discípulo de Yujima e continuou aperfeiçoando seu domínio do Éter, afim de um dia vingar sua amada e recuperar sua alma roubada.
+> Nos dias que se passaram, Yujima acolheu o rapaz em seu dojô , que com o auxilio dele continuou aperfeiçoando seu domínio do Éter, desta vez com um mestre para guia-lo ele aprendeu como utilizar essa energia de maneira mais inteligente e após um longo treino, ele finalmente havia conseguido controlar aquele poder que usará para devastar os demônio que Jung nomeou como A Fúria dos 12, em homenagem aos seus falecidos amigos. 
+
+> Depois de encontrar um certo equilíbrio consigo mesmo, acabou decidindo juntar as chaves do inferno espalhadas por Hanna afim de resgatar a alma de sua amada do maldito ser das trevas que possuirá o corpo de Sarah naquele dia.
 
 
 
