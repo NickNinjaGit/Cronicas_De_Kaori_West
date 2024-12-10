@@ -59,7 +59,7 @@
 
 > Confuso Jung não entendeu, mas logo o sacerdote lhe contou de uma antiga profecia revelada em um sonho. Segundo ele, o rumor havia surgido na época dos Apóstolos, e dizia que um dia os demônios do inferno iriam subir para dominar a terra, Porém 12 profetas estariam designados para defender a humanidade contra este mal. E segundo sua revelação, ele encontraria o primeiro desses profetas na qual tem o milagre de enxergar e manipular esses ventos.
 
-> Com toda essa informação, ele havia realmente se assustado, não sabia como lidar com tamanha grandiosidade que Deus havia lhe reservado, e não sabia quando e nem como enfrentaria esses demônios, e nem onde arrumaria forças para isso. Alem disso o rapaz se perguntava também onde acharia os outros profetas? Como se lesse seus pensamentos o Padre lhe disse para não temer que Deus iria guia-lo para a vitória.
+> Com toda essa informação, ele havia realmente se assustado, não sabia como lidar com tamanha grandiosidade que Deus havia lhe reservado, e não sabia quando e nem como enfrentaria esses demônios, e nem onde arrumaria forças para isso. Além disso o rapaz se perguntava também onde acharia os outros profetas? Como se lesse seus pensamentos o Padre lhe disse para não temer que Deus iria guia-lo para a vitória.
 
 > Antes que fosse para casa, Jung recebeu de presente do velho sacerdote uma grande caixa cheia de adornos de ouro, na qual pertencia a um dos antigos Apóstolos e estava guardada para a chegada desse dia.
 
@@ -71,7 +71,7 @@
 
 > Sua jornada não fora fácil, muitas vezes enfrentando obstáculos como as diferencias religiosas, a falta de recursos e muitas vezes o preconceito com sua peregrinação muitas vezes sendo tachado de louco e incômodo, mas mesmo assim ele foi perseverante e continuou a cumprir cada uma das etapas que Deus lhe enviará afim de libertar todos da maldição que estava por vir.
 
-> Em uma de suas passagens, Jung acabou conhecendo uma moça morena muito bela que falava sobre histórias do plano astral e espiritualidade. Seu nome era [[Sarah-Kayla]] que assim como ele estava tentando proteger a humanidade de um mal eminente, como uma andarilha pelo mundo. Os dois tornaram-se bastante próximos nesse período, tanto que fez Jung insistiu que ela lhe acompanhasse, fazendo com que ela se juntasse ao grupo, e com o tempo os dois começaram a se gostar cada vez mais.
+> Em uma de suas passagens, Jung acabou conhecendo uma moça morena muito bela que falava sobre histórias do plano astral e espiritualidade. Seu nome era [[SARAH-KAYLA]] que assim como ele estava tentando proteger a humanidade de um mal eminente, como uma andarilha pelo mundo. Os dois tornaram-se bastante próximos nesse período, tanto que fez Jung insistiu que ela lhe acompanhasse, fazendo com que ela se juntasse ao grupo, e com o tempo os dois começaram a se gostar cada vez mais.
 
 #### A grande tragédia
 
@@ -104,10 +104,6 @@
 > Nos dias que se passaram, Yujima acolheu o rapaz em seu dojô , que com o auxilio dele continuou aperfeiçoando seu domínio do Éter, desta vez com um mestre para guia-lo ele aprendeu como utilizar essa energia de maneira mais inteligente e após um longo treino, ele finalmente havia conseguido controlar aquele poder que usará para devastar os demônio que Jung nomeou como A Fúria dos 12, em homenagem aos seus falecidos amigos. 
 
 > Depois de encontrar um certo equilíbrio consigo mesmo, acabou decidindo juntar as chaves do inferno espalhadas por Hanna afim de resgatar a alma de sua amada do maldito ser das trevas que possuirá o corpo de Sarah naquele dia.
-
-
-
-
 
 ## Arquétipo do Guerreiro
 

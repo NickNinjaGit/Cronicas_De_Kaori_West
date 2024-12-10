@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4ef6d94cb8a3c718",
+        "id": "e6d91a92a2063364",
         "type": "tabs",
         "children": [
           {
-            "id": "c258987f7244c3f5",
+            "id": "967bd97dbf01ce3d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personagens/Secundários/Mestres do Éter/YUJIMA-CHEN.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "YUJIMA-CHEN"
+              "title": "New tab"
             }
           }
         ]
@@ -160,7 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 482.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,48 +171,48 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c258987f7244c3f5",
+  "active": "967bd97dbf01ce3d",
   "lastOpenFiles": [
-    "World Building/Organizações Importantes/10 Mestres do Éter.md",
+    "Untitled Kanban.md",
+    "World Building/Fatos Históricos/Guerras/Sacerdotisas X Bruxas.md",
     "World Building/Lugares Importantes/Dimensões/Reino Profano (Inferno).md",
-    "World Building/Lugares Importantes/Dimensões/Reino dos Renegados.md",
-    "World Building/Lugares Importantes/Dimensões/Reino Divino (Céu).md",
     "World Building/Lugares Importantes/Dimensões/DreamTopia.md",
-    "Personagens/Protagonistas/KAORI SILVA MATSUDA.md",
-    "Personagens/Protagonistas/TAE-JUNG.md",
-    "Personagens/Secundários/HANNA SILVA MATSUDA.md",
-    "Personagens/Secundários/LUCIFER.md",
-    "Personagens/Secundários/Mestres do Éter/YUJIMA-CHEN.md",
-    "Personagens/Secundários/Mestres do Éter/ELEONORA-FIORE.md",
-    "Personagens/Secundários/Mestres do Éter/BAAKO.md",
-    "Personagens/Secundários/Mestres do Éter/ALEXANDRE-CLIFFORD.md",
-    "Personagens/Secundários/Mestres do Éter/ENNARD-MELAHEL.md",
-    "Personagens/Secundários/Mestres do Éter/EVELYN-RABNOTT.md",
-    "Personagens/Secundários/Mestres do Éter/MANUEL-IXCHAJIL.md",
-    "Personagens/Secundários/Mestres do Éter/FLAVIA-TSARA.md",
-    "Personagens/Secundários/Mestres do Éter/SIGVARD.md",
-    "World Building/Fatos Históricos/Criação/Fissuras de DreamTopia.md",
-    "World Building/Fatos Históricos/Criação/Dilúvio Elemental.md",
-    "World Building/Fatos Históricos/Criação/Celestiais.md",
-    "Personagens/Secundários/Mestres do Éter/SARAH-QUINTZ.md",
+    "World Building/Organizações Importantes/Sacerdotisas/Sacerdotisas das Chamas Renascentes.md",
+    "World Building/Organizações Importantes/10 Mestres do Éter.md",
+    "World Building/Fatos Históricos/Guerras",
     "World Building/Lugares Importantes/Reino Profano (Inferno).md",
-    "World Building/Lugares Importantes/Dimensões",
-    "Sem título.md",
+    "World Building/Lugares Importantes/Reino dos Renegados.md",
     "World Building/Lugares Importantes/Reino Divino (Céu).md",
-    "World Building/Sistema de poder.md",
+    "World Building/Organizações Importantes/Bruxas/Filhas de Lilith.md",
+    "World Building/Organizações Importantes/Sacerdotisas",
+    "World Building/Organizações Importantes/Bruxas",
+    "Personagens/Secundários/Mestres do Éter/SIGVARD.md",
+    "Personagens/Secundários/Mestres do Éter/YUJIMA-CHEN.md",
+    "Personagens/Secundários/Mestres do Éter/MANUEL-IXCHAJIL.md",
+    "Personagens/Secundários/Mestres do Éter/EVELYN-RABNOTT.md",
+    "Personagens/Secundários/Mestres do Éter/ENNARD-MELAHEL.md",
+    "Personagens/Secundários/Mestres do Éter/BAAKO.md",
+    "Personagens/Secundários/Dominadores de Éter/Sacerdotisas/SAORI-ZAYRA.md",
+    "Personagens/Secundários/Dominadores de Éter",
+    "Personagens/Secundários/Dominadores de Éter/Sacerdotisas",
+    "Personagens/Secundários/MARTIN SILVA.md",
+    "Personagens/Secundários/FRANCIS-GARCIA.md",
+    "Personagens/Secundários/Dominadores de Éter/HINAKA-CHEN.md",
+    "Personagens/Secundários/Dominadores de Éter/Sacerdotisas/HANNA SILVA MATSUDA.md",
+    "Personagens/Secundários/KATE-GARCIA.md",
+    "Personagens/Secundários/Relacionados Kaori/Untitled",
+    "Personagens/Secundários/Relacionados Kaori",
+    "Personagens/Protagonistas/KAORI SILVA MATSUDA.md",
+    "Personagens/Secundários/Dominadores de Éter/SARAH-KAYLA.md",
+    "Templates/Template Personagem.md",
+    "Personagens/Secundários/Dominadores de Éter/LUCIFER.md",
+    "World Building/Lugares Importantes/Dimensões",
     "Imagens/hanna-img.jpg",
     "Imagens/hanna-img 1.jpg",
     "Personagens/Protagonistas",
     "Novo(a) Documento de Texto.txt",
     "Imagens/IMG_6643.jpeg",
-    "World Building/Fatos Históricos/Criação",
-    "World Building/Fatos Históricos",
-    "Templates",
-    "Personagens/Secundários",
-    "Personagens/Antagonistas",
     "Organização.canvas",
-    "World Building/Organizações Importantes",
-    "Personagens/Secundários/Mestres do Éter",
     "Untitled.canvas",
     "IMG_6643.jpeg"
   ]
