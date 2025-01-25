@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e6d91a92a2063364",
+        "id": "0253d3c272fa47e0",
         "type": "tabs",
         "children": [
           {
-            "id": "967bd97dbf01ce3d",
+            "id": "f6c5de34c322e30e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "World Building 🌎/Fatos Históricos/Criação/Celestiais.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Celestiais"
             }
           }
         ]
@@ -156,7 +160,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 752.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,41 +175,41 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b81137c443582fac",
+  "active": "f6c5de34c322e30e",
   "lastOpenFiles": [
-    "Untitled Kanban.md",
-    "World Building 🌎/Fatos Históricos/Guerras/Sacerdotisas X Bruxas.md",
-    "World Building 🌎/Lugares Importantes/Dimensões/Reino Profano (Inferno).md",
-    "World Building 🌎/Lugares Importantes/Dimensões/DreamTopia.md",
-    "World Building 🌎/Organizações Importantes/Sacerdotisas/Sacerdotisas das Chamas Renascentes.md",
+    "World Building 🌎/Fatos Históricos/Criação/Fissuras de DreamTopia.md",
+    "World Building 🌎/Fatos Históricos/Criação/Dilúvio Elemental.md",
+    "World Building 🌎/Fatos Históricos/Criação/Celestiais.md",
+    "Personagens 👤/Secundários/FRANCIS-GARCIA.md",
+    "Personagens 👤/Secundários/Mestres do Éter/YUJIMA-CHEN.md",
+    "Personagens 👤/Secundários/Mestres do Éter/SARAH-QUINTZ.md",
+    "Personagens 👤/Secundários/Mestres do Éter/FLAVIA-TSARA.md",
+    "Personagens 👤/Secundários/Mestres do Éter/ENNARD-MELAHEL.md",
+    "Personagens 👤/Secundários/Mestres do Éter/ELEONORA-FIORE.md",
+    "Personagens 👤/Secundários/Dominadores de Éter/SARAH-KAYLA.md",
+    "Personagens 👤/Secundários/Dominadores de Éter/LUCIFER.md",
+    "Personagens 👤/Secundários/Dominadores de Éter/HINAKA-CHEN.md",
+    "Personagens 👤/Protagonistas/KAORI SILVA MATSUDA.md",
+    "Personagens 👤/Protagonistas/TAE-JUNG.md",
+    "Personagens 👤/Secundários/Mestres do Éter/SIGVARD.md",
+    "Personagens 👤/Secundários/Mestres do Éter/EVELYN-RABNOTT.md",
+    "Personagens 👤/Secundários/Mestres do Éter/BAAKO.md",
+    "Personagens 👤/Secundários/Mestres do Éter/ALEXANDRE-CLIFFORD.md",
+    "Personagens 👤/Secundários/KATE-GARCIA.md",
+    "Personagens 👤/Secundários/MARTIN SILVA.md",
     "World Building 🌎/Organizações Importantes/10 Mestres do Éter.md",
-    "World Building 🌎/Fatos Históricos/Guerras",
-    "World Building/Lugares Importantes/Reino Profano (Inferno).md",
-    "World Building/Lugares Importantes/Reino dos Renegados.md",
-    "World Building/Lugares Importantes/Reino Divino (Céu).md",
+    "World Building 🌎/Sistema de poder.md",
+    "World Building 🌎/Circulo_Elemental.excalidraw.md",
     "World Building 🌎/Organizações Importantes/Bruxas/Filhas de Lilith.md",
+    "World Building 🌎/Organizações Importantes/Sacerdotisas/Sacerdotisas das Chamas Renascentes.md",
+    "Personagens 👤/Secundários/Mestres do Éter/MANUEL-IXCHAJIL.md",
+    "World Building 🌎/Fatos Históricos/Guerras",
     "World Building 🌎/Organizações Importantes/Sacerdotisas",
     "World Building 🌎/Organizações Importantes/Bruxas",
-    "Personagens 👤/Secundários/Mestres do Éter/SIGVARD.md",
-    "Personagens 👤/Secundários/Mestres do Éter/YUJIMA-CHEN.md",
-    "Personagens 👤/Secundários/Mestres do Éter/MANUEL-IXCHAJIL.md",
-    "Personagens 👤/Secundários/Mestres do Éter/EVELYN-RABNOTT.md",
-    "Personagens 👤/Secundários/Mestres do Éter/ENNARD-MELAHEL.md",
-    "Personagens 👤/Secundários/Mestres do Éter/BAAKO.md",
-    "Personagens 👤/Secundários/Dominadores de Éter/Sacerdotisas/SAORI-ZAYRA.md",
     "Personagens 👤/Secundários/Dominadores de Éter",
     "Personagens 👤/Secundários/Dominadores de Éter/Sacerdotisas",
-    "Personagens 👤/Secundários/MARTIN SILVA.md",
-    "Personagens 👤/Secundários/FRANCIS-GARCIA.md",
-    "Personagens 👤/Secundários/Dominadores de Éter/HINAKA-CHEN.md",
-    "Personagens 👤/Secundários/Dominadores de Éter/Sacerdotisas/HANNA SILVA MATSUDA.md",
-    "Personagens 👤/Secundários/KATE-GARCIA.md",
     "Personagens/Secundários/Relacionados Kaori/Untitled",
     "Personagens/Secundários/Relacionados Kaori",
-    "Personagens 👤/Protagonistas/KAORI SILVA MATSUDA.md",
-    "Personagens 👤/Secundários/Dominadores de Éter/SARAH-KAYLA.md",
-    "Templates/Template Personagem.md",
-    "Personagens 👤/Secundários/Dominadores de Éter/LUCIFER.md",
     "World Building 🌎/Lugares Importantes/Dimensões",
     "Imagens 🖼️/hanna-img.jpg",
     "Imagens/hanna-img 1.jpg",

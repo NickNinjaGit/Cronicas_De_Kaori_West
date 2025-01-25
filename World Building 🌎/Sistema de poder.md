@@ -4,7 +4,7 @@
 
 > *Um dominador elemental pode aprender a conectar seu elemento com o Éter, isso permite que o usuário possa modificar seu elemento original, podendo assim se criar um estilo próprio. Este estilo próprio é denominado Técnica de Éter.*
 ---
-[[Circulo_Elemental.excalidraw]]
+  [[Circulo_Elemental.excalidraw]]
 ## Técnicas de Éter:
 ---
 ### Encantamento
@@ -106,6 +106,7 @@ Exemplos de Transmissão:
 > Mestres especialistas em invocação podem convocar um exército inteiro de espíritos ao seu comando.
 
 ## Usos genéricos do Éter
+
 > O Éter além é amplamente usado para modificar o elemento puro do dominador elemental. **Porém caso seja usado sozinho ele pode ter utilidade fora de combate:**
 
 * **Identificação:** Use seu Éter para tentar rastrear objetos imbuídos ou um indivíduo, quanto mais específico a descrição do alvo na mente do usuário, mais facilmente será encontrado.
