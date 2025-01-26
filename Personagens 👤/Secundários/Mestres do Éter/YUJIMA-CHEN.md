@@ -23,6 +23,7 @@
 
 * Lutas de Artes Marciais
 * Meditação
+* Gatos
 
 ### **Desgostos:**
 
