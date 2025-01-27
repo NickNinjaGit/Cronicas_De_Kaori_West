@@ -11,14 +11,14 @@
 
 * **==Medos==**: Perder quem ama, falhar em proteger os inocentes, perder o controle.
 
-* **==Hábitos==**: Refletir em silêncio, Observar antes de agir, 
+* **==Hábitos==**: Refletir em silêncio, Observar antes de agir, usar linguagem formal, falar baixo, dar pequenas pisadas no chão com a ponta do pé antes de lutar.
  
 
-### **Extroversão:** Extrovertido
+### **Extroversão:** Introvertido
 
 ### **Signo:**
 
-### **Altura:** 1,80
+### **Altura:** 1,85
 
 ### **Peso:**  68kg
 
@@ -110,7 +110,18 @@
 
 
 
-## Arquétipo do ——-
+## Arquétipo do Lutador
+
+>O arquétipo do lutador é conceituado na luta por direitos, justiça e liberdade. Ele é estimulado pela **crença na causa que defende** e não desiste até alcançar seus objetivos.
+
+> O lutador carrega particularidades como perseverança, valentia e lealdade. Ele enfrenta oposição e contratempo com bravura, estando disposto a sacrificar seus próprios interesses em prol da causa que defende.
+
+> No caso de Ennard ele é exclusivamente movido em sua missão de neutralizar qualquer ameaça demoníaca que possa vir a aparecer, ele faz isso caçando cultos ou usando sua habilidade para expurgar demônios do corpo das pessoas.
 
 ## Habilidades:
 
+#### Classe: Dominador de Éter Puro
+--- 
+#### Estilo de Combate: Média Distância/Ofensivo
+---
+#### 
