@@ -120,8 +120,10 @@
 
 ## Habilidades:
 
-#### Classe: Dominador de Éter Puro
+#### Classe: Éter Puro 
 --- 
 #### Estilo de Combate: Média Distância/Ofensivo
 ---
-#### 
+#### Técnicas de Éter
+
+> Ennard é um amaldiçoador invocador 
