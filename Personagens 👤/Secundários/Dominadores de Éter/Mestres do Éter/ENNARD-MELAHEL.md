@@ -124,6 +124,12 @@
 --- 
 #### Estilo de Combate: Média Distância/Ofensivo
 ---
+#### Aura Etérea - 
+
+> Como um renegado, naturalmente Ennard transmite uma aura mais poderosa e ameaçadora. Ele pode usar isso para intimidar seus inimigos.
+---
+
+
 #### Técnicas de Éter:
 ##### **Toque Fantasma (Maldição)**
 
@@ -153,3 +159,48 @@
 ###### **Consumo de Éter**: Baixo (poucos alvos) a Médio (muitos alvos).
 ###### **Complexidade**: Alta (dificuldade em expandir a técnica).
 
+
+##### **Mercado Negro (Maldição)**
+
+> Ennard faz um pacto de alma para obter um benefício temporário. Ele pode oferecer partes de sua alma como moeda de troca para ganhar uma habilidade específica, aumentar seu poder ou obter vantagens estratégicas.
+
+##### **Uso da Técnica**  
+
+- Ennard impõe uma **condição** para ativar a técnica. Quanto mais severa a condição, maior será a força ou criatividade do benefício obtido.  
+
+> **Exemplo:** Se Ennard restringir temporariamente sua visão, ele poderá ganhar uma percepção aguçada do Éter ao seu redor, desviando ataques com precisão quase sobrenatural.
+
+- A condição não precisa estar diretamente relacionada à habilidade desejada.
+  
+- A condição pode envolver:
+  - O uso de algum objeto valioso do alvo.
+  - O sacrifício de Éter do próprio usuário.  
+  - Sempre inclui a aposta de parte da alma como requisito.
+
+- Ennard define a **duração do contrato**, que normalmente é curta, mas pode variar conforme a necessidade.  
+
+- Ele pode também selar contratos com criaturas voluntárias, que recebem um benefício em troca.
+
+##### **Bônus do Toque Fantasma**  
+
+- Graças ao **Toque Fantasma**, Ennard pode controlar exatamente quanta parte de sua alma deseja fragmentar para formar pequenos contratos.  
+
+- Essa combinação é útil em combates rápidos, onde raciocínio estratégico é crucial.  
+
+- Resquícios de memórias obtidas pelo Toque Fantasma podem ser usados para persuadir voluntários em pactos.
+
+##### **Limitações**  
+
+- Se a condição do contrato for quebrada, o alvo perde parte da capacidade de usar Éter, podendo ser parcialmente incapacitado.  
+
+- Ennard pode manter, no máximo, **3 contratos simultâneos por pessoa**. Isso evita que ele sustente um número ilimitado de pactos complexos.  
+
+- Ele não pode exigir algo impossível ou fora de seu alcance.  
+
+##### **Consumo de Éter**  
+
+- Variável, dependendo das condições e exigências do pacto. O gasto é sempre **imediato**.  
+
+##### **Complexidade**  
+
+- **Alta:** Difícil de ampliar ou evoluir.
