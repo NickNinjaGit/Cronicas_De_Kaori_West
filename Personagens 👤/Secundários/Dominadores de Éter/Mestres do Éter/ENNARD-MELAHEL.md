@@ -120,10 +120,36 @@
 
 ## Habilidades:
 
-#### Classe: Éter Puro 
+#### Classe: Dominador de Éter Puro 
 --- 
 #### Estilo de Combate: Média Distância/Ofensivo
 ---
-#### Técnicas de Éter
+#### Técnicas de Éter:
+##### **Toque Fantasma (Maldição)**
 
-> Ennard é um amaldiçoador invocador 
+> Ennard pode fragmentar temporariamente a alma de uma pessoa, acessando partes de suas memórias e emoções. Isso lhe permite manipular o estado emocional do alvo, causando tonturas, fraquezas, experiências extracorpóreas ou estimulando lembranças.
+
+###### **Uso da Técnica**:
+
+- Ennard deve tocar o alvo para ativar a técnica, criando um fio invisível de Éter que conecta um dedo dele ao inimigo.
+- Ele também pode usar a técnica em si mesmo para fortalecer suas habilidades, sacrificando parte de sua alma.
+
+###### **Efeitos do Uso**:
+
+- **Extração de Memórias**: Ennard acessa pedaços das memórias do alvo. Quanto mais intensa a fragmentação, mais memórias ele consegue acessar.
+- **Instabilidade do Alvo**: O alvo pode reviver momentos traumáticos ou se desnortear, com efeitos mais fortes em humanos e criaturas irracionais, e possibilidade de exorcismo em anjos e demônios possuidores.
+
+###### **Limitações**:
+
+- Ennard não pode manter a alma fragmentada por muito tempo; após uma hora, o Éter começa a ser consumido.
+- Se o fio de Éter for cortado, a técnica será desfeita, e Ennard sofrerá um impacto na sua alma.
+- Não pode fragmentar muitas almas ao mesmo tempo sem perder a intensidade.
+
+###### **Efeitos Secundários em Ennard**:
+
+- **Sobrecarregado Psicologicamente**: Ennard sente as emoções e memórias acessadas, o que pode causar confusão mental e **cansaço emocional**.
+- **Tempo de Recuperação**: Após usar a técnica por muito tempo, Ennard precisa de **descanso** para processar as experiências e recuperar o controle.
+
+###### **Consumo de Éter**: Baixo (poucos alvos) a Médio (muitos alvos).
+###### **Complexidade**: Alta (dificuldade em expandir a técnica).
+
