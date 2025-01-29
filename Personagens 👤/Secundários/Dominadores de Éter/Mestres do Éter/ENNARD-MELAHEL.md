@@ -204,3 +204,61 @@
 ##### **Complexidade**  
 
 - **Alta:** Difícil de ampliar ou evoluir.
+
+# **Soul Reaper (Invocação)**
+
+> Ennard conjura almas injustiçadas de diferentes épocas e situações, unindo-as para formar uma entidade poderosa conhecida como *Soul Reaper*.  
+
+> Durante a invocação, um imenso tornado de almas surge, enquanto pequenos estilhaços de energia espectral semelhantes a vidro se unem para moldar a figura da entidade. Ao término do ritual, o *Soul Reaper* aparece como uma figura espectral extremamente alta, encapuzada, sem rosto, com pele branca e frequentemente portando uma foice longa. Sua presença é marcada por uma aura poderosa e sussurros assombrosos de vozes do passado.
+
+---
+
+## **Usos da Técnica**
+1. Ennard define um **objetivo específico** que o *Soul Reaper* deve cumprir para liberar as almas.  
+2. Para reunir as almas, Ennard utiliza seu próprio **Éter**, funcionando como um sonar que atrai os fragmentos espirituais.  
+3. Quanto mais almas forem reunidas, mais poderoso e maior o *Soul Reaper* se torna.  
+
+---
+
+## **Capacidades**
+O *Soul Reaper* adapta sua forma, estilo de combate e estratégia conforme o objetivo estabelecido:
+
+- **Retaguarda (Suporte)**  
+  - Complementa pontos fracos do aliado.  
+  - Usa ataques à distância para atrapalhar inimigos.  
+  - **Aparência:** perde o capuz e ganha uma capa que cobre todo o corpo, dando a impressão de flutuar.  
+
+- **Vanguarda (Ofensivo)**  
+  - Amplia força física e mágica, atacando frontalmente.  
+  - **Aparência:** corpo musculoso com uma armadura espartana; empunha uma poderosa espada.  
+
+- **Protetor (Defensivo)**  
+  - Aumenta drasticamente a resistência, equiparando-se ao aço.  
+  - **Aparência:** cresce em altura, veste armadura pesada e porta dois escudos de torre.  
+
+- **Perseguição (Velocidade)**  
+  - Adquire habilidades atléticas e velocidade aumentada.  
+  - **Aparência:** perde completamente o manto, adotando um visual esportivo similar ao XLR8.  
+
+---
+
+## **Dissipação**
+- Ennard pode dissipar o *Soul Reaper* a qualquer momento, mas isso consome uma grande quantidade de Éter.
+
+---
+
+## **Limitações**
+1. O *Soul Reaper* não consegue se adaptar a situações complexas quando está enfraquecido.  
+2. Se ferido, cada golpe dissipa fragmentos de almas, enfraquecendo a invocação.  
+3. Ennard precisa consumir Éter constantemente para mantê-lo ativo.  
+4. Se o objetivo definido não for cumprido, o *Soul Reaper* se autodestrói, causando um dano significativo em Ennard.
+
+---
+
+## **Consumo de Éter**
+- **Variável:** Depende da quantidade de almas reunidas.  
+
+---
+
+## **Complexidade**
+- **Mediana:** Ainda há espaço para aprimoramentos futuros.
