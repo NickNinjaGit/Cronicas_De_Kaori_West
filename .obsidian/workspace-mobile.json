@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Personagens 👤/Secundários/Dominadores de Éter/Mestres do Éter/ENNARD-MELAHEL.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -36,7 +36,8 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical"
+            "sortOrder": "alphabetical",
+            "autoReveal": false
           },
           "icon": "lucide-folder-closed",
           "title": "Files"

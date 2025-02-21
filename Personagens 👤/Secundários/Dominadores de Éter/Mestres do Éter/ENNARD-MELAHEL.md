@@ -26,8 +26,8 @@
 
 * Comidas de lojas de conveniências
 * Vinho
-* Lutar com pessoas fortes
 * Dias de Chuva
+* Música clássica
 * Viajar
 
 ### **Desgostos:**
@@ -38,9 +38,14 @@
 * Arrogância
 ### **Ideais:** 
 
-* Ser humilde
-* Proteger o mundo dos perigos eminentes
-* Evitar que as ambições ceguem seu objetivo
+* Proteger os fracos.
+* Evitar que as ambições ceguem seu objetivo.
+
+### Maneirismos:
+
+* Estralar os dedos frequentemente 
+* Fala baixa
+* De vez em quando tem alguns tiques, (como se tivesse a impressão que um espírito tocasse seu corpo) um toque frio e gélido.
 
 ## Backstory:
 ### Prólogo 
