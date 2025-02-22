@@ -1,13 +1,15 @@
 
 Prólogo - Kaori sendo introduzida ao mundo do Éter após o ataque de forças demoníacas
 
-Arco 1 - RellsLab, Segunda chave do Inferno estaria da posse de Gabe Rells antigo colega do chefe de Kaori que acabou se corrompendo após experimentos com os cristais. Introdução da Clever Roach, alguma bruxa poderosa e um arco de rendenção do Gabe posteriormente
+Arco 1 - RellsLab, Segunda chave do Inferno estaria da posse de Gabe Rells antigo colega do chefe de Kaori que acabou se corrompendo após experimentos com os cristais. Introdução da Clever Roach, alguma bruxa poderosa e um arco de redenção do Gabe posteriormente
 
 Arco 2 - Arco da chave do Monte Everest, Criaturas de Dreamptopia, DireWolfs, Escalada no monte, desafios naturais e mágicos elementais. Ajuda de um DireWolf que se propõe a se sacrificar para ajuda-los a sobreviver, posteriormente descobrimos que sua espirito se encontrou com Baako (Maior invocador) e ele ajuda Kaori e ajuda ele a reencontrar ela.
 
 Arco 3 - Corrida para a chave do inferno, disputa de quem chega primeiro, possíveis ameaças sendo provavelmente demônios, bruxas e outros usuários de éter ou dominadores elementais puros, talvez um antigo tesouro ou uma grande pista.
 
-Arco 4 - Sem ideias mas provavelmente uma pessoa comum com uma das chaves, outra disputa para ver quem toma primeiro.
+Arco 4 - Sem ideias mas provavelmente uma pessoa comum com uma das chaves, provavelmente vai envolver algo grande.
+
+Arco 5 - Abertura dos portões do inferno, conflito com Ennard Melahel, própositos explicados e o pacto de alma para entrar no inferno.
 
 ### Arcos de transição:
 
