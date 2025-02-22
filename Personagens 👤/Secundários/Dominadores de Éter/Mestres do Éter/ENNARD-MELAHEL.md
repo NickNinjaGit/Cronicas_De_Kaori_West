@@ -164,7 +164,7 @@
 
 > Ennard faz um pacto de alma para obter um benefício temporário. Ele pode oferecer partes de sua alma como moeda de troca para ganhar uma habilidade específica, aumentar seu poder ou obter vantagens estratégicas.
 
-##### **Uso da Técnica**  
+###### **Uso da Técnica**  
 
 - Ennard impõe uma **condição** para ativar a técnica. Quanto mais severa a condição, maior será a força ou criatividade do benefício obtido.  
 
@@ -181,7 +181,7 @@
 
 - Ele pode também selar contratos com criaturas voluntárias, que recebem um benefício em troca.
 
-##### **Bônus do Toque Fantasma**  
+###### **Bônus do Toque Fantasma**  
 
 - Graças ao **Toque Fantasma**, Ennard pode controlar exatamente quanta parte de sua alma deseja fragmentar para formar pequenos contratos.  
 
@@ -189,7 +189,7 @@
 
 - Resquícios de memórias obtidas pelo Toque Fantasma podem ser usados para persuadir voluntários em pactos.
 
-##### **Limitações**  
+###### **Limitações**  
 
 - Se a condição do contrato for quebrada, o alvo perde parte da capacidade de usar Éter, podendo ser parcialmente incapacitado.  
 
@@ -197,10 +197,8 @@
 
 - Ele não pode exigir algo impossível ou fora de seu alcance.  
 
-##### **Consumo de Éter**  
+###### **Consumo de Éter**  
 
 - Variável, dependendo das condições e exigências do pacto. O gasto é sempre **imediato**.  
 
-##### **Complexidade**  
-
-- **Alta:** Difícil de ampliar ou evoluir.
+###### **Complexidade:** Difícil de ampliar ou evoluir.
