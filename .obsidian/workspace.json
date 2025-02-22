@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "KATE-GARCIA"
             }
+          },
+          {
+            "id": "34b389da10bc6739",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -190,8 +204,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cb704cbbce46fa37",
+  "active": "34b389da10bc6739",
   "lastOpenFiles": [
+    "Personagens 👤/Secundários/KATE-GARCIA.md",
+    "conflict-files-obsidian-git.md",
     "Personagens 👤/Secundários/Dominadores de Éter/Mestres do Éter/ENNARD-MELAHEL.md",
     "Personagens 👤/Secundários/Dominadores de Éter/Mestres do Éter/EVELYN-RABNOTT.md",
     "Personagens 👤/Secundários/Dominadores de Éter/Mestres do Éter/ALEXANDRE-CLIFFORD.md",
@@ -206,7 +222,6 @@
     "Personagens 👤/Secundários/Dominadores de Éter/Sacerdotisas/SAORI-ZAYRA.md",
     "Personagens 👤/Secundários/Dominadores de Éter/Sacerdotisas/HANNA SILVA MATSUDA.md",
     "Personagens 👤/Secundários/MARTIN SILVA.md",
-    "Personagens 👤/Secundários/KATE-GARCIA.md",
     "Personagens 👤/Secundários/FRANCIS-GARCIA.md",
     "Personagens 👤/Secundários/Dominadores de Éter/Mestres do Éter/MANUEL-IXCHAJIL.md",
     "Personagens 👤/Secundários/Dominadores de Éter/Mestres do Éter/SIGVARD.md",
@@ -217,7 +232,6 @@
     "World Building 🌎/Fatos Históricos/Criação/Celestiais.md",
     "World Building 🌎/Fatos Históricos/Criação/Fissuras de DreamTopia.md",
     "World Building 🌎/Fatos Históricos/Criação/Dilúvio Elemental.md",
-    "World Building 🌎/Organizações Importantes/10 Mestres do Éter.md",
     "World Building 🌎/Fatos Históricos/Guerras",
     "World Building 🌎/Organizações Importantes/Sacerdotisas",
     "World Building 🌎/Organizações Importantes/Bruxas",
