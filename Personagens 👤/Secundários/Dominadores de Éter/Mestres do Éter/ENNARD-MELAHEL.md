@@ -16,7 +16,7 @@
 
 ### **Extroversão:** Introvertido
 
-### **Signo:**
+### **Signo:** 
 
 ### **Altura:** 1,85
 

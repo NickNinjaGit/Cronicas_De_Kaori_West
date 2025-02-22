@@ -7,7 +7,6 @@
 * Carismático
 * Inspirador
 * Líder
-* Otimista 
 ### **Extroversão:** Extrovertido
 
 ### **Gostos:** 
