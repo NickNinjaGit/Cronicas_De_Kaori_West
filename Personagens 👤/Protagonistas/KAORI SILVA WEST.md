@@ -1,3 +1,4 @@
+
 ##  Ficha de Informações
 
 #char-info
@@ -49,7 +50,7 @@
 ### **Signo:** Leão
 ---
 
-### **Altura:** 1,73m
+### **Altura:** 1,70m
 ---
 
 ### **Peso:** 65kg

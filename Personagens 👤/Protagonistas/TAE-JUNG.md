@@ -40,7 +40,9 @@
 
 ### **Religião:** Católico 
 
-### **Signo:** Leão
+### **Signo:** Sagitario
+
+### Altura: 1,85m
 
 ## Backstory
 

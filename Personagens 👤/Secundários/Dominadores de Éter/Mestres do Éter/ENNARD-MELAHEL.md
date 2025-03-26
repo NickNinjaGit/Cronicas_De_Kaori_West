@@ -111,10 +111,6 @@
 
 > Ele já sabia que nunca poderia fazer nada sobre aquilo, já que ele reconhecia que havia se tornado outra pessoa, mas Ennard estava decidido a proteger a caçar qualquer tipo de culto aos demônios ou até mesmo impedir qualquer pessoa de pisar ao inferno, apesar de não ter feito o mesmo, ele sabia que isso representaria um risco enorme para as pessoas comuns como pra ele fora, e com seu tremendo poder de Dominador de Éter puro ele estava decidido a impedir qualquer um. 
 
-
-
-
-
 ## Arquétipo do Lutador
 
 >O arquétipo do lutador é conceituado na luta por direitos, justiça e liberdade. Ele é estimulado pela **crença na causa que defende** e não desiste até alcançar seus objetivos.
@@ -213,24 +209,25 @@
 
 - **Alta:** Difícil de ampliar ou evoluir.
 
-# **Soul Reaper (Invocação)**
+# **U2 (Invocação)**
 
-> Ennard conjura almas injustiçadas de diferentes épocas e situações, unindo-as para formar uma entidade poderosa conhecida como *Soul Reaper*.  
+> Ennard conjura almas injustiçadas de diferentes épocas e situações, unindo-as para formar uma amálgama de almas extremamente poderosa denominada U2.  
 
-> Durante a invocação, um imenso tornado de almas surge, enquanto pequenos estilhaços de energia espectral semelhantes a vidro se unem para moldar a figura da entidade. Ao término do ritual, o *Soul Reaper* aparece como uma figura espectral extremamente alta, encapuzada, sem rosto, com pele branca e frequentemente portando uma foice longa. Sua presença é marcada por uma aura poderosa e sussurros assombrosos de vozes do passado.
+> Durante a invocação, um imenso tornado de almas surge, enquanto pequenos estilhaços de energia espectral semelhantes a vidro se unem para moldar a figura da entidade. Ao término do ritual, o *U2* aparece como uma figura espectral extremamente alta, encapuzada, sem rosto, com pele branca e frequentemente portando uma foice longa. Sua presença é marcada por uma aura poderosa e sussurros assombrosos de vozes do passado.
 
 ---
 
 ## **Usos da Técnica**
-1. Ennard define um **objetivo específico** que o *Soul Reaper* deve cumprir para liberar as almas.  
+1. Ennard define um **objetivo específico** que o U2 deve cumprir para liberar as almas.  
 2. Para reunir as almas, Ennard utiliza seu próprio **Éter**, funcionando como um sonar que atrai os fragmentos espirituais.  
 3. Quanto mais almas forem reunidas, mais poderoso e maior o *Soul Reaper* se torna.  
 
 ---
 
 ## **Capacidades**
-O *Soul Reaper* adapta sua forma, estilo de combate e estratégia conforme o objetivo estabelecido:
+O U2 adapta sua forma, estilo de combate e estratégia conforme o objetivo estabelecido:
 
+* Neutro 
 - **Retaguarda (Suporte)**  
   - Complementa pontos fracos do aliado.  
   - Usa ataques à distância para atrapalhar inimigos.  
@@ -270,4 +267,3 @@ O *Soul Reaper* adapta sua forma, estilo de combate e estratégia conforme o obj
 
 ## **Complexidade**
 - **Mediana:** Ainda há espaço para aprimoramentos futuros.
->>>>>>> origin/master

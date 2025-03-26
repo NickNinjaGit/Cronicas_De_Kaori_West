@@ -74,7 +74,7 @@
 
 > Buscando uma vida nova e um refúgio no mundo humano, Hanna escolheu o Japão, cuja cultura se alinhava com as histórias e lendas que sua mãe lhe contava. Lá, ela viveu entre os humanos e prosseguiu em sua missão de reunir o antigo clã das Sacerdotisas das Chamas Renascentes. Para isso, viajou pelo mundo em busca das sacerdotisas dispersas e contou a elas sobre a queda de Saori e as novas ameaças.
 
-> Durante essas viagens, ela chegou ao Brasil, onde, em um incidente envolvendo um assalto, conheceu Martin Silva. Ele tentou protegê-la, mas foi rapidamente colocado em risco — situação que Hanna resolveu rapidamente. Esse ato de coragem de Martin impressionou Hanna, e os dois começaram a se conhecer melhor. Desse relacionamento surgiu um amor profundo, levando ao nascimento de sua filha, Kaori.
+> Durante essas viagens, ela chegou ao Brasil, onde, em um incidente envolvendo um assalto, conheceu Martin Silva West. Ele tentou protegê-la, mas foi rapidamente colocado em risco — situação que Hanna resolveu rapidamente. Esse ato de coragem de Martin impressionou Hanna, e os dois começaram a se conhecer melhor. Desse relacionamento surgiu um amor profundo, levando ao nascimento de sua filha, Kaori.
 
 #### Separação e Sacrifício
 
