@@ -2,14 +2,36 @@
 
 ### Idade: 2000 anos
 
-### **Personalidade**
+## ! Personalidade 
+
+### **Traços Básicos**
 ---
-* Gentil
-* Carinhosa
-* Acolhedora
-* Empática
-* Humilde
-### **Extroversão:** Extrovertida
+* Gentil (Hanna aprendeu muito com sua mãe sobre gentileza através de contos infantis que Saori adorava lhe contar)
+* Acolhedora (Hanna nunca pode ter um grande acolhimento em sua infância, e por conta disso, também inspirada pela mãe ela acaba levando esse sentimento consigo)
+* Caridosa (Ela se compadeceu da situação dos servos de seu pai e os ajudou muitas vezes como uma retribuição)
+* Protetora (Um traço desenvolvido no pouco tempo que Hanna ficou com Kaori, mas é algo que ela sempre faz com pessoas mais, como uma mãe realmente)
+* Reservada (Ter crescido protegida de tudo e todos fez ela ser uma pessoa menos aberta)
+* Ingênua (Em contrapartida a sua amabilidade, Hanna pode às vezes ser enganada por simpatizar com alguém mal intencionado)
+### **Extroversão:** Introvertida
+
+> O fato de não ter tanto contato com sua figura paterna muitas vezes fez com que Hanna nunca tivesse coragem para se expressar tanto, um espécie de medo interno que a fez mais introvertida desde pequena.
+
+### Consienciosidade (Alta)
+
+> Hanna sempre foi mais organizada e disciplina, doutrina que lhe foi ensinada desde pequena através de seus professores particulares, ela frequentemente tem costume de contar datas importantes ou compromissos em sua cabeça.
+
+### Amabilidade (Alta)
+
+> Hanna nutriu em sua essência esse aspecto muito por sua vivência com sua mãe adoecida quanto pelos servos, isso fez ela construir uma forte empatia por quase qualquer um, porém isso pode ser um risco em certos casos na qual ela é muito boazinha com alguém mal intencionado.
+
+### Neurocitismo (Alto)
+
+> Apesar de carregar o fardo de ter cometido um crime dimensional e ter abandonado sua filha, Hanna sempre tentou erguer a cabeça desde seus tempos difíceis como Moeru Shubotsu, carregando uma responsabilidade gigantesca desde sempre, porém, sendo vista como uma figura de inspiração para alguns, ela agiu sempre com responsabilidade para não demonstrar fraqueza.
+
+### Abertura (Baixo)
+
+> Hanna nunca gostou da ideia de tentar algo diferente pois ela sempre foi criada em sua zona de conforto refletindo diretamente em um receio de experimentar novas coisas.
+
 
 ### **Gostos:**
 
@@ -54,7 +76,8 @@
 
 > Após completar 15 anos, Hanna acordou no meio da noite se sentindo muito mal, como se seu corpo estivesse queimando, depois de um tempo seus cabelos pretos haviam ficado brancos e seus olhos brilhavam em um tom avermelhado, suas unhas se tornaram garras e de sua cabeça brotavam chifres. Mal sabia a garota o que se passava, mas a para os demônios a puberdade significava a ascensão de seus poderes demoníacos.
 > 
-> Naquele fatídico dia, Hanna incontrolavelmente destruiu uma grande parte do palácio com sua força sobrenatural além de ter matados dezenas de demônios e servos de seu pai que residiam ali. Isso chamou a atenção de Lúcifer, que já previa esse evento considerando a idade da filha,  aproveitando o corrido usou a oportunidade para testar Hanna em um combate mortal. No final da luta, quando estava prestes a derrotar a garota, Saori interviu rapidamente barrando Lúcifer com um ataque mágico. Após isso, ela estabilizou sua filha, a deixando desacordada. Lúcifer enfurecido confrontou a mulher dizendo para não se meter naquilo, entretanto Saori o repreendeu dizendo que ele havia mudado e não queria que Hanna tivesse o mesmo destino do pai aceitando a coroa do inferno. Lúcifer enfurecido tentou matar a mulher que o confrontara, e para se defender a sacerdotisa teve que usar seus poderes pela última vez para derrotar o rei do inferno.
+> Naquele fatídico dia, Hanna incontrolavelmente destruiu uma grande parte do palácio com sua força sobrenatural além de ter matados dezenas de demônios e servos de seu pai que residiam ali. Isso chamou a atenção de Lúcifer, que já previa esse evento considerando a idade da filha,  aproveitando o corrido usou a oportunidade para testar Hanna em um combate mortal. No final da luta, quando estava prestes a derrotar a garota, Saori interviu rapidamente barrando Lúcifer com um ataque mágico. Após isso, ela estabilizou sua filha, a deixando desacordada. Lúcifer enfurecido confrontou a mulher dizendo para não se meter naquilo, entretanto Saori o repreendeu dizendo que ele havia mudado e não queria que Hanna tivesse o mesmo destino do pai aceitando a coroa do inferno. Lúcifer enfurecido tentou matar a mulher  
+> e para se defender a sacerdotisa teve que usar seus poderes pela última vez para derrotar o rei do inferno.
 > 
 > A batalha foi dura, mas Saori saiu vitoriosa conseguindo conter a fúria de Lúcifer, entretanto isso enfraqueceu a mulher. Neste instante, por um breve momento a Coroa da Serpente deixou de controlar a mente de Lúcifer, e arrependido de suas ações, antes que fosse dominado novamente, ele chorou e se despediu de Saori a beijando uma última vez, pois sabia que seu fim era inevitável, além de abraçar uma última vez sua filha.
 > 
