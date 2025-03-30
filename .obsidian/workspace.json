@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ideias Rápidas Saga Chaves do Inferno.md",
+                "file": "Personagens 👤/Secundários/MARTIN SILVA WEST.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ideias Rápidas Saga Chaves do Inferno"
+              "title": "MARTIN SILVA WEST"
+            }
+          },
+          {
+            "id": "0ae11b80a2f6607d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -40,7 +53,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -175,15 +189,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "529284168c9baaab",
+  "active": "0ae11b80a2f6607d",
   "lastOpenFiles": [
+    "Ideias Rápidas Saga Chaves do Inferno.md",
+    "Personagens 👤/Secundários/MARTIN SILVA WEST.md",
+    "Personagens 👤/Protagonistas/KAORI SILVA WEST.md",
     "conflict-files-obsidian-git.md",
     "Personagens 👤/Secundários/KATE-GARCIA.md",
     "Personagens 👤/Secundários/Dominadores de Éter/Mestres do Éter/ENNARD-MELAHEL.md",
     "Personagens 👤/Secundários/Dominadores de Éter/Mestres do Éter/EVELYN-RABNOTT.md",
     "Personagens 👤/Secundários/Dominadores de Éter/Mestres do Éter/ALEXANDRE-CLIFFORD.md",
     "World Building 🌎/Sistema de poder.md",
-    "Ideias Rápidas Saga Chaves do Inferno.md",
     "Personagens 👤/Secundários/Dominadores de Éter/Mestres do Éter/FLAVIA-TSARA.md",
     "Personagens 👤/Secundários/Dominadores de Éter/Mestres do Éter/ELEONORA-FIORE.md",
     "Personagens 👤/Secundários/Dominadores de Éter/Mestres do Éter/BAAKO.md",
@@ -201,8 +217,6 @@
     "Personagens 👤/Protagonistas/TAE-JUNG.md",
     "Personagens 👤/Protagonistas/KAORI SILVA MATSUDA.md",
     "World Building 🌎/Fatos Históricos/Criação/Celestiais.md",
-    "World Building 🌎/Fatos Históricos/Criação/Fissuras de DreamTopia.md",
-    "World Building 🌎/Fatos Históricos/Criação/Dilúvio Elemental.md",
     "World Building 🌎/Fatos Históricos/Guerras",
     "World Building 🌎/Organizações Importantes/Sacerdotisas",
     "World Building 🌎/Organizações Importantes/Bruxas",

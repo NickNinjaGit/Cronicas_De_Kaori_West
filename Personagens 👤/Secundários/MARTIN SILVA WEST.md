@@ -46,7 +46,7 @@
 *  Falta de Honestidade (Pelo fato dele sempre ter levado uma vida justa ele não gosta dessa ideia)
 *  Manipulação (A ideia de se sobrepor por cima de outra pessoa para seu próprio bem é algo inadmissível)
 * Pessoas de Ego inflado
-* Solidão.
+* Solidão
 
 ### **Ideais:** 
 ---
