@@ -50,9 +50,10 @@
 ### Ideais: 
 ---
 
-* Superação e perseverança - mesmo em uma situação desfavorecida desde de pequeno Martin nunca abaixou a cabeça e nunca desistiu de seus objetivos
+* Superação e perseverança 
+> mesmo em uma situação desfavorecida desde de pequeno Martin nunca abaixou a cabeça e nunca desistiu de seus objetivos
 
-* Valorização da Família - Martin sempre põe sua família em primeiro lugar, por isso mesmo, as vezes se é necessário sacrificar para se dedicar em sustentar quem ele ama.
+> Valorização da Família - Martin sempre põe sua família em primeiro lugar, por isso mesmo, as vezes se é necessário sacrificar para se dedicar em sustentar quem ele ama.
 --- 
 
 
@@ -84,9 +85,10 @@
 - Idade - 40 Anos
 - Religião - Ateu
 - Profissão - Empresário
-- Altura - 1,70m
+- Altura - 1,68m
 - Peso - 80kg
 - Signo - Áries 
+- Etnia - Africana 
 ---
 ### **Gostos:** 
 --- 
@@ -111,12 +113,10 @@ Pele: Parda
 Olhos: Escuros tamanho médio com leves olheiras
 Nariz: médio
 Dentes; um pouco amarelados
-Orelhas: Tamanho médio e redondas
-Boca: Lábios pequenos.
 Cabelo: Pretos cacheados crespos e longos
 Barba: Apenas deixa bigode e cavanhaque
-Fisionomia: Visivelmente um pouco acima do peso
-
+Fisionomia: Visivelmente um pouco acima do peso.
+Vestimentas: Roupas sociais azuis, sapatos pretos e camiseta branca por baixo.
 
 ## ! Backstory
 
