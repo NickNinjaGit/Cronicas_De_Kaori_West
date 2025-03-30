@@ -1,50 +1,96 @@
-## Ficha de Personagem
+# Ficha de Personagem
 
-### Idade: 2000 anos
+## ! Personalidade 
 
-### **Personalidade**
+### *Traços Básicos*
 ---
-* Gentil
-* Carinhosa
-* Acolhedora
-* Empática
-* Humilde
-### **Extroversão:** Extrovertida
+* Gentil (Hanna aprendeu muito com sua mãe sobre gentileza através de contos infantis que Saori adorava lhe contar)
+* Acolhedora (Hanna nunca pode ter um grande acolhimento em sua infância, e por conta disso, também inspirada pela mãe ela acaba levando esse sentimento consigo)
+* Caridosa (Ela se compadeceu da situação dos servos de seu pai e os ajudou muitas vezes como uma retribuição)
+* Protetora (Um traço desenvolvido no pouco tempo que Hanna ficou com Kaori, mas é algo que ela sempre faz com pessoas mais, como uma mãe realmente)
+* Reservada (Ter crescido protegida de tudo e todos fez ela ser uma pessoa menos aberta)
+* Ingênua (Em contrapartida a sua amabilidade, Hanna pode às vezes ser enganada por simpatizar com alguém mal intencionado)
+* Pacífica (Hanna nunca gostou de resolver as coisas através da violência, entretanto se for necessário ela o fará)
+### *Extroversão: Introvertida*
 
-### **Gostos:**
+> O fato de não ter tanto contato com sua figura paterna muitas vezes fez com que Hanna não tivesse coragem para se expressar muito, um espécie de medo interno que a fez mais introvertida desde pequena.
 
-* Pintura 
-* Arte
+### *Consienciosidade (Alta)*
+
+> Hanna sempre foi mais organizada e disciplina, doutrina que lhe foi ensinada desde pequena através de seus professores particulares, ela frequentemente tem costume de contar datas importantes ou compromissos em sua cabeça.
+
+### *Amabilidade (Alta)*
+
+> Hanna nutriu em sua essência esse aspecto muito por sua vivência com sua mãe adoecida quanto pelos servos, isso fez ela construir uma forte empatia por quase qualquer um, porém isso pode ser um risco em certos casos na qual ela é muito boazinha com alguém mal intencionado.
+
+### *Neurocitismo (Alto)*
+
+> Apesar de carregar o fardo de ter cometido um crime dimensional e ter abandonado sua filha pelo bem de Lúcifer, Hanna sempre tentou erguer a cabeça desde seus tempos difíceis como Moeru Shubotsu, carregando uma responsabilidade gigantesca, porém, sendo vista como uma figura de inspiração para suas sacerdotisas, ela se manteve firme para não demonstrar fraqueza.
+
+### *Abertura (Baixo)*
+
+> Hanna nunca gostou da ideia de tentar algo diferente pois ela sempre foi criada em sua zona de conforto refletindo diretamente em um receio de experimentar novas coisas.
+
+## ! Social
+
+### *Conflitos Internos*
+
+> Hanna carrega consigo o fardo de ter escolhido salvar seu pai ao invés de ficar com sua filha, apesar de ter feito isso para protegê-la dos perigos do inferno e levá-la a ter que seguir o seu caminho e de sua mãe; Hanna ainda se sente muito mal por ser ausente na vida de Kaori.
+
+### *Conflitos Externos*
+
+> Por ter desafiado todo o inferno e ter cometido um crime dimensional, Hanna colocou um grande alvo em suas costas fazendo com que qualquer um que esteja perto dela corra perigo, as únicas pessoas que ela pode contar são suas sacerdotisas.
+
+### *Ideais*
+
+* Caridade e Compaixão:
+> Inspirada pelas aventuras de sua mãe e a missão das sacerdotisas, Hanna jurou ser leal aos mais pobres e necessitados, ajudando-nos com pequenas ações, ou até mesmo confrontando os mais grandiosos por eles.
+
+* Controlar os seus Demônios:
+> Hanna nunca se deixou levar pelo ódio e o rancor, a negação de sua forma demoníaca foi uma forma dela aprender a manter um equilibro de humildade ao invés de ser egoista. 
+
+* Trilhe seu próprio caminho e arque com isso:
+> Através de sua rebeldia contra o inferno e todas as suas provações enquanto mantinha a alcunha de Moeru Shubotsu, Hanna acredita que as pessoas devem ter sua própria independência e não permitir que seja oposta a amarras da vida, entretanto devem também encarar os desafios de sua escolha e se manter firme.
+
+## ! Informativo 
+
+* Idade: 666 anos
+* Religião: Espiritualista
+* Profissão: Cantora e Compositora (Enquanto estava na Terra)
+* Altura: 1,77m
+* Peso: 70kg
+* Signo: Peixes
+* Etnia: Nipônica (Apesar de ser do inferno, ela e Saori tem ancestrais nipônicos)
+
+### *Gostos*:
+
+* Arte e Pintura (Admira principalmente obras renascentistas)
 * Tocar instrumentos Clássicos: (Violino, Piano, Flauta)
-* Fazer trilha
-* Meditação
-* Ler
+* Leitura (Romance Aventuresco e Romântico)
+* Herbologia
+* Estudo das ciências naturais (Biologia, Química e Física)
 
-### **Desgostos:**
+### *Desgostos*:
 
-- **Ambição desmedida e egoísmo**: Hanna despreza pessoas que colocam suas ambições acima do bem-estar dos outros, especialmente porque ela já viu os efeitos devastadores da ganância em seu passado.
----
-- **Agressividade e falta de empatia**: Como uma pessoa profundamente empática, Hanna se sente desconfortável perto de quem não se importa com os sentimentos dos outros ou age de maneira agressiva e impulsiva.
----
-- **Abuso de poder e manipulação**: Hanna tem uma aversão natural a quem usa seu poder ou influência para manipular ou prejudicar os mais vulneráveis, refletindo uma oposição ao seu passado demoníaco e ao abuso de poder que viu ao lado de Lúcifer.
----
-- **Negligência com a natureza**: Tendo gosto por trilhas e meditação, ela se incomoda com quem desrespeita o meio ambiente e a tranquilidade que a natureza proporciona.
+* Pessoas Egoistas
+* Ódio e Violência
+* Humilhação contra pessoas carentes
+* Ganância e o Orgulho
+* Manipulação (principalmente com o que seu pai planejará a ela mas falhara)
 
-### **Ideais:**
+### *Aparencia:*
 
-- **Proteger os inocentes**: Hanna sente a responsabilidade de usar seus poderes e sua sabedoria para proteger os que não podem se defender sozinhos, especialmente agora que está fora do inferno.
----
-- **Buscar redenção e equilíbrio**: Consciente de seu passado sombrio, Hanna busca equilibrar as forças do bem e do mal, servindo como um agente de harmonia entre os dois mundos.
----
-- **Cultivar a beleza e a paz**: Ela acredita que a arte e a música são forças restauradoras que podem ajudar a trazer paz e compreensão, algo que tenta compartilhar sempre que possível.
+* Pele: Branca, porém levemente degradada com algumas cicatrizes.
+* Olhos: pequenos, castanhos levemente avermelhados, (quando usa seus poderes ficam totalmente avermelhados)
+* Nariz: Longo e fino 
+* Cabelos: Longos Castanhos Lisos
+* Acessórios: Brincos Redondos e Braceletes com adornos de Topázio.
+* Roupas: Vestimentas brancas e vermelhas largas e leves.
+
+![[hanna-img.jpg]]
 
 
-### **Signo:** Peixes
-
-### **Altura:** 1,75
-### **Peso:** 68kg
-
-## Backstory:
+## ! Backstory:
 
 #### Infância
  
@@ -54,7 +100,8 @@
 
 > Após completar 15 anos, Hanna acordou no meio da noite se sentindo muito mal, como se seu corpo estivesse queimando, depois de um tempo seus cabelos pretos haviam ficado brancos e seus olhos brilhavam em um tom avermelhado, suas unhas se tornaram garras e de sua cabeça brotavam chifres. Mal sabia a garota o que se passava, mas a para os demônios a puberdade significava a ascensão de seus poderes demoníacos.
 > 
-> Naquele fatídico dia, Hanna incontrolavelmente destruiu uma grande parte do palácio com sua força sobrenatural além de ter matados dezenas de demônios e servos de seu pai que residiam ali. Isso chamou a atenção de Lúcifer, que já previa esse evento considerando a idade da filha,  aproveitando o corrido usou a oportunidade para testar Hanna em um combate mortal. No final da luta, quando estava prestes a derrotar a garota, Saori interviu rapidamente barrando Lúcifer com um ataque mágico. Após isso, ela estabilizou sua filha, a deixando desacordada. Lúcifer enfurecido confrontou a mulher dizendo para não se meter naquilo, entretanto Saori o repreendeu dizendo que ele havia mudado e não queria que Hanna tivesse o mesmo destino do pai aceitando a coroa do inferno. Lúcifer enfurecido tentou matar a mulher que o confrontara, e para se defender a sacerdotisa teve que usar seus poderes pela última vez para derrotar o rei do inferno.
+> Naquele fatídico dia, Hanna incontrolavelmente destruiu uma grande parte do palácio com sua força sobrenatural além de ter matados dezenas de demônios e servos de seu pai que residiam ali. Isso chamou a atenção de Lúcifer, que já previa esse evento considerando a idade da filha,  aproveitando o corrido usou a oportunidade para testar Hanna em um combate mortal. No final da luta, quando estava prestes a derrotar a garota, Saori interviu rapidamente barrando Lúcifer com um ataque mágico. Após isso, ela estabilizou sua filha, a deixando desacordada. Lúcifer enfurecido confrontou a mulher dizendo para não se meter naquilo, entretanto Saori o repreendeu dizendo que ele havia mudado e não queria que Hanna tivesse o mesmo destino do pai aceitando a coroa do inferno. Lúcifer enfurecido tentou matar a mulher  
+> e para se defender a sacerdotisa teve que usar seus poderes pela última vez para derrotar o rei do inferno.
 > 
 > A batalha foi dura, mas Saori saiu vitoriosa conseguindo conter a fúria de Lúcifer, entretanto isso enfraqueceu a mulher. Neste instante, por um breve momento a Coroa da Serpente deixou de controlar a mente de Lúcifer, e arrependido de suas ações, antes que fosse dominado novamente, ele chorou e se despediu de Saori a beijando uma última vez, pois sabia que seu fim era inevitável, além de abraçar uma última vez sua filha.
 > 
@@ -88,6 +135,35 @@
 > Hanna sabia que a tirania de Lúcifer vinha, em parte, de um artefato conhecido como a Coroa da Serpente, que havia corrompido sua sanidade em troca de controle absoluto sobre o inferno. Saori sempre desejara destruir esse artefato e libertar Lúcifer da maldição, e Hanna decidiu continuar o legado de sua mãe e das sacerdotisas.
 
 > Escondida nas sombras, Hanna reuniu-se com as Sacerdotisas das Chamas Renascentes. Juntas, elas planejaram uma forma de destruir a Coroa da Serpente, acreditando que, ao fazer isso, poderiam libertar Lúcifer dessa tortura e, quem sabe, transformar o inferno em um lugar melhor. Ela também espalhou as chaves do inferno pelo mundo em locais de difícil acesso, garantindo que não caíssem nas mãos erradas.
+
+
+## ! Front Story
+
+### Confronto com o homem encapuzado
+
+> Antes mesmo da jornada de Kaori começar, Hanna e suas sacerdotisas tentaram encontrar um método de abrir os portões do inferno sem a utilização da chaves, nesse período, elas viajaram do Monte Everest até **lugar não definido** seguindo o caminho da constelação de Draco, esse fora o grande segredo que ela havia posto para esconder a localização dos portões do inferno.
+
+> Porém, quando estavam prestes a chegar no antigo templo, Hanna e seu grupo foram atacados por uma criatura alta encapuzada e pele totalmente branca e sem rosto, antes mesmo que pudessem reagir elas caíram em uma armadilha ficando totalmente isoladas da parte externa e incapazes de progredir adentro.
+
+> Contudo, Hanna não desanimou e acabou elaborando uma estratégia para vencer essa situação. E então ela se fez de isca, fazendo com que a figura encapuzada se cansasse cada vez mais de persegui-la, o plano era arriscado, mas com paciência ela acabou por fim acertando pelo menos um ataque na figura branca, isso foi o suficiente para ela começar a lentamente se regenerar, como ela havia deduzido era um construto de éter com mais alguma infusão. Garantindo essa informação ela pediu para suas sacerdotisas criarem um selo consumidor e éter, dito e feito, um trabalho que durou 1 semana cansativa fez com que elas chamassem a atenção do portador dessa invocação.
+
+> Até que enfim elas conseguiram sair e Hanna logo se deparou com Ennard, um dos Mestres do Éter que por razões próprias guardava os portões do Éter.
+
+> O rapaz reconheceu a astúcia de Hanna e não esperava que o seu U2 não conseguisse lidar com essa limitação. Apesar de tudo, o diálogo dos dois foi bem amistoso, pois Ennard não havia atritos com a sacerdotisa demoníaca, mas de certa forma ele guardava um leve desgosto pela atitude de Hanna, na qual ele demonstrou na conversa.
+
+> Por outro lado, ao invés de começar mais um conflito, Hanna simplesmente se mostrou compadecida e se desculpou pelos seus semelhantes, e para mostrar suas intenções, ela prometeu não mais usar as chaves outra vez, visto a catástrofe que os Mestres do Éter teriam que resolver. 
+
+> Questionada da sua volta para o inferno, Hanna foi sincera e que não poderia fugir de seu passado e por isso iria arrumar alguma forma de voltar para lá para resolver assuntos pendentes pelo bem de seu pai, e por isso decidiu em terminar o que começou.
+
+> Vendo que a sacerdotisa não estava brincando em sua fala, Ennard propôs uma ideia, ele disse que com sua habilidade Mercado Negro poderia trocar algo a alma da pessoa junto de algo valioso para realizar um pacto, após o pacto selado, a pessoa não poderia voltar atrás. Se a oferta de Hanna fosse grande o suficiente para tal feito, ela poderia ir até o inferno novamente.
+
+> Decidida a resolver tudo de uma vez, Hanna aceitou a proposta e disse que não só entraria no inferno mas jurou ao Mercado Negro que libertaria o inferno do terror causado todo esse tempo prometendo sua vida ao Mestre do Éter.
+
+> As outras sacerdotisas, chocadas, tentaram convencer Hanna de voltar atrás, que elas poderiam procurar outro meio já que ela estava em seu último ciclo de renascença. Porém, Hanna disse que aquela missão não era algo atrelado a elas e que se ninguém fosse com ela, a mulher não exitaria em cumprir seu dever, ela disse que não poderia mais fugir dos seus pecados e que não iria julgar quem fosse contra a ideia.
+
+> Inspiradas por essa fala, apenas 4 de 20 sacerdotisas se juntaram a Hanna, entre elas estavam [[Ginna Foster]] e
+
+
 ## Arquétipo do Cuidador
 
 **Características:**
@@ -103,8 +179,3 @@
 **Exemplos:** Eva em _Precisamos Falar Sobre Kevin_ , Samwise de _O Senhor dos Anéis_, Mary Poppins.
 ## Habilidades:
 
-## Aparência:
-
-***Uma mulher esbelta que mostra serenidade em seu olhar, com belos cabelos negros e lindos olhos vermelhos como uma joia rara, sua feição calma porém confiante transborda força e equilíbrio ao mesmo tempo. Em seu pescoço ela carrega uma correia alargada que segura uma preciosa pedra de âmbar. Emanando chamas mágicas de suas mãos que refletem em seus brincos Hanna mostra todo seu poder!***
-
-![[hanna-img.jpg]]
