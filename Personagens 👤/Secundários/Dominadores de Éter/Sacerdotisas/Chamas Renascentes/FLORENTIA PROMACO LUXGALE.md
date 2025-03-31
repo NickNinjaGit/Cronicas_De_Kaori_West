@@ -1,3 +1,6 @@
+Sacerdotisa inspirada em Florence Nightgale
+Promaco faz referencia a Atena
+
 # Personagem
 
 ## ! Personalidade
@@ -24,4 +27,11 @@
 
 
 ## Técnicas de Éter
+
+
+
+
+
+
+
 

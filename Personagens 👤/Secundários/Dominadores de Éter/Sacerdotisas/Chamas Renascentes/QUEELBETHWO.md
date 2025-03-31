@@ -1,3 +1,5 @@
+Uma sacerdotisa em referencia a Rainha Elizabeth II, e principal líder da divisão da força terrena.
+
 # Personagem
 
 ## ! Personalidade
@@ -24,4 +26,3 @@
 
 
 ## Técnicas de Éter
-

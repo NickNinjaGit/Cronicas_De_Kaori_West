@@ -4,37 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "e73af74b67273742",
+        "id": "53149f5f38e7defb",
         "type": "tabs",
         "children": [
           {
-            "id": "529284168c9baaab",
+            "id": "88a614cbf6b20580",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personagens 👤/Secundários/MARTIN SILVA WEST.md",
+                "file": "Personagens 👤/Secundários/Dominadores de Éter/Sacerdotisas/Chamas Renascentes/HANNA SILVA MATSUDA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MARTIN SILVA WEST"
-            }
-          },
-          {
-            "id": "0ae11b80a2f6607d",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.9"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
+              "title": "HANNA SILVA MATSUDA"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -189,34 +176,35 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0ae11b80a2f6607d",
+  "active": "88a614cbf6b20580",
   "lastOpenFiles": [
-    "Ideias Rápidas Saga Chaves do Inferno.md",
-    "Personagens 👤/Secundários/MARTIN SILVA WEST.md",
-    "Personagens 👤/Protagonistas/KAORI SILVA WEST.md",
-    "conflict-files-obsidian-git.md",
+    "Personagens 👤/Secundários/FRANCIS-GARCIA.md",
     "Personagens 👤/Secundários/KATE-GARCIA.md",
-    "Personagens 👤/Secundários/Dominadores de Éter/Mestres do Éter/ENNARD-MELAHEL.md",
-    "Personagens 👤/Secundários/Dominadores de Éter/Mestres do Éter/EVELYN-RABNOTT.md",
-    "Personagens 👤/Secundários/Dominadores de Éter/Mestres do Éter/ALEXANDRE-CLIFFORD.md",
-    "World Building 🌎/Sistema de poder.md",
-    "Personagens 👤/Secundários/Dominadores de Éter/Mestres do Éter/FLAVIA-TSARA.md",
-    "Personagens 👤/Secundários/Dominadores de Éter/Mestres do Éter/ELEONORA-FIORE.md",
-    "Personagens 👤/Secundários/Dominadores de Éter/Mestres do Éter/BAAKO.md",
+    "Personagens 👤/Secundários/MARTIN SILVA WEST.md",
     "Personagens 👤/Secundários/Dominadores de Éter/SARAH-KAYLA.md",
     "Personagens 👤/Secundários/Dominadores de Éter/LUCIFER.md",
     "Personagens 👤/Secundários/Dominadores de Éter/HINAKA-CHEN.md",
-    "Personagens 👤/Secundários/Dominadores de Éter/Sacerdotisas/SAORI-ZAYRA.md",
-    "Personagens 👤/Secundários/Dominadores de Éter/Sacerdotisas/HANNA SILVA MATSUDA.md",
+    "Personagens 👤/Secundários/Dominadores de Éter/Sacerdotisas/KAORI ZAYRA.md",
+    "Personagens 👤/Secundários/Dominadores de Éter/Sacerdotisas/Chamas Renascentes/PARTHELYN PRYTANEIA LUXGALE.md",
+    "Personagens 👤/Secundários/Dominadores de Éter/Sacerdotisas/Chamas Renascentes",
+    "Personagens 👤/Secundários/Dominadores de Éter/Sacerdotisas/Chamas Renascentes/HANNA SILVA MATSUDA.md",
+    "Personagens 👤/Secundários/Dominadores de Éter/Sacerdotisas/Chamas Renascentes/FLORENTIA PROMACO LUXGALE.md",
+    "Personagens 👤/Secundários/Dominadores de Éter/Sacerdotisas/Chamas Renascentes/CORNELLE KATARAMÉNI.md",
+    "Personagens 👤/Secundários/Dominadores de Éter/Sacerdotisas/Chamas Renascentes/QUEELBETHWO.md",
+    "Personagens 👤/Secundários/Dominadores de Éter/Sacerdotisas/Chamas Renascentes/SAORI-ZAYRA.md",
+    "Personagens 👤/Secundários/Dominadores de Éter/Mestres do Éter/ENNARD-MELAHEL.md",
+    "World Building 🌎/IDEIAS RAPIDAS SACERDOTISAS E BRUXAS.md",
+    "Ideias Rápidas Saga Chaves do Inferno.md",
+    "World Building 🌎/Sistema de poder.md",
+    "Drawing 2025-03-31 01.17.44.excalidraw.md",
+    "Personagens 👤/Protagonistas/KAORI SILVA WEST.md",
+    "conflict-files-obsidian-git.md",
+    "Personagens 👤/Secundários/Dominadores de Éter/Mestres do Éter/EVELYN-RABNOTT.md",
+    "Personagens 👤/Secundários/Dominadores de Éter/Mestres do Éter/ALEXANDRE-CLIFFORD.md",
+    "Personagens 👤/Secundários/Dominadores de Éter/Mestres do Éter/FLAVIA-TSARA.md",
+    "Personagens 👤/Secundários/Dominadores de Éter/Mestres do Éter/ELEONORA-FIORE.md",
+    "Personagens 👤/Secundários/Dominadores de Éter/Mestres do Éter/BAAKO.md",
     "Personagens 👤/Secundários/MARTIN SILVA.md",
-    "Personagens 👤/Secundários/FRANCIS-GARCIA.md",
-    "Personagens 👤/Secundários/Dominadores de Éter/Mestres do Éter/MANUEL-IXCHAJIL.md",
-    "Personagens 👤/Secundários/Dominadores de Éter/Mestres do Éter/SIGVARD.md",
-    "Personagens 👤/Secundários/Dominadores de Éter/Mestres do Éter/SARAH-QUINTZ.md",
-    "Personagens 👤/Secundários/Dominadores de Éter/Mestres do Éter/YUJIMA-CHEN.md",
-    "Personagens 👤/Protagonistas/TAE-JUNG.md",
-    "Personagens 👤/Protagonistas/KAORI SILVA MATSUDA.md",
-    "World Building 🌎/Fatos Históricos/Criação/Celestiais.md",
     "World Building 🌎/Fatos Históricos/Guerras",
     "World Building 🌎/Organizações Importantes/Sacerdotisas",
     "World Building 🌎/Organizações Importantes/Bruxas",
@@ -228,7 +216,6 @@
     "Imagens 🖼️/hanna-img.jpg",
     "Imagens/hanna-img 1.jpg",
     "Personagens 👤/Protagonistas",
-    "Novo(a) Documento de Texto.txt",
     "Imagens 🖼️/IMG_6643.jpeg",
     "Organização.canvas",
     "Untitled.canvas",

@@ -1,3 +1,6 @@
+Sacerdotisa inspirada de **Frances Parthenope Verney, Lady Verney**
+PRYTANEIA faz referencia a Héstia da mitologia grega
+
 # Personagem
 
 ## ! Personalidade
@@ -24,4 +27,3 @@
 
 
 ## Técnicas de Éter
-

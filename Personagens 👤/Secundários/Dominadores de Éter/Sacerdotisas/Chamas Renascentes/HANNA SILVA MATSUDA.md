@@ -159,9 +159,9 @@
 
 > Decidida a resolver tudo de uma vez, Hanna aceitou a proposta e disse que não só entraria no inferno mas jurou ao Mercado Negro que libertaria o inferno do terror causado todo esse tempo prometendo sua vida ao Mestre do Éter.
 
-> As outras sacerdotisas, chocadas, tentaram convencer Hanna de voltar atrás, que elas poderiam procurar outro meio já que ela estava em seu último ciclo de renascença. Porém, Hanna disse que aquela missão não era algo atrelado a elas e que se ninguém fosse com ela, a mulher não exitaria em cumprir seu dever, ela disse que não poderia mais fugir dos seus pecados e que não iria julgar quem fosse contra a ideia.
+> As outras sacerdotisas, chocadas, tentaram convencer Hanna de voltar atrás, que elas poderiam procurar outro meio já que ela estava em seu último ciclo de renascença. Porém, Hanna disse que aquela missão não era algo atrelado a elas e que se ninguém fosse com ela, a mulher não hesitaria em cumprir seu dever, ela disse que não poderia mais fugir dos seus pecados e que não iria julgar quem fosse contra a ideia.
 
-> Inspiradas por essa fala, apenas 4 de 20 sacerdotisas se juntaram a Hanna, entre elas estavam [[Ginna Foster]] e
+> Inspiradas por essa fala, apenas 4 de 20 sacerdotisas se juntaram a Hanna, entre elas estavam [FLORENTIA LUXGALE](), [SOPHIE SCHOLL]() e uma sacerdotisa novata, porém principal discipula de Hanna chamada [CORNELLE KATARAMÉNI](). O resto das sacerdotisas acabaram ficando de fora, e Hanna nomeou sua sub comandante e a mais velha de todas [QUEELBETHTWO]() como a líder oficial da divisão terrena, encarregada de cuidar dos assuntos externos. Após longas despedidas, Hanna e seu sucinto grupo finalmente selaram o pacto com o Mercado Negro de Ennard e finalmente entraram aos portões do inferno.
 
 
 ## Arquétipo do Cuidador

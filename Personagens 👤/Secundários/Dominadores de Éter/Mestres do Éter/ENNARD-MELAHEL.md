@@ -119,7 +119,7 @@
 
 > No caso de Ennard ele é exclusivamente movido em sua missão de neutralizar qualquer ameaça demoníaca que possa vir a aparecer, ele faz isso caçando cultos ou usando sua habilidade para expurgar demônios do corpo das pessoas.
 
-## Habilidades:
+# Habilidades:
 
 #### Classe: Dominador de Éter Puro 
 --- 
@@ -209,7 +209,7 @@
 
 - **Alta:** Difícil de ampliar ou evoluir.
 
-# **U2 (Invocação)**
+## **U2 (Invocação)**
 
 > Ennard conjura almas injustiçadas de diferentes épocas e situações, unindo-as para formar uma amálgama de almas extremamente poderosa denominada U2.  
 
