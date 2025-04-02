@@ -52,6 +52,49 @@
 * Trilhe seu próprio caminho e arque com isso:
 > Através de sua rebeldia contra o inferno e todas as suas provações enquanto mantinha a alcunha de Moeru Shubotsu, Hanna acredita que as pessoas devem ter sua própria independência e não permitir que seja oposta a amarras da vida, entretanto devem também encarar os desafios de sua escolha e se manter firme.
 
+### *Relações* 
+
+**Ciclo de Amizades**
+
+> Hanna tem ciclos de amizades bem resumidos, pois não gosta tanto da ideia da experimentação, ela se sente segura perto das pessoas que ela já conhece como as sacerdotisas das chamas renascentes.
+
+**Relação com [[QUEELBETHWO]]**
+
+> Hanna e Queelbethwo possuem uma relação de mestra e aluna, ja que Queel era uma das pessoas leigas que Saori havia ensinado a arte do Éter, e provavelmente a sacerdotisa mais poderosa do grupo em questão de técnicas. Além disso Queelbethwo era muito próxima de Saori, e enxergou totalmente sua amiga em Hanna, por isso ela se preocupa como se fosse sua mãe, ensinando também realidades que Hanna nunca imaginaria viver.
+
+**Relação com [[CORNELLE KATARAMÉNI]]**
+
+> Cornelle foi acolhida e cuidada por Hanna após ela deixar Martin e partir em busca das sacerdotisas. E desde sempre a sacerdotisa criou um forte vínculo com a garota, já que, vendo a necessidade de esconder a maldição de Cornelle das demais, Hanna tratou de ser protetora em ela. E toda vez que estão juntas, a mulher se lembra de sua filha contando toda vez sobre Kaori, sempre a tratando como irmã mais nova de Cornelle.
+
+**Relação com [[S’SCHÖLL ROCKFELLER]] [[HELENA TICIATA]] e [[FLORENTIA PROMACO LUXGALE]]
+
+> Ambas as 3 são mais que simples amigas para Hanna, mas sim pessoas de confiança que ela poderia contar a todo momento, isso tudo graças aos desafios e conquistas que as 4 conquistaram juntas no inferno. Outra coisa que reforçou mais seus vínculos foram suas idades parecidas, e em especial Helena por ser filha de Seiva, a fundadora do grupo.
+
+**Relação com [[MARTIN SILVA WEST]]**
+
+> Martin e Hanna tiveram um romance bem clássico, cheio de afetos e carinhos, no geral, quem acabou se encantando primeiro foi ela, já que, o passado de Martin se alinhava muito aos seus princípios e isso foi crucial para que os dois se unissem. 
+
+**Relação com [[KAORI SILVA WEST]]**
+
+> Apesar de conseguirem se conhecer depois de tantos anos, Hanna ficou muito feliz de se reencontrar com sua primogênita, na qual foi um encontro emocionante para ambos os lados, com a mulher relembrando de seu passado e retomando laços com sua filha. Porém , infelizmente na batalha decisiva para libertar Lúcifer, Hanna acabou se sacrificando para salvar a todos, passando também sua chama e o seu legado para Kaori em uma morte honrosa.
+### Máscaras Sociais
+
+**Empresarial/Formal**
+
+> Hanna tanto no seu papel de professora de herbologia como em sua antiga carreira como cantora demonstrava-se bem confiante e preparada para acalorar os corações das pessoas ou dos estudantes mais curiosos, ela amava seu trabalho e fazia isso muito bem, misturando profissionalismo com um tom leve de sua personalidade carinhosa.
+
+**Como Sacerdotisa**
+
+> Quando se tornou de fato sacerdotisa, Hanna mudou totalmente sua postura para gerar confiança e respeito para suas colegas, apesar de seu nome ser bem falado por sua ousadia de desafiar o inferno, Hanna mostrou para o que ela veio, sendo bem estrategista e disciplinada com suas colegas.
+
+
+**Como Esposa/Figura Materna**
+
+> Aqui é onde Hanna demonstra sua verdadeira face, se revelando como uma pessoa reservada e quieta, porém protetora e carinhosa, coisa que é bem incomum para quem a não conhece bem. Isso se mostrou verdade tanto com Cornelle quanto com Kaori.
+
+
+
+
 ## ! Informativo 
 
 * Idade: 666 anos
@@ -139,7 +182,7 @@
 
 ## ! Front Story
 
-### Confronto com o homem encapuzado
+### Confronto com o Homem Encapuzado
 
 > Antes mesmo da jornada de Kaori começar, Hanna e suas sacerdotisas tentaram encontrar um método de abrir os portões do inferno sem a utilização da chaves, nesse período, elas viajaram do Monte Everest até **lugar não definido** seguindo o caminho da constelação de Draco, esse fora o grande segredo que ela havia posto para esconder a localização dos portões do inferno.
 
@@ -147,7 +190,9 @@
 
 > Contudo, Hanna não desanimou e acabou elaborando uma estratégia para vencer essa situação. E então ela se fez de isca, fazendo com que a figura encapuzada se cansasse cada vez mais de persegui-la, o plano era arriscado, mas com paciência ela acabou por fim acertando pelo menos um ataque na figura branca, isso foi o suficiente para ela começar a lentamente se regenerar, como ela havia deduzido era um construto de éter com mais alguma infusão. Garantindo essa informação ela pediu para suas sacerdotisas criarem um selo consumidor e éter, dito e feito, um trabalho que durou 1 semana cansativa fez com que elas chamassem a atenção do portador dessa invocação.
 
-> Até que enfim elas conseguiram sair e Hanna logo se deparou com Ennard, um dos Mestres do Éter que por razões próprias guardava os portões do Éter.
+### Determinação de Ouro
+
+> Quando elas conseguiram sair do local, Hanna logo se deparou com Ennard, um dos Mestres do Éter que por razões próprias guardava os portões do Inferno.
 
 > O rapaz reconheceu a astúcia de Hanna e não esperava que o seu U2 não conseguisse lidar com essa limitação. Apesar de tudo, o diálogo dos dois foi bem amistoso, pois Ennard não havia atritos com a sacerdotisa demoníaca, mas de certa forma ele guardava um leve desgosto pela atitude de Hanna, na qual ele demonstrou na conversa.
 
@@ -161,16 +206,27 @@
 
 > As outras sacerdotisas, chocadas, tentaram convencer Hanna de voltar atrás, que elas poderiam procurar outro meio já que ela estava em seu último ciclo de renascença. Porém, Hanna disse que aquela missão não era algo atrelado a elas e que se ninguém fosse com ela, a mulher não hesitaria em cumprir seu dever, ela disse que não poderia mais fugir dos seus pecados e que não iria julgar quem fosse contra a ideia.
 
-> Inspiradas por essa fala, apenas 4 de 20 sacerdotisas se juntaram a Hanna, entre elas estavam [[Personagens 👤/Secundários/Dominadores de Éter/Sacerdotisas/Chamas Renascentes/FLORENTIA PROMACO LUXGALE|FLORENTIA PROMACO LUXGALE]] [[SOPHIE SCHÖLL]] e uma sacerdotisa novata, porém principal discipula de Hanna chamada [[Personagens 👤/Secundários/Dominadores de Éter/Sacerdotisas/Chamas Renascentes/CORNELLE KATARAMÉNI|CORNELLE KATARAMÉNI]] O resto das sacerdotisas acabaram ficando de fora, e Hanna nomeou sua sub comandante e a mais velha de todas [[Personagens 👤/Secundários/Dominadores de Éter/Sacerdotisas/Chamas Renascentes/QUEELBETHWO|QUEELBETHWO]] como a líder oficial da divisão terrena, encarregada de cuidar dos assuntos externos. Após longas despedidas, Hanna e seu sucinto grupo finalmente selaram o pacto com o Mercado Negro de Ennard e finalmente entraram no inferno.
+> Inspiradas por essa fala, apenas 4 de 20 sacerdotisas se juntaram a Hanna, entre elas estavam [[Personagens 👤/Secundários/Dominadores de Éter/Sacerdotisas/Chamas Renascentes/FLORENTIA PROMACO LUXGALE|FLORENTIA PROMACO LUXGALE]] [[S’SCHÖLL ROCKFELLER]], [[HELENA TICIATA]] e uma sacerdotisa novata, porém principal discípula de Hanna chamada [[Personagens 👤/Secundários/Dominadores de Éter/Sacerdotisas/Chamas Renascentes/CORNELLE KATARAMÉNI|CORNELLE KATARAMÉNI]] O resto das sacerdotisas acabaram ficando de fora, e Hanna nomeou sua sub comandante e a mais velha de todas [[Personagens 👤/Secundários/Dominadores de Éter/Sacerdotisas/Chamas Renascentes/QUEELBETHWO|QUEELBETHWO]] como a líder oficial da divisão terrena, encarregada de cuidar dos assuntos externos. Após longas despedidas, Hanna e seu sucinto grupo finalmente selaram o pacto com o Mercado Negro de Ennard entrando no inferno.
+
+### As grandes Provações Profanas
+
+> Durante suas desventuras dentro do inferno, inicialmente o plano era apenas libertar Lúcifer e tentarem encontrar uma saída depois disso, entretanto conforme elas passavam por várias regiões diferentes, Hanna percebeu que a realidade de um inferno realizado estava longe de ser verdade, ela acreditava que as coisas haviam mudado ali, entretanto era exatamente o contrário.
+
+> Hanna não só se compadeceu pelo seu povo como decidiu assumir um novo objetivo para sua missão, que até poderia auxilia-las na missão principal, na qual consistia em derrotar todos os regentes do inferno afim de chamar a atenção de Lúcifer e concluir seu plano, porém ela sabia que seria uma tarefa árdua e cansativa já que elas estavam em menor número e ainda precisavam lidar com ameaças naturais como criaturas selvagens e mudanças climáticas.
+
+> Apesar das adversidades, o plano de Hanna se mostrou eficaz, e aos poucos o povo todo começou a contar rumores que a Princesa do Inferno havia voltado para libertar todos, ideia que assustou alguns demônios e fez outros começarem a se preparar para algo grande, pois se estivessem certo, seria como enfrentar metade da força de Lúcifer.
+
+### Casulo Amaldiçoado 
+
+> Quando Hanna soube o que suas companheiras fizeram com a sua discípula enquanto estavam com [[CARTADJA]], ela não citou duas vezes em repreendê-las dizendo que um selo poderoso como o daquela bruxa poderia selar uma pessoa quase que eternamente. Suas companheiras tentaram explicar a Hanna os riscos que Cornelle poderia trazer ao grupo graças a sua origem amaldiçoada revelada pelos poderes da bruxa. 
+
+> Foi então que Hanna revelou que desde sempre sabia dos riscos que os poderes ocultos de Cornelle traziam a todas, mas sempre escondeu isso das demais para evitar uma espécie de preconceito vindo delas.
+
+> Assim, para preservar um pouco da integridade e juventude de sua discípula, Hanna decidiu fazer uma ação ousada tanto para sua saúde quanto para sua honra, ela simplesmente dividiu sua chama renascente em 2 partes, dando uma para Cornelle. Antes que se despedisse da garota ela não prometeu que voltaria, mas com metade de sua essência integrada a ela, Cornelle estaria confortável a todo momento enquanto estivesse ali, e em suas últimas palavras Hanna disse que a amou como se fosse sua filha todo esse tempo.
 
 
 
-### Provações e Desafios 
-
-
-
-
-## Arquétipo do Cuidador
+# Arquétipo do Cuidador
 
 **Características:**
 
@@ -183,5 +239,19 @@
 **Desejos:** Proteger e ajudar os outros.
 
 **Exemplos:** Eva em _Precisamos Falar Sobre Kevin_ , Samwise de _O Senhor dos Anéis_, Mary Poppins.
-## Habilidades:
+
+
+# Habilidades
+
+#### Classe: Usuária de Éter
+
+---
+
+#### Estilo de Combate: N/A
+
+---
+
+#### Chama da Renascência
+
+## Técnicas de Éter
 
