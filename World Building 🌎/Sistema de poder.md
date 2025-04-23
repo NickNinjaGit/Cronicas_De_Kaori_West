@@ -1,10 +1,4 @@
-> *Desde o princípio do universo, Deus criou 5 entidades denominadas Celestiais, cada celestial representa alguma força da criação, sendo elas, fogo, água, terra e o ar e éter.*
----
-> *Todo ser vivo tem uma conexão com um Celestial desde sua nascença, caso desenvolve sua habilidade espiritual com um treino adequado, terá domínio de sua força elemental, **==vale citar que todo aquele nascido conectado ao Celestial do Éter poderá ter domínio de todos os elementos.*==**
 
-> *Um dominador elemental pode aprender a conectar seu elemento com o Éter, isso permite que o usuário possa modificar seu elemento original, podendo assim se criar um estilo próprio. Este estilo próprio é denominado Técnica de Éter.*
----
-  [[Circulo_Elemental.excalidraw]]
 ## Técnicas de Éter:
 ---
 ### Encantamento

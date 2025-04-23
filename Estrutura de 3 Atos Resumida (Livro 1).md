@@ -10,7 +10,11 @@
     
 - **A Escolha:**  
     No resgate, Taejung e Yujima aparecem. Em uma conversa reveladora, Yujima dá a Kaori duas opções: esquecer o passado ou correr atrás dos mistérios que a cercam e, assim, encontrar sua mãe. Essa decisão acende o início de sua jornada.
-    
+
+ * ***Período de Adaptação :**  
+    Após conversar com seu pai, Kaori decide aceitar a proposta e então no Japão ela treina por 15 dias para controlar suas chamas enquanto cria laços com Taejung e Hinaka-Chen, após isso ela precisa voltar ao seu trabalho mas promete ajudar na missão.
+
+
 
 ---
 
@@ -36,10 +40,10 @@
 ### **Meio – Jornada, Treinamento e Novos Aliados**
 
 - **Aprendizado e Autoconhecimento:**  
-    No Dojo Chen, no Japão, Kaori passa um mês aprendendo a controlar seus poderes com Taejung, Hinaka (filha de Yujima) e outros aliados.
+    No Dojo Chen, no Japão, Kaori passa um mês aperfeiçoando seus poderes para criar sua primeira técnica de Éter juntamente com o apoio de Taejung, Hinaka (filha de Yujima) e outros aliados.
     
 - **Descobertas e Conexões:**  
-    Durante esse período, Jung revela suas intenções com as chaves do inferno, e Kaori passa a aceitar seu destino de buscar sua mãe e desvendar os segredos deixados por Hanna.
+    Durante esse período, Jung revela suas intenções com as chaves do inferno, dizendo que as queria para salvar a alma de sua amada. E Kaori passa a aceitar seu destino de buscar sua mãe e desvendar os segredos deixados por Hanna.
     
 - **Desafios no Monte Evereste:**  
     Em uma missão paralela, enquanto Kaori enfrenta inimigos da RellLabs, Jung descobre informações sobre desastres naturais no Monte Evereste.
@@ -86,7 +90,7 @@
     Clever Roach retorna, e novos usuários do Éter, cada qual com suas ambições, entram em cena.
     
 - **Aliança e Conflito com a Mestra de Éter:**  
-    Uma Mestra de Éter, motivada pela perda de seu amado para um demônio chamado Leonnis, se envolve na trama. Ela, recebendo dicas de uma figura misteriosa – Ennard Melahel – junta-se à investigação, embora desconfie das intenções de Ennard.
+    [[ELEONORA-FIORE]], motivada pela perda de seu amado para um demônio chamado Leonnis, se envolve na trama. Ela, recebendo dicas de uma figura misteriosa – Ennard Melahel – junta-se à investigação, embora desconfie das intenções de Ennard.
     
 
 ---
@@ -128,7 +132,7 @@
 - **A Nova Proposta:**  
     Com o reencontro e a desistência de vingança, Ennard revela suas reais intenções com a última chave. Ele propõe um pacto similar ao que ofereceu ao grupo de Hanna: com o poder das chaves do inferno mais um pedaço da alma da pessoa, o portão poderá ser aberto.
     
-    - Clever hesita, mas uma conexão interior a faz decidir permanecer na Terra.
+    - Clever hesita graças a uma conexão interior que a faz decidir permanecer na Terra.
         
     - Hinaka decide honrar a promessa feita a seu pai, recusando ir ao inferno.
         
