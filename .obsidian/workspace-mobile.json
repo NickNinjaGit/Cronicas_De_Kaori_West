@@ -41,16 +41,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistema de Poder/Técnicas Elementais.md",
+                "file": "Sistema de Poder/Estilo de Combate.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Técnicas Elementais"
+              "title": "Estilo de Combate"
+            }
+          },
+          {
+            "id": "0d10c92f7a8756cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sistema de Poder/Dominadores.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dominadores"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -190,18 +204,20 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "2393d15a1a4ed347",
+  "active": "16f4f8c124c6d77b",
   "lastOpenFiles": [
-    "Sistema de Poder/Técnicas de Éter.md",
-    "Sistema de Poder/Origem Elemento-Etérica.md",
     "Sistema de Poder/Estilo de Combate.md",
     "Sistema de Poder/Amaldiçoados.md",
-    "Sistema de Poder/Classes de Conjuradores.md",
+    "Sistema de Poder/Dominadores.md",
+    "Sistema de Poder/Técnicas Elementais.md",
+    "Sistema de Poder/Técnicas de Éter.md",
+    "Sistema de Poder/Origem Elemento-Etérica.md",
+    "Sistema de Poder/Reconexão Elemental.md",
+    "World Building 🌎/Organizações Importantes/10 Mestres do Éter.md",
     "World Building 🌎/IDEIAS RAPIDAS SACERDOTISAS E BRUXAS.md",
     "World Building 🌎/Fatos Históricos/Criação/Dilúvio Elemental.md",
     "World Building 🌎/Lugares Importantes/Dimensões/Reino dos Renegados.md",
     "World Building 🌎/Sistema de poder.md",
-    "Sistema de Poder/Técnicas Elementais.md",
     "Sistema de Poder",
     "Estrutura de 3 Atos Completa (Livro 1).md",
     "Ideias Rápidas Saga Chaves do Inferno.md",
@@ -217,8 +233,6 @@
     "Personagens 👤/Secundários/Dominadores de Éter/Sacerdotisas/Chamas Renascentes/PARTHELYN PRYTANEIA LUXGALE.md",
     "Estrutura de 3 Atos Resumida (Livro 1).md",
     "Personagens 👤/Secundários/Dominadores de Éter/Sacerdotisas/Chamas Renascentes/S’SCHÖLL ROCKFELLER.md",
-    "Personagens 👤/Secundários/Dominadores de Éter/Mestres do Éter/ENNARD-MELAHEL.md",
-    "Personagens 👤/Secundários/Dominadores de Éter/Mestres do Éter/ELEONORA-FIORE.md",
     "Untitled",
     "Personagens 👤/Secundários/Dominadores de Éter/Sacerdotisas/Chamas Renascentes",
     "/World Building 🌎",
