@@ -218,7 +218,7 @@
 
 ### Casulo Amaldiçoado 
 
-> Quando Hanna soube o que suas companheiras fizeram com a sua discípula enquanto estavam com [[CARTADJA]], ela não citou duas vezes em repreendê-las dizendo que um selo poderoso como o daquela bruxa poderia selar uma pessoa quase que eternamente. Suas companheiras tentaram explicar a Hanna os riscos que Cornelle poderia trazer ao grupo graças a sua origem amaldiçoada revelada pelos poderes da bruxa. 
+> Quando Hanna soube o que suas companheiras fizeram com a sua discípula enquanto estavam com [[CARTADJA]], ela não exitou duas vezes em repreendê-las dizendo que um selo poderoso como o daquela bruxa poderia selar uma pessoa quase que eternamente. Suas companheiras tentaram explicar a Hanna os riscos que Cornelle poderia trazer ao grupo graças a sua origem amaldiçoada revelada pelos poderes da bruxa. 
 
 > Foi então que Hanna revelou que desde sempre sabia dos riscos que os poderes ocultos de Cornelle traziam a todas, mas sempre escondeu isso das demais para evitar uma espécie de preconceito vindo delas.
 
