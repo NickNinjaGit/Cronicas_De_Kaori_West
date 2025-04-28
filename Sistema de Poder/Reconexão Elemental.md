@@ -33,6 +33,31 @@
 > Assim como o primeiro método, a Cristalização, dependendo da potencia pode sim causar grandes quantidades de energia elemental.
 
 
+# 4 - Vínculo Natural
+
+> A partir de uma vivência longe das grandes cidades, pode-se realizar a reconexão através de um contato direto com as forças da natureza. Ao se expor a um ambiente calmo sem qualquer ou pouca interferência humana, o corpo do usuário começa a absorver aos poucos essa energia sem que seja perceptível.
+
+> O vínculo natural pode ser amplificado caso o usuário realize treinos que o exponham em situações onde ele entre em contato direto com a natureza, como por exemplo nadar em grandes rios, levantar rochas subindo uma montanha ou até mesmo respirando o ar rarefeito de um vulcão. 
+
+
+> No geral, esse método é comumente utilizado por grupos Xamãnicos e Andarilhos para fortalecer suas capacidades espirituais. Um ótimo exemplo disso é [[SARAH-KAYLA]] que em vida fora uma andarilha extremamente conectada as marés e praias, assim desenvolvendo seu elemento novamente.
+
+
+# 5 - Renegação
+
+> A renegação é um método antigo e exclusivo para poucas pessoas, criado pela Rainha dos Renegados [[ASHA-GREY]], consiste em um encantamento extremamente poderoso que dá uma nova chance a almas injustiçadas que não tiveram a chance de serem brilhantes. Assim como uma forma de favorecer contra o destino, o usuário renasce com um novo nome e sendo vinculado ao Celestial do Éter automaticamente, já que esse é o celestial de Asha.
+
+> Além disso, caso a pessoa tenha tido um grande feito heroico em vida, há uma pequena exceção bem difícil de se ocorrer, onde um júri avalia se aquela alma deve ou não retornar, para que então ela se torne um renegado como uma forma de recompensa por seus feitos.
+
+> Um exemplo clássico de Dominador que ganhou seus poderes por renegação foi [[ENNARD-MELAHEL]] na qual era conhecido por Marco Lancelloti e teve um destino trágico tomado pelo demônio [[LEONNIS]]
+
+
+
+
+
+
+
+
 
 
 

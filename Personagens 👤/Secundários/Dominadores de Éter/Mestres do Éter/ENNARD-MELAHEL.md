@@ -202,7 +202,7 @@
 
 - Variável, dependendo das condições e exigências do pacto. O gasto é sempre **imediato**.  
 
-<<<<<<< HEAD
+
 ###### **Complexidade:** Difícil de ampliar ou evoluir.
 =======
 ##### **Complexidade**  
