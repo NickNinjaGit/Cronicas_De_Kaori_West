@@ -251,7 +251,7 @@
 
 ---
 
-#### Chama da Renascência
+#### Chama da Renascença
 
 ## Técnicas de Éter
 
