@@ -19,6 +19,7 @@
 
 > Já o Dominador Primordial para o Puro é quase que impossível e além de ser irreversível pode levar a morte do usuário por se tratar de uma heresia universal fazer isso.
 
+#Dominador-Puro
 ## Dominador Puro
 
 > Dominadores puros são bem incomuns porém são bem mais realistas do que sua contra parte etérica. Esses são aqueles usuários elementais que decidem não aprender a arte do éter e valorizam o uso puro de seu elemento extraindo sua capacidade ao máximo. Já que o Dominador puro é um caminho alternativo e mais completo doque o Híbrido ele demanda esforço e aprendizado contínuo sobre seu elemento.

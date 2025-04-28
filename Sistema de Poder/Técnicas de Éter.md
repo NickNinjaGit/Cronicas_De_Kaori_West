@@ -34,7 +34,8 @@
 
 ## Dominador Híbrido
 
-> Para um Dominador Híbrido amaldiçoador, a ideia é explorar a essência do elemento primário e extrair seus pontos fortes para por o adversário em situações de risco físico. Por mais que as maldições de um Híbrido sejam 
+> Para um Dominador Híbrido amaldiçoador, a ideia é explorar a essência do elemento primário e extrair seus pontos fortes para por o adversário em situações de risco físico. Por mais que as maldições de um Híbrido sejam menos poderosas, elas ainda conseguem ser bem fatais dependendo da situação em que for aplicada.
+
 
 
 
@@ -48,6 +49,22 @@
 
 
 # Invocação
+
+> As técnicas de invocação consistem no usuário utilizar seu Éter para se criar uma forma única de organismo na qual pode ser preenchido por uma consciência ou não, que são conhecidos como Invocações Incompletas e Invocações Completas.
+
+> No geral, invocações incompletas são aquelas que não pensam e seguem as ordens de seu invocador a todo custo, sendo geralmente chamados de Construtos ou Autômatos, por não criarem vínculo com seu usuário, eles não possuem potencial de evoluir suas habilidades, mas em contrapartida, podem se tornar mais poderosos dependendo de quanto éter for utilizado na invocação.
+
+> Já invocações completas são originadas de almas antigas ou espíritos dimensionais, ou seja, seres com consciência própria que podem criar vínculo com seus invocadores. Nesse caso, quanto maior for a afinidade entre eles, maior será o poder daquela invocação, porém, caso o invocador sofra algum dano com uma invocação completa ativa, ele será automaticamente retribuído a ela, mas isso pode ser invertido se for da vontade do usuário.
+
+> Um ótimo exemplo destes dois extremos entre estes arquétipos são [[ENNARD-MELAHEL]] que utiliza o U2 e [[BAAKO]] o Mestre Invocador, que utiliza seus animais de poder.
+
+## Dominador Primordial
+
+> Os Dominadores Primordiais que escolham utilizar técnicas de invocação podem adotar as duas formas de invocação, porém entre elas a que mais se destaca são os construtos, já que o Éter é uma matéria muito boa para se criar organismos completamente desenvolvidos, além disso como o gasto de éter acaba não sendo o maior dos problema para este arquétipo entra aí outra vantagem de se utilizar construtos.
+
+## Dominador Híbrido
+
+> Dominadores Híbridos que desejem adotar técnicas de invocação podem usufruir de ambos os métodos de invocação. Em questão de força ambos os estilos são parecidos, assim cabendo a melhor escolha ao usuário em questão, porém a real vantagem consiste em poder combinar tanto o fator elemental quanto o fator do éter ao organismo, podendo-se criar seres com habilidades combinatórias entre o elemento principal e o éter.
 
 # Transmissão
 
