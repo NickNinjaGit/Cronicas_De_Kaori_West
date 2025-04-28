@@ -243,7 +243,7 @@
 
 # Habilidades
 
-#### Classe: Usuária de Éter
+#### Classe: #Dominador-Hibrido
 
 ---
 
