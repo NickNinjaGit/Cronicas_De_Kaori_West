@@ -121,7 +121,7 @@
 
 # Habilidades:
 
-#### Classe: Dominador Primordial
+#### Classe: #Dominador-Primordial 
 --- 
 #### Estilo de Combate: Média Distância/Ofensivo
 ---
