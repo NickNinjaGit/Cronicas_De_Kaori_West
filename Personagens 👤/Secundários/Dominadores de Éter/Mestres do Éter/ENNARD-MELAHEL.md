@@ -121,7 +121,7 @@
 
 # Habilidades:
 
-#### Classe: Dominador de Éter Puro 
+#### Classe: Dominador Primordial
 --- 
 #### Estilo de Combate: Média Distância/Ofensivo
 ---
