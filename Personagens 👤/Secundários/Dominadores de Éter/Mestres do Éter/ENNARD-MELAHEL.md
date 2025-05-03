@@ -132,7 +132,7 @@
 
 
 #### Técnicas de Éter:
-##### **Toque Fantasma (Maldição)**
+##### **Toque Fantasma #Maldição **
 
 > Ennard pode fragmentar temporariamente a alma de uma pessoa, acessando partes de suas memórias e emoções. Isso lhe permite manipular o estado emocional do alvo, causando tonturas, fraquezas, experiências extracorpóreas ou estimulando lembranças.
 
@@ -161,7 +161,7 @@
 ###### **Complexidade**: Alta (dificuldade em expandir a técnica).
 
 
-##### **Mercado Negro (Maldição)**
+##### **Mercado Negro #Maldição **
 
 > Ennard faz um pacto de alma para obter um benefício temporário. Ele pode oferecer partes de sua alma como moeda de troca para ganhar uma habilidade específica, aumentar seu poder ou obter vantagens estratégicas.
 
@@ -209,7 +209,7 @@
 
 - **Alta:** Difícil de ampliar ou evoluir.
 
-## **U2 (Invocação)**
+## **U2 #Invocação **
 
 > Ennard conjura almas injustiçadas de diferentes épocas e situações, unindo-as para formar uma amálgama de almas extremamente poderosa denominada U2.  
 

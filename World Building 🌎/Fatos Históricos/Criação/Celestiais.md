@@ -6,9 +6,9 @@
 ---
 > *Contudo, o Celestial do Vazio, como ficou conhecido aprendeu a manipular uma espécie de energia Anti Éter, na qual acabou entrando em contato após seu exílio e desde os tempos antigos, essa entidade está elaborando o plano perfeito para acabar com a criação e o 5 Celestiais, fazendo assim dele, o ser mais poderoso existente.*
 --- 
-> *A princípio, o Celestial do Vazio teve assumiu diversas formas e entidades secretas para desviar o olhar do Celestial do Éter, quando por exemplo a criatura se disfarçou de um misterioso mercador para persuadir Lúcifer a pegar a coroa da Serpente que ele mesmo fizera.*
-> ---
-> *Porém suas reais intenções é se alimentar do Éter que essas criaturas provém para se auto fortalecer, essa energia que o corrompeu lhe permite roubar as forças de outros seres, e com isso se tornar mais forte aos poucos. Graças a sua astúcia e paciência ele induziu diversas pessoas ao redor do mundo através de suas aparições, oferecendo uma ajuda para seus resolver seus piores pesadelos, entretanto nunca dizendo o real preço que elas devem pagar. E após se conectar com suas vítimas dessa forma ele a parasita eternamente.*
+> *A princípio, o Celestial do Vazio assumiu diversas formas e entidades secretas para desviar o olhar do Celestial do Éter, quando por exemplo a criatura se disfarçou de um misterioso mercador para persuadir Lúcifer a pegar a coroa da Serpente que ele mesmo fizera.*
+---
+> *Porém suas reais intenções é se alimentar do Éter que essas criaturas provém para se auto fortalecer, essa energia que o corrompeu lhe permite roubar as forças de outros seres, e com isso se tornar mais forte aos poucos. Graças a sua astúcia e paciência ele induziu diversas pessoas ao redor do mundo através de suas aparições, oferecendo uma ajuda para seus, entretanto nunca dizendo o real preço que elas devem pagar. E após se conectar com suas vítimas dessa forma ele a parasita eternamente.*
 
 
 
