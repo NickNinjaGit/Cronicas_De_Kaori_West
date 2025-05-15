@@ -64,7 +64,7 @@
 
 **Ciclo Familiar**
 
-> Além disso ele possui uma grande relação com Kaori, vendo nela o que Hanna tinha de mais puro e como ele era quando jovem, tendo uma relação de pai protetor mas que muitas vezes deixa sua filha ser independente. Seu esforço fez com que Kaori se tornasse autossuficiente. Apesar de tudo os seus vícios causados pela ausência da filha afastou um pouco os dois, fazendo com que Kaori se decepcionasse com Martin e frequentemente vira as costas para seu pai.
+> Além disso ele possui uma grande relação com Kaori, vendo nela o que Hanna tinha de mais puro e como ele era quando jovem, tendo uma relação de pai protetor mas que muitas vezes deixa sua filha ser independente. Seu esforço fez com que Kaori se tornasse autossuficiente. Apesar de tudo os seus vícios causados pela ausência da filha afastou um pouco os dois, fazendo com que Kaori se decepcionasse com Martin e frequentemente virar as costas para seu pai.
 
 ### Máscaras Sociais
 
@@ -78,7 +78,7 @@
 
 **Figura Paterna**
 
-> Aqui é onde Martin realmente esconde seu íntimo, quando está com Kaori ele se transforma completamente, se torna um cara mais calmo reservado atencioso, acima de tudo ele tenta mostrar a filha que ainda está bem e que consegue superar seus problemas sozinho sem preocupa-la o que é uma grande mentira e Kaori sabe disso.
+> Aqui é onde Martin realmente esconde seu íntimo, quando está com Kaori ele se transforma completamente, se torna um cara mais calmo reservado atencioso, acima de tudo ele tenta mostrar a filha que ainda está bem e que consegue superar seus problemas sozinho sem preocupa-la o que é uma grande mentira, tanto que Kaori sabe bem disso.
 
 ## ! Informativo
 
@@ -128,16 +128,15 @@ Vestimentas: Roupas sociais azuis, sapatos pretos e camiseta branca por baixo.
 
 > Durante mais uma viagem rotineira, Martin passou pelo Rio De Janeiro para se encontrar com alguns investidores do projeto, foi em uma noite depois de suas reuniões que ele viu uma mulher sendo assaltada de longe, foi quando em um ato de coragem ele tentou impedir isso, mas aconteceu justamente o contrário, ele acabou sendo reconhecido pelo ladrão e foi ele que se tornou ameaçado. Mas em um golpe rápido, a mulher acabou nocauteando o criminoso facilmente o que lhe surpreendeu.
 
-> Aquela mulher esbelta se chamava Hanna Matsuda, e com uma breve conversa descobriram por coincidência que estavam de hospedagem em lugares bem próximos, isso fez que nos próximos dias eles se encontrassem cada vez mais em momentos causais como almoços ou fins de semana.
+> Aquela mulher esbelta se chamava Hanna Matsuda, e em um breve assunto enquanto iam para casa, eles descobriram por coincidência que estavam de hospedagem em lugares bem próximos, isso fez que nos próximos dias eles se encontrassem cada vez mais em momentos causais como almoços ou fins de semana.
 
-> Ao longo do tempo se tornou algo mais comum os dois amigos se encontrarem depois do expediente para saírem juntos, e conforme se conheciam, Hanna percebia cada vez estar se aproximando de Martin, o que havia ascendido uma chama em seu coração nunca antes incandescente. até que um dia, ela decidiu então finalmente dar seu primeiro beijo, confessando em poucas palavras seus sentimentos ocultos.
+> Ao longo do tempo se tornou algo mais comum os dois amigos se encontrarem depois do expediente para saírem juntos, e conforme se conheciam, Hanna percebia cada vez estar se aproximando de Martin, ela sentiu como se uma chama havia se ascendido em seu coração nunca antes incandescente. até que um dia, ela decidiu então finalmente dar seus primeiros passos declarando seu amor para Martin, enxergando nele uma admiração nunca antes vista. Foi aí que os dois finalmente se beijaram pela primeira vez.
 
-> Enfim, depois de um tempo, Hanna convenceu Martin a ficar no Brasil, onde os dois passaram a morar juntos em São Paulo na região da Liberdade. O casamento dos dois nunca foi uma cerimônia tão formal e nem foi preciso, já que com simples gestos os dois já demonstravam o interesse em constituir uma família, até que depois de algum tempo Hanna ficou grávida e acabou tendo Kaori, na qual foi nomeada assim em homenagem a sua bisavó Kaori Zayra. 
+> Após um bom tempo de namoro, Hanna convenceu Martin a ficar no Brasil, onde os dois passaram a morar juntos em São Paulo na região da Liberdade. O casamento dos dois nunca foi uma cerimônia tão formal e nem foi preciso, já que com simples gestos os dois já demonstravam o interesse em constituir uma família, até que depois de algum tempo Hanna ficou grávida e acabou tendo Kaori, na qual foi nomeada assim em homenagem a sua bisavó Kaori Zayra. 
 
-> Infelizmente Hanna não pode ficar muito tempo perto de sua própria filha por razões pessoais de seu passado, fazendo com que Martin tivesse que cuidar de Kaori sozinha. Por muito tempo ele tentou mante-lá conectada de alguma forma com a cultura nipônica de sua mãe colocando a garota para fazer aulas de japonês, alem de compartilhar também um pouco de sua cultura.
+> Infelizmente Hanna não pode ficar muito tempo perto de sua própria filha por razões pessoais de seu passado, fazendo com que Martin tivesse que cuidar de Kaori sozinha. Por muito tempo ele tentou mante-lá conectada de alguma forma com a cultura nipônica de sua mãe colocando a garota para fazer aulas de japonês além de mostrar aspectos da cultura.
 
-
-> Apesar da garota ter crescido sem uma figura materna, Martin conseguiu cumprir muito bem o papel de pai e mãe, além de sempre apoiá-la graças ao sucesso da empresa agrícola, ele conseguiu dar o melhor de tudo para ela desde uma boa educação até presentes no aniversário, porém, cumprindo uma promessa de Hanna ele nunca revelou sobre a verdade por trás de sua mãe.
+> Apesar da garota ter crescido sem uma figura materna, Martin conseguiu cumprir muito bem o papel de pai e mãe, além de sempre apoiá-la  financeiramente graças ao sucesso da Biological, oferecendo o melhor de tudo para ela desde uma boa educação até presentes no aniversário, porém, cumprindo uma promessa de Hanna ele nunca revelou sobre a verdade por trás de sua mãe.
 
 > Atualmente Martin vive no Brasil sem ter preocupações, como um diretor e executivo da Biological, ele não precisa trabalhar tanto como antes e está pensando em uma aposentadoria em breve.
 

@@ -9,6 +9,8 @@
 
 # Critérios da Técnica Estrutural
 
+
+#criar-tecnica 
 ## Informações Básicas
 
 ### Nome
