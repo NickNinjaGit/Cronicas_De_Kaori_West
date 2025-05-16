@@ -1,5 +1,8 @@
 # Ficha de Personagem:
 
+- Tornar-se um mestre que não apenas ensina, mas também aprende a perdoar a si mesmo.
+* Talvez incluir uma técnica de pai e filha 
+
 ## ! Personalidade 
 
 ### *Traços Básicos*
@@ -279,8 +282,40 @@ NOTA: esses são os front story do livro 1
 
 ### Gasto de Energia: Baixo/Médio 
 
+## Wet Dry World (Transmutação)
 
-## 
+### Descrição
+
+> Utilizando o Wet Dry World, Yujima é capaz de gerar vácuo a partir de liquido, podendo assim condensa-lo no vento numa espécie de bolha transparente, para então mais tarde poder liberá-lo no exato estado que ele fora selado.
+### Uso da Técnica
+
+**Ofensivo:**
+
+> Caso Yujima sele um líquido que estava escorrendo rapidamente, ele pode liberá-lo em uma espécie de tiro d’gua ou uma enchente.
+
+**Distração:**
+
+> Suas bolhas de vácuo podem atrapalhar o alvo no meio de um ataque caso ele as estoure na posição e no momento certo.
+
+**Vaccum Wave:**
+
+> Yujima pode utilizar o seu Wet Dry World em oceanos também para gerar uma espécie de túnel aquático movido a vácuo, durando aproximadamente 1 hora.
+
+**Recurso de Sobrevivência:**
+
+> Podem ser mantidas por incontáveis dias através do Éter assim sendo um recurso para a sede ou até a fome.
+
+
+### Efeitos N/A
+
+### Limitações:
+
+> Apesar de serem poderosas, as bolhas de vácuo dependem de um líquido para se formarem, ou seja, o usuário não controla o vácuo diretamente.
+
+> Quanto maior o volume do líquido mais difícil e lento será sua condensação. Alem de que para se manter uma enorme superfície dependerá de um enorme custo de Éter.
+### Complexidade: Média 
+
+### Gasto de Energia: Geralmente Baixo
 
 
 
