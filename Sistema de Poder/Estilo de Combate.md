@@ -22,7 +22,7 @@
 
 ## Encantador/Transmissor (Dominador Híbrido e Primordial)
 
-## Encantador/Transmutador (Dominador Híbrido)
+## #Encantador/Transmutador (Dominador Híbrido)
 
 ## Encantador/Desconstrutor (Dominador Híbrido)
 

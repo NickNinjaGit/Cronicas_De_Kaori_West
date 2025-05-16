@@ -214,9 +214,73 @@ NOTA: esses são os front story do livro 1
 
 # Habilidades
 
+## Competências Comuns
+
+* Expert em Combate 
+* Estrategista Nato
+* Acrobacias 
+* Perceptivo
+
+## Conexão Elemental - Celestial da Água
+
 ## #Dominador-Hibrido 
 
-## Estilo de Combate
+# #Encantador/Transmutador 
 
-## Técnicas 
+# Técnicas 
+
+## Safe n Sound (Encantamento)
+
+### Descrição
+
+> Através do Safe n Sound, Yujima é capaz de usar o éter para induzir e controlar a eletricidade de organismos vivos usando a água e o sangue, assim podendo causar desde leve choques até chegar a paralisar um alvo por completo.
+
+>  Quando ele usa a técnica em um ambiente com muita água (chuva, rios), a eletricidade se torna quase bela, com luzes dançando sobre os corpos antes da paralisação.
+
+### Uso da Técnica
+
+#### Ataque Eletrizado
+
+> Para usar ofensivamente o Safe n Sound, Yujima deve ter alguma fonte de eletricidade como uma bateria ou até seu próprio corpo para induzir o choque e criar uma corrente de água eletrizada. Quanto mais carga ela tiver mais poderoso o ataque será.
+
+#### Estimulante Muscular
+
+> Yujima pode usar seu próprio sangue para estimular disparos elétricos podendo assim impulsionar temporariamente suas capacidades físicas ou mentais. 
+
+#### Descargas Corporais
+
+> Caso Yujima tenha uma fonte de energia elétrica perto de si ou até usar seu próprio corpo, ele pode transferi-la através da água para o alvo. Caso acerte, Yujima consegue estimular descargas elétricas em pontos específicos do alvo. Quanto mais energia tiver maior será a descarga.
+
+#### Dispersão Neural
+
+> Yujima também pode transmitir eletricidade em volta de si por meio de uma camada fina de água, assim ele pode absorver l impacto dos ataques e devolver ao seu adversário.
+
+#### Pulso Terminal 
+
+>  Como um último recurso, Yujima pode usar o próprio sistema nervoso como bateria, queimando suas conexões temporariamente para ativar uma última carga de choque.
+
+
+### Efeitos
+
+> O Safe n Sound é uma técnica que influencia diretamente tanto no muscular quanto no nervoso dos organismos.
+
+#### Efeitos Primários
+
+> Seu principal efeito é a paralisação do corpo, conforme o alvo recebe pequenas cargas de choque ou uma única e grande, ele vai ficando mais imobilizado
+
+#### Efeitos Secundários
+
+> Além disso o Safe n Sound pode estimular temporariamente funções específicas do corpo, como o fluxo de sangue e os neurônios do alvo caso o usuário queira.
+
+### Limitações
+
+> Por depender exclusivamente de uma fonte de energia elétrica para conduzir, seu uso é muito situacional e quando não é requer um gasto de Éter alto para causar grandes impactos. 
+### Complexidade: Alta
+
+### Gasto de Energia: Baixo/Médio 
+
+
+## 
+
+
 
