@@ -217,6 +217,8 @@ NOTA: esses são os front story do livro 1
 
 # Habilidades
 
+> Para desfrutar o máximo de suas técnicas Yujima usa um cajado geralmente com um recipiente de água ou uma bolha de vácuo do Wet Dry World. Mas frequentemente ele luta de mãos nuas.
+
 ## Competências Comuns
 
 * Expert em Combate 
