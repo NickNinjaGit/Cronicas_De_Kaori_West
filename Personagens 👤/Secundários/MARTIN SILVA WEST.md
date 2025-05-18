@@ -1,4 +1,3 @@
-
 ## ! Personalidade 
 
 ### *Traços Básicos*
