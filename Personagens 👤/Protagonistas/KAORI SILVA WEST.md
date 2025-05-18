@@ -2,7 +2,7 @@
 ##  Ficha de Informações
 
 #char-info
-### Idade: 20 anos
+### Idade: 23 anos
 ### **Personalidade:** 
 --- 
 * Curiosa 
