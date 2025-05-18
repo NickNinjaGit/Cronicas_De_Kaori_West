@@ -22,7 +22,7 @@ As Filhas de Lilith são um culto de bruxas que louvam a entidade demoníaca hom
 
 > **"Linda está morta. Levante-se, Mórvia. Você pertence a mim agora."**  
 
-> Quando acordou, Linda sentiu algo terrivelmente errado. Seus olhos ardiam, mas quando levou as mãos ao rosto, percebeu que nada havia ali — apenas um vazio onde antes estavam seus globos oculares. Ela gritou, mas a voz de Lilith a silenciou:  
+> Quando acordou, Linda sentiu algo terrivelmente errado. Seus olhos ardiam, mas quando levou as mãos ao rosto, percebeu que nada havia ali apenas um vazio onde antes estavam seus globos oculares. Ela gritou, mas a voz de Lilith a silenciou:  
 
 > **"Você foi escolhida, Mórvia. Em troca da visão mundana, te dou os olhos da alma. Em troca do teu sangue, te dou poder. Leve minha palavra às mulheres traídas e renegadas, e juntas moldaremos o mundo."**  
 

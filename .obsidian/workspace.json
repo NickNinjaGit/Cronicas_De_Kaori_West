@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personagens 👤/Protagonistas/KAORI SILVA WEST.md",
+                "file": "Personagens 👤/Secundários/Dominadores de Éter/HINAKA-CHEN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "KAORI SILVA WEST"
+              "title": "HINAKA-CHEN"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "World Building/Sistema de poder.md",
+                "file": "Personagens 👤/Secundários/Dominadores de Éter/HINAKA-CHEN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Sistema de poder"
+              "title": "Backlinks for HINAKA-CHEN"
             }
           },
           {
@@ -161,7 +161,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 392.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,13 +176,14 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "f744d1e4b05ba00a",
+  "active": "516a9c8e56ee2089",
   "lastOpenFiles": [
+    "World Building 🌎/Organizações Importantes/Bruxas/Filhas de Lilith.md",
     "Personagens 👤/Secundários/Dominadores de Éter/HINAKA-CHEN.md",
     "Escaleta/Ato 1 - Introdução.md",
+    "Personagens 👤/Protagonistas/KAORI SILVA WEST.md",
     "Personagens 👤/Secundários/FRANCIS-GARCIA.md",
     "Personagens 👤/Antagonistas/CLEVER-ROACH.md",
-    "Personagens 👤/Protagonistas/KAORI SILVA WEST.md",
     "Personagens 👤/Protagonistas/TAE-JUNG.md",
     "Personagens 👤/Secundários/Dominadores de Éter/Mestres do Éter/ENNARD-MELAHEL.md",
     "Personagens 👤/Secundários/Dominadores de Éter/Mestres do Éter/EVELYN-RABNOTT.md",
@@ -203,7 +204,6 @@
     "Sistema de Poder/Estilo de Combate.md",
     "Sistema de Poder/Dominadores.md",
     "Sistema de Poder/Amaldiçoados.md",
-    "World Building 🌎/Fatos Históricos/Guerras/Sacerdotisas X Bruxas.md",
     "Escaleta",
     "Pasted image 20250430133320.png",
     "Sistema de Poder",
