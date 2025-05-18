@@ -314,7 +314,7 @@ NOTA: esses são os front story do livro 1
 
 > Apesar de serem poderosas, as bolhas de vácuo dependem de um líquido para se formarem, ou seja, o usuário não controla o vácuo diretamente.
 
-> Quanto maior o volume do líquido mais difícil e lento será sua condensação. Alem de que para se manter uma enorme superfície dependerá de um enorme custo de Éter.
+> Quanto maior o volume do líquido mais difícil e lento será sua condensação. Além de que para se manter uma enorme superfície dependerá de um enorme custo de Éter.
 ### Complexidade: Média 
 
 ### Gasto de Energia: Geralmente Baixo
