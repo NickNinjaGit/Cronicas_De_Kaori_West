@@ -108,7 +108,6 @@ O ***arquétipo do órfão*** está frequentemente associado a personagens que, 
 --- 
 ### **Desejos:**  Prosperar e se conectar com os outros.
 
-
 ---
 ## Aparência:
 
