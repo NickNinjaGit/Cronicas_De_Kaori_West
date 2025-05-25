@@ -23,7 +23,7 @@
 
 > Hanna nutriu em sua essência esse aspecto muito por sua vivência com sua mãe adoecida quanto pelos servos, isso fez ela construir uma forte empatia por quase qualquer um, porém isso pode ser um risco em certos casos na qual ela é muito boazinha com alguém mal intencionado.
 
-### *Neurocitismo (Alto)*
+### *Neurocitismo (Baixo)*
 
 > Apesar de carregar o fardo de ter cometido um crime dimensional e ter abandonado sua filha pelo bem de Lúcifer, Hanna sempre tentou erguer a cabeça desde seus tempos difíceis como Moeru Shubotsu, carregando uma responsabilidade gigantesca, porém, sendo vista como uma figura de inspiração para suas sacerdotisas, ela se manteve firme para não demonstrar fraqueza.
 

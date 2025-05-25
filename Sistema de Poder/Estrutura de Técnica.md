@@ -19,6 +19,8 @@
 
 ## Uso da Técnica
 
+## Limitações
+
 ## Efeitos
 
 ### Efeitos Primários

@@ -20,7 +20,7 @@
 ### *Amabilidade (Baixo)*
 
 > Dificilmente Yujima se afeiçoa pelas pessoas, muito disso devido ao seu passado conturbado e o que a confiança excessiva lhe levou. Porém ainda sim há poucos que ele confia como sua filha, Taejung e Kaori.
-### *Neurocitismo (Baixo)*
+### *Neurocitismo (Moderado)*
 
 > Apesar de não transparecer, Yujima ainda guarda no fundo de seus pensamentos o pesar do acidente com as crianças sacrificadas, e quando acaba lembrando do assunto se sente culpado por isso e por consequência a maldição de Mórvia faz ele ficar temporariamente fraco.
 ### *Abertura (Baixo)*
@@ -84,7 +84,7 @@
 * Idade: 65 anos
 * Religião: Xintoísmo 
 * Profissão: Mestre de Artes Marciais 
-* Altura: 1,50m
+* Altura: 1,48m
 * Peso: 45kg
 * Signo: 
 * Etnia: Nipônica 

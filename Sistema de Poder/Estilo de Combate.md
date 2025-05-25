@@ -42,7 +42,7 @@
 
 ## Transmissor/Invocador (Estilo Global)
 
-## Transmissor/Desconstrutor  (Dominador Híbrido e Puro)
+## #Transmissor/Desconstrutor  (Dominador Híbrido e Puro)
 
 
 ## Transmutador/Invocador  (Dominador Híbrido e Puro)

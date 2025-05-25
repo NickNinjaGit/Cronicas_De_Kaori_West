@@ -24,7 +24,7 @@
 > Martin é um homem de valores e muito gentil, além de ser amigável com a maioria das pessoas, ele tem um senso de servir como um professor ou guia de pessoas mais novas, muito provido de suas experiências e de sua relação com Kaori, na qual ele a lhe ajudou muito.
 
 
-### *Neurocitismo*: (Baixo)
+### *Neurocitismo*: (Moderado)
 
 > Apesar de passar uma figura de alguém extremamente confiante, Martin tem medo de falhar com Kaori contando o segredo de Hanna e perder diretamente o contato com a familia mais próxima que ele tem, muitas vezes ele demonstra esse ânsia pela solidão através da bebida que é um vício constante.
 
