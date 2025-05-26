@@ -196,34 +196,108 @@
 
 ## Competências Comuns
 
-
+* Artes Marciais
+* Atletismo
+* Escalada
 ## Conexão Elemental - Celestial da Água
 
 ## #Dominador-Puro 
 
-## #Transmissor/Desconstrutor
+## #Transmutador/Desconstrutor
 
 # Técnicas
 
-## Tihuana (Transmissão)
+## Weaver Wave (Desconstrução)
 
 ## Descrição 
 
-
+> Hinaka consegue desconstruir qualquer componente que contenha moléculas de água para gerar uma corrente marítima com uma solução química artificial. Essa mistura permite que ela possa utilizar a água tanto de forma ofensiva como defensiva. 
 
 ## Uso da Técnica
 
+> Para que a técnica funcione, é preciso que Hinaka tenha acesso a qualquer objeto que possua água em sua formação química. Caso tenha, ela precisa toca-lo para usar a técnica.
+
+> Após a formação da corrente marítima, Hinaka usa um de seus braços para manter o controle da água, assim podendo tanto alterar a forma da corrente quanto dissipa-la. 
+
+
+**Weavermix:**
+
+> Pela grande versatilidade de sua técnica, Hinaka consegue ter acesso a diversos tipos de propriedades, como a corrosão e o envenenamento (por meio de resíduos tóxicos e metais) queimaduras (através de aquecedores ou dispositivos que usem água), congelamento (por meio de icebergs ou pressurização da água comum) e erosões (através de água extraída do solo)
+
+**Vigorwave**
+
+> Caso a fonte da descontrucao de Hinaka seja de origem natural, Hinaka consegue criar uma espécie de fonte revigorante útil para ajudar em lesões e para relaxar o corpo.
+
+**Ryuver Wave**
+
+> Hinaka consegue usar éter em seus punhos para fazer com que a água do Weaver Wave se junte nos punhos de Hinaka assim criando um ponto de ruptura maior para a dissipação.
+
+**Weaver Wall**
+
+> Caso Hinaka extraía água do solo, ela pode criar uma corrente lamacenta que pode ser usada como barreira por ela.
 ## Limitações
+
+* A técnica não funciona em seres vivos 
+* Hinaka só pode manter uma corrente marítima por vez. 
+* Quanto mais complexa a mistura for, mais éter consumirá
+* Caso Hinaka sofra grandes danos, a técnica é automaticamente desativada.
 
 ## Efeitos
 
-### Efeitos Primários
+> Os efeitos do Weaver Wave são diversos pois dependem exclusivamente do que está sendo desconstruído por Hinaka, alguns deles são:
 
-### Efeitos Secundários
+* Corrosão
+* Envenenamento 
+* Queimadura Fria (similar ao gelo seco)
+* Cura
+* Fadigas
 
-## Complexidade
+## Complexidade: Moderada
 
-## Gasto de Energia
+## Gasto de Energia: Baixo
+
+
+## Iron Maiden (Transmutação)
+
+## Descrição
+
+> Hinaka é capaz de evaporar a água de seu próprio corpo para se formar e aliementar um núcleo interno de calor similar a uma bobina de vapor, que enrijece seu corpo através do Éter. Quando utilizado seu corpo se torna mais resistente que o aço e ela ganha uma força extraordinária, além de sua pele ficar totalmente avermelhada graças a elevada temperatura.
+
+## Uso da Técnica
+
+> Para que a técnica funcione adequadamente, Hinaka precisa estar bem hidratada e com uma temperatura ambiente ou abaixo dela. 
+
+**Overheater**
+
+> Hinaka consegue definir um ponto central de aquecimento no seu corpo, podendo assim acumular calor em uma parte específica de seu corpo. Quando isso é feito, o centro de calor chega a derreter como o magma.
+
+**Steam heater**
+
+> Hinaka consegue aumentar as capacidades de sua técnica distribuindo vapor entre todas as partes de seu corpo, porém a cada uso, o consumo de água aumentará. 
+
+**Vapor Shot**
+
+> Como uma forma de manter sua técnica em um estado equilibrado, Hinaka pode usar a pressão causada pelo vapor ao seu favor disparando ela em uma rajada concentrada.
+
+****
+## Limitações
+
+* Após a técnica ser ativada, Hinaka não pode desativá-la até que se passe uma hora.
+
+* Mesmo que seja viável o consumo de água, Hinaka precisa se hidratar constantemente para não sobrecarregar seu corpo.
+
+* Caso esteja com muito vapor acumulado, Hinaka pode sobrecarregar e seu corpo poderá explodir a qualquer momento.
+
+## Efeitos
+
+* Derretimento
+* Aumento das capacidades físicas
+* Calor extremo
+
+## Complexidade: Baixo
+
+## Gasto de Energia: Alto
+
 
 
 
