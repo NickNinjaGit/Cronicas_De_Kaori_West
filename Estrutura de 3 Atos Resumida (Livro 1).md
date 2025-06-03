@@ -12,7 +12,7 @@
     No resgate, Taejung e Yujima aparecem. Em uma conversa reveladora, Yujima dá a Kaori duas opções: esquecer o passado ou correr atrás dos mistérios que a cercam e, assim, encontrar sua mãe. Essa decisão acende o início de sua jornada.
 
  * ***Período de Adaptação :**  
-    Após conversar com seu pai, Kaori decide aceitar a proposta e então no Japão ela treina por 15 dias para controlar suas chamas enquanto cria laços com Taejung e Hinaka-Chen, após isso ela precisa voltar ao seu trabalho mas promete ajudar na missão.
+    Após conversar com seu pai, Kaori decide aceitar a proposta e então no Japão ela treina por 15 dias para controlar suas chamas enquanto cria laços com Taejung e Hinaka-Chen, após isso ela precisa voltar noa ao seu trabalho mas promete ajudar na missão.
 
 
 
