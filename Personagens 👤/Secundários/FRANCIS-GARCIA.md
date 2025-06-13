@@ -71,7 +71,7 @@
 ## ! Informativo 
 
 * Idade: 45 anos
-* Religião: Ateu
+* Religião: Católico
 * Profissão: CEO da G&A Corporation
 * Altura: 1,70m
 * Peso: 60kg

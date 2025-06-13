@@ -24,3 +24,62 @@
 
 ## Habilidades:
 
+1. Amadi, o Leão Etéreo
+
+Origem: Espírito do Plano Astral
+
+Descrição: Amadi é um leão majestoso e imponente, com uma pelagem dourada que parece irradiar energia e olhos que brilham com o conhecimento do plano astral. Em vida, ele foi um lendário rei da savana, um herói cujas histórias de bravura atravessaram gerações. Após sua morte, o Celestial do Éter concedeu-lhe uma nova existência no plano espiritual, onde ele se tornou um protetor poderoso.
+
+Habilidades:
+
+Rugido da Eternidade: Um rugido poderoso que ecoa pelos planos, desestabilizando espíritos e enfraquecendo a conexão dos inimigos com o éter, dificultando suas invocações.
+
+Força do Rei: Amadi possui uma força devastadora, capaz de enfrentar vários inimigos ao mesmo tempo. Sua presença imponente inspira coragem e resiliência em Baako e seus aliados, aumentando suas habilidades de combate.
+
+Proteção Etérea: Ele cria uma aura ao redor de Baako e seus aliados, formando uma barreira de energia que protege contra ataques espirituais e maldições.
+
+
+
+
+---
+
+2. Kari, o Dragão dos Ventos
+
+Origem: Espírito do Plano Astral
+
+Descrição: Kari é o espírito de um antigo dragão do vento, uma entidade lendária do plano astral. Sua forma original é de um dragão majestoso, com escamas prateadas que refletem o brilho do éter e olhos profundos como tempestades. Ele pode se transformar em uma forma híbrida entre humano e dragão, mantendo traços dracônicos como escamas, garras e asas. Nessa forma híbrida, Kari se torna ainda mais poderoso, combinando a destreza humana com a força dracônica.
+
+Habilidades:
+
+Sopro da Tempestade: Kari pode liberar uma rajada de vento devastadora que varre os inimigos, criando tornados e dificultando a movimentação dos adversários. Essa habilidade é perfeita para dispersar grupos e interromper ataques em massa.
+
+Forma de Dragão: Ao se transformar em sua forma híbrida, Kari ganha força física e agilidade extraordinárias, além de uma pele escamosa resistente a ataques físicos e mágicos. Nessa forma, ele é capaz de atacar de perto com garras afiadas e golpes poderosos.
+
+Chuva de Lâminas de Vento: Kari invoca lâminas de vento cortante que caem sobre os inimigos, causando dano massivo. Essa habilidade é particularmente útil contra exércitos, já que as lâminas são precisas e podem atingir vários alvos ao mesmo tempo.
+
+
+
+
+---
+
+3. Kojo, o Guerreiro Sem Descanso
+
+Origem: Espírito Morto-Vivo
+
+Descrição: Kojo foi, em vida, um destemido guerreiro e defensor de sua tribo. Após morrer em batalha, seu espírito foi reavivado por Baako em um ritual xamânico. Agora, ele serve como um guardião leal, trazendo consigo a sabedoria e a força que possuía em vida. Sua forma espiritual se assemelha à de um guerreiro tribal, com uma armadura etérea desgastada pelo tempo, mas imbuída de poder.
+
+Habilidades:
+
+Espada do Além: Kojo empunha uma lâmina espiritual que pode cortar tanto carne quanto energia etérea, causando danos devastadores em espíritos e seres vivos. Seu domínio da espada é incomparável, permitindo que ele enfrente múltiplos inimigos com precisão.
+
+Ressurreição Temporária: Em momentos críticos, Kojo pode materializar-se temporariamente em uma forma física, ganhando resistência e a capacidade de lutar como se estivesse vivo novamente. Esse retorno breve é devastador em combate.
+
+Guarda do Além: Kojo pode intervir nos ataques destinados a Baako, absorvendo parte do dano e reduzindo o impacto sobre seu mestre. Essa ligação permite que ele compartilhe a dor de Baako, garantindo que ele permaneça em pé mesmo em situações adversas.
+
+
+
+
+---
+
+Esses três espíritos representam a força, a proteção e a lealdade que acompanham Baako em sua jornada. Com Amadi como o leão nobre, Kari como o dragão dos ventos e Kojo como o guerreiro incansável, Baako possui aliados poderosos para enfrentar as ameaças do mundo espiritual e físico. Cada um deles traz uma habilidade única e complementa o estilo de luta e invocação de Baako, tornando-o um dos mais formidáveis Mestre Invocador
+

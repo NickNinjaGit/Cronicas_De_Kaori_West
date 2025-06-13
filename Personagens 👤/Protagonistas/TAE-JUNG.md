@@ -1,17 +1,38 @@
-## Ficha de Personagem
 
-### Idade: 25 anos
+# Ficha de Personagem:
 
-### **Personalidade:** 
+## ! Personalidade 
 
-* Confiante (Arrogancia)
+### *Traços Básicos*
+
+* Confiante 
 * Empático 
-* Impulsivo (Imprudencia)
 * Determinado
----
-### **Extroversão:** Extrovertido
---- 
-### **Gostos**
+* Alto senso de Justiça
+* Humilde
+### *Extroversão: Extrovertido*
+### *Concienciosidade(Alta)*
+### *Amabilidade (Alta)*
+### *Neurocitismo (Moderado para Alto)*
+### *Abertura (Baixa)*
+## ! Social
+
+### *Conflitos Internos*
+### *Conflitos Externos*
+### *Ideais*
+### *Relações* 
+### Máscaras Sociais
+## ! Informativo 
+
+* Idade: 25 anos
+* Religião: Católico
+* Profissão: Faz entregas no tempo livre mas não tem profissão fixa.
+* Altura: 1,85m
+* Peso: 77kg
+* Signo: Sagitário
+* Etnia: Coreana
+
+### *Gostos*:
 
 *  Escaladas
 *  Atividades ao Ar Livre
@@ -19,47 +40,32 @@
 *  Cozinhar
 *  Músicas: (Gospel, Rock, Rap)
 *  Filme Favorito: (Clube da Luta)
+### *Desgostos*:
 
---- 
-### **Desgostos**
+### *Aparencia:*
 
-* Injustiça
+* Pele: Branca
+* Olhos: Pretos
+* Nariz: Grande e Fino
+* Cabelos: Curtos; Lisos e Pretos
+* Acessórios: Carrega um terço consigo em seu braço.
+* Roupas: 
 
-* Dogmas religiosos rígidos: *Embora ele seja católico, Tae-Jung não aceita passivamente a doutrina religiosa se ela for usada de forma rígida ou cruel. Ele acredita em um Deus misericordioso, mas também que o ser humano tem livre arbítrio e capacidade de mudança.*
----
-* Fracasso pessoal: *O medo de não conseguir cumprir sua missão e a dor por não conseguir salvar seus amigos ou recuperar a alma de Sarah-Kayla podem ser algo que ele evita a todo custo. O fracasso pessoal, mesmo que não necessariamente o de outros, é algo que o corrói por dentro.*
----
+## ! Backstory:
 
-### **Ideais**
+### Infância
 
-- **Proteção e redenção:** Tae-Jung acredita que é seu dever proteger os que ama, especialmente Sarah-Kayla, e que deve buscar uma forma de redimi-la e de salvar aqueles que sofrem nas mãos de forças malignas. A missão de salvar a humanidade e de derrotar os demônios é um reflexo desse ideal.
----
-- **Justiça e equilíbrio:** Mesmo sendo motivado pela vingança e pela dor, Tae-Jung ainda acredita que deve fazer isso de forma justa. Ele acredita que a verdadeira justiça não é vingança pura, mas sim corrigir os desequilíbrios do mundo e trazer uma verdadeira paz.
----
-- **Autossuperação:** Ele busca constantemente melhorar, não apenas fisicamente, mas também espiritualmente, para se tornar alguém digno de seu papel de profeta e líder.
+>Tae-Jung nasceu na região de Gancheon, um lugar muito pobre situado na Coreia do Sul. Ele teve uma infância muito difícil, onde seu pai alcoólatra era bem possessivo com sua mãe, essa relação tóxica foi seguida de um abandono, fazendo com que Jung tivesse que começar a trabalhar aos 12 anos. Ele começou vendendo marmitas por conta própria, onde se esforçou e aprendeu muito sobre culinária.
 
-### **Religião:** Católico 
-
-### **Signo:** Sagitario
-
-### Altura: 1,85m
-
-## Backstory
-
-#### Infancia
-
-
->Tae-Jung nasceu na região de Gancheon, um lugar muito pobre situado na Coreia do Sul. Ele teve uma infância muito difícil, onde seu pai alcoólatra era bem possessivo com sua mãe, e após um tempo ele a abandonou, fazendo com que Jung tivesse que começar a trabalhar aos 12 anos. Ele trabalhava em uma lojinha que vendia marmitas, onde aprendeu muito sobre culinária.
-
-> Apesar da correria de trabalhar e estudar, no seu tempo livre, o garoto se dedicava a aprender Artes Marciais e a aprender sobre a Fé Católica. Aos domingos ele sempre ia na igreja com sua mãe, onde lá encontrou conforto para toda aquela situação que ele passava, e Jung rezava constantemente para conseguir dar conforto a sua mãe. 
+> Apesar da correria de trabalhar e estudar, no seu tempo livre, ele se dedicava a aprender Artes Marciais e também sobre a Fé Católica. Aos domingos ele sempre ia na igreja com sua mãe, onde lá encontrou conforto para toda aquela situação que ele passava, e Jung rezava constantemente para conseguir dar conforto a sua mãe. 
 
 #### O grande chamado
 
 > Bem perto dos 18 anos, Jung estava com um emprego bom e finalmente havia conseguido dar conforto a sua mãe, que já estava idosa. Além disso o rapaz se tornou faixa preta em karatê, mostrando que ele continuou sendo proativo em seu tempo livre mesmo depois de ter resolvido suas adversidades.
 
-> Até que em um dia, enquanto treinava, ele percebeu que podia ver correntes de vento se formando a sua volta, como se fosse algo de sua cabeça. Mas aquilo instigou Jung que procurou descobrir aquele mistério. Enquanto procurava uma resposta, ele chegou a perguntar ao padre de sua igreja, um homem que ele demonstrava enorme respeito e admiração desde pequeno, e após ter ouvido sobre o relato ele se surpreendeu dizendo que esperava esse dia chegar.
+> Até que em um dia, enquanto treinava, ele percebeu que podia ver correntes de vento se formando a sua volta, como se fosse algo de sua cabeça. Mas aquilo instigou Jung que procurou descobrir aquele mistério. Enquanto procurava uma resposta, ele chegou a perguntar ao padre de sua igreja, um homem que ele demonstrava enorme respeito e admiração desde pequeno, e após ter ouvido sobre a respeito sobre esse relato ele simplesmente proferiu que “o dia finalmente chegou”
 
-> Confuso Jung não entendeu, mas logo o sacerdote lhe contou de uma antiga profecia revelada em um sonho. Segundo ele, o rumor havia surgido na época dos Apóstolos, e dizia que um dia os demônios do inferno iriam subir para dominar a terra, Porém 12 profetas estariam designados para defender a humanidade contra este mal. E segundo sua revelação, ele encontraria o primeiro desses profetas na qual tem o milagre de enxergar e manipular esses ventos.
+> Confuso, Jung não entendeu do que ele dizia. Mas logo o sacerdote lhe contou de uma antiga profecia revelada em um sonho. Segundo ele, o rumor havia surgido na época dos Apóstolos, como se fosse uma espécie de antecessor ao livro de apocalipse, um códice que não fora escrito porém passado verbalmente como um segredo entre os mais sábios da época. Esta história perdida no tempo dizia que novos 12 profetas estariam destinados para defender a humanidade contra uma ameaça inevitável. E segundo os rumores, dizia-se que o líder destes homens seria aquele com a capacidade de mudar os rumo dos ventos. Para ele era uma prova certa, pois antes, Deus já lhe dava indícios mais claros sobre Taejung.
 
 > Com toda essa informação, ele havia realmente se assustado, não sabia como lidar com tamanha grandiosidade que Deus havia lhe reservado, e não sabia quando e nem como enfrentaria esses demônios, e nem onde arrumaria forças para isso. Além disso o rapaz se perguntava também onde acharia os outros profetas? Como se lesse seus pensamentos o Padre lhe disse para não temer que Deus iria guia-lo para a vitória.
 
@@ -107,17 +113,7 @@
 
 > Depois de encontrar um certo equilíbrio consigo mesmo, acabou decidindo juntar as chaves do inferno espalhadas por Hanna afim de resgatar a alma de sua amada do maldito ser das trevas que possuirá o corpo de Sarah naquele dia.
 
-## Arquétipo do Guerreiro
+## ! Front Story:
 
-> Normalmente um personagem com um plano. Preparado com um conjunto particular de habilidades e com força de vontade, o guerreiro/herói conquistará o vilão e o vencerá. Este personagem mesmo que competente sofre uma crise de confiança em seu ponto mais baixo, da qual deve superar se quiserem voltar ao topo.
-
-**Pontos fortes:** Coragem, força (física ou mental) e habilidade.
-
-**Fraquezas:** Excesso de confiança e ego.
-
-**Desejos:** Salvar o dia e provar seu valor.
-
-**Exemplos:** Hércules, Ulisses, Aragorn de _O Senhor dos Anéis_ e qualquer personagem de Jason Momoa.
-
-## Habilidades:
+# Habilidades 
 
