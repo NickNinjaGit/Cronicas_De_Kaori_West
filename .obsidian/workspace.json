@@ -20,8 +20,36 @@
               "icon": "lucide-file",
               "title": "HINAKA-CHEN"
             }
+          },
+          {
+            "id": "19e21afe99e91cd0",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Escaleta/Cenas/Arco de Introdução.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Arco de Introdução"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -44,7 +72,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Explorador de arquivos"
             }
           },
           {
@@ -161,23 +189,29 @@
       }
     ],
     "direction": "horizontal",
-    "width": 392.5
+    "width": 256.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Criar um novo quadro": false
     }
   },
-  "active": "516a9c8e56ee2089",
+  "active": "19e21afe99e91cd0",
   "lastOpenFiles": [
+    "Escaleta/Arco de Introdução.md",
+    "Personagens 👤/Secundários/Dominadores de Éter/Angelus.md",
+    "Kate X Hinaka.md",
+    "Escaleta/Cenas/Arco de Introdução.md",
+    "Escaleta/Cenas",
+    "Planos POV 3 Livro.md",
     "World Building 🌎/Organizações Importantes/Bruxas/Filhas de Lilith.md",
     "Personagens 👤/Secundários/Dominadores de Éter/HINAKA-CHEN.md",
     "Escaleta/Ato 1 - Introdução.md",
@@ -199,11 +233,6 @@
     "Sistema de Poder/Técnicas de Éter.md",
     "Sistema de Poder/Técnicas Elementais.md",
     "Sistema de Poder/Reconexão Elemental.md",
-    "Sistema de Poder/Origem Elemento-Etérica.md",
-    "Sistema de Poder/Estrutura de Técnica.md",
-    "Sistema de Poder/Estilo de Combate.md",
-    "Sistema de Poder/Dominadores.md",
-    "Sistema de Poder/Amaldiçoados.md",
     "Escaleta",
     "Pasted image 20250430133320.png",
     "Sistema de Poder",
@@ -214,7 +243,6 @@
     "Personagens 👤/Secundários/Dominadores de Éter",
     "Personagens 👤/Secundários/Dominadores de Éter/Sacerdotisas",
     "Personagens/Secundários/Relacionados Kaori/Untitled",
-    "Personagens/Secundários/Relacionados Kaori",
     "Imagens 🖼️/hanna-img.jpg",
     "Imagens/hanna-img 1.jpg",
     "Imagens 🖼️/IMG_6643.jpeg",
