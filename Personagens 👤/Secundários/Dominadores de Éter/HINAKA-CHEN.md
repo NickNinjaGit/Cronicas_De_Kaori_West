@@ -107,7 +107,7 @@
 ### *Aparencia:*
 
 * Pele: Branca, marcada por cicatrizes nas costas; nos braços e nas pernas. 
-* Olhos: grandes e de cor vinho
+* Olhos: grandes e de cor rosa
 * Nariz: fino e pequeno
 * Cabelos: médios lisos de cor azulada clara, bagunçado
 * Acessórios: Ela utiliza anéis prateados em todos os dedos da mão, usa dois braceletes nos braços.
