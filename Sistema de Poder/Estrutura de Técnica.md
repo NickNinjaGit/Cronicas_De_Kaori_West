@@ -11,21 +11,16 @@
 
 
 #criar-tecnica 
-## Informações Básicas
 
-### Nome
+## Nome
 
-### Descrição 
+## Descrição 
 
 ## Uso da Técnica
 
 ## Limitações
 
 ## Efeitos
-
-### Efeitos Primários
-
-### Efeitos Secundários
 
 ## Complexidade
 

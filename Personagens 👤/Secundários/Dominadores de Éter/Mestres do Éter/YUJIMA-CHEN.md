@@ -221,7 +221,7 @@ NOTA: esses são os front story do livro 1
 
 ## Competências Comuns
 
-* Expert em Combate 
+* Expert em Combate - Karatê estilo Tenjosho-ryu
 * Estrategista Nato
 * Acrobacias 
 * Perceptivo

@@ -225,8 +225,127 @@ NOTA PARA ANOTAÇÕES FUTURAS
 * Parkour
 * Atletismo
 * Luta 
+* Hapkido
+* Taekwondo 
+* Karatê Tenjosho-ryu
 
 ## #Dominador-Hibrido 
 
 ## #Encantador
+
+# Técnicas 
+
+## A Fúria dos 12 (Encantamento)
+
+## Descrição 
+
+> A partir da de sua fé e da morte de seus 11 companheiros Taejung foi capaz de transformar as pequenas correntes vento em uma fonte de energia divina suprema que sopra contra todo mal. Quando usa esse encantamento, ele não apenas ganha mais poder, sua aura muda para algo iluminado como um santo e ventos áureos se reúnem em nome dele.
+
+## Uso da Técnica
+
+> Taejung pode ativar a fúria dos doze quase que a qualquer momento, desde que esteja com a mente limpa e concentrando seu éter para se expandir continuamente. A técnica em si já dá uma enorme vantagem ao usuário, porém quanto mais ele acredita em sua vitória e mais ele tiver fé, mais forte a habilidade ficará, e diferente de outras técnicas de buff. A Fúria dos 12 pode se tornar quase que infinita.
+
+**Quebra vento (Wind Breaker)**
+
+> Os ventos áureos são tão limpos e energizados que Taejung pode usá-los de forma flexível como se estivesse usando tinta para pintar um quadro, podendo assim gerar desde uma grande corrente de vento capaz de cortar o aço, até mesmo tornados que podem se dissipar, assim gerando dois ataques simultâneos. O céu é o limite ao manipular os ventos, e se bem executado pode ser uma habilidade esmagadora.
+
+
+**10 Mandamentos (10 Sacred Laws)**
+
+> Ao usar esta habilidade, Jung pode usar a Fúria dos doze de forma mais versátil, cada um dos mandamentos quando utilizado dá um efeito ou ação diferente ao encantamento.
+
+**1ª Lei (First Law) - *Amar a Deus sobre todas as coisas***
+
+> A First Law faz com que Jung consiga canalizar e atirar raios de luz através de suas mãos e pés, desde que as mantenha nuas, por outro lado, enquanto a lei está ativa ele não pode usar qualquer arma ou calçar qualquer coisa.
+
+**2ª Lei (Second Law) - *Não tomar seu santo nome em vão***
+
+> A second Law permite com que Jung utilize seu Éter para aumentar consideravelmente sua força, resistência ou velocidade ao custo de uma promessa. Caso essa promessa nunca seja cumprida, em algum momento inesperado Jung pode perder a capacidade de usar Éter.
+
+**3ª Lei (Third Law) - *Guardar domingos e festas***
+
+> Taejung é capaz de criar uma cúpula de proteção altamente resistente, ela é mantida pelo seu próprio Éter e também não pode ser moldada, tendo uma área fixa que cabe pelo menos 20 pessoas. 
+
+**4ª Lei (Forth Law) - *Honrar pai e mãe***
+
+NOTA: A ÚNICA LEI QUE ELE NÃO DOMINA
+
+> Através da força de Deus pai, Jung é capaz de empunhar a espada Chamejante de Miguel, O Globo da vida de Rafael e a Corneta do Anúncio de Miguel, ou seja, ao honrar pai e mãe Taejung chega ao nível angelical de pureza, na qual é o pecado mais difícil de se superar.
+
+**5ª Lei (Fifth Law) - *Não matarás***
+
+> Através da energia pacificadora da Santíssima Virgem, Jung é capaz de induzir o alvo a não violência e até força-lo a se arrepender daquilo. A habilidade funciona melhor caso o usuário tenha pouca resistência psíquica.
+
+**6ª Lei (Sixth Law) - *Não pecar contra a castidade***
+
+> Através da proteção, Jung é capaz de anular efeitos de controle mental caso esta habilidade esteja ativa, quanto mais poderosa ela for mais éter será necessário para repelir o efeito.
+
+**7ª Lei (Seventh Law) - *Não Furtar***
+
+> A Sétima lei permite que temporariamente Taejung não seja afetado por efeitos negativos de outras técnicas de Éter, quanto mais poderoso o efeito for mais Éter a habilidade gastará.
+
+**8ª Lei (Eighth Law) - *Não levantar falso testemunho***
+
+> Taejung pode usar a Oitava lei para criar uma marca que força a pessoa a dizer a verdade, quanto menos resistência mental o alvo tiver, mais suscetível a habilidade ele estará. 
+
+**9ª Lei (Ninth Law) - *Não desejar a mulher do próximo***
+
+> A Nona lei permite que Jung não sinta a sensação de dor, ou seja, caso ele tome um ataque, seu corpo irá ignorar algum osso quebrado e irá continuar a luta.
+
+NOTA: Basicamente, seria algo como deixar os instintos carnais (como a dor) para trás. 
+
+**10ª Lei (Tenth Law) - *Não cobiçar as coisas alheias***
+
+> Jung se desfaz de seus sentimentos por um tempo determinado, assim seguindo um último comando deixado por ele antes de desligar sua mente completamente. Nessa forma, Taejung se torna extremamente focado e não para até cumprir seu objetivo ou o tempo acabar.
+
+## Limitações
+
+* Jung não pode usar as leis em outras pessoas
+* Ele não pode utilizar duas leis simultaneamente
+* Sua força é mantida por fé, caso não a tenha, a técnica é desativada.
+
+## Efeitos
+
+* Aumento de Força; Velocidade e Resistência gradativos
+* Proteção Mental e Física
+* Manipulação Mental
+
+## Complexidade - Alta
+
+## Gasto de Energia - Baixo/Moderado
+
+
+## Learn To Fly (Encantamento)
+
+## Descrição 
+
+> Os ventos são capazes de elevar você as alturas. O Learn to Fly permite Taejung criar ventanias que deixam objetos e seres vivos extremamente leves. Normalmente quando feito, o vento assume uma forma azulada clara bem amena.
+
+## Uso da Técnica
+
+> Para ativar a técnica, Taejung precisa disparar um vento no objeto na qual irá se penetrar e modifica-lo. Esses ventos são gerados diretamente do usuário, ou seja, seu próprio oxigênio.
+
+**Learn to Levitate**
+
+> Jung é capaz de gerar um grande ciclone que sustenta uma grande carga de leveza envolta de si, podendo levitar quase que todo tipo de objeto ou pessoa (dependendo da força do ciclone)
+
+
+## Limitações
+
+* Jung necessita de uma boa respiração ou fonte de oxigênio considerável para manter o Learn to Fly.
+* Para flutuar pessoas, É necessário uma quantidade de oxigênio equivalente ao peso dela.
+
+## Efeitos
+
+* Peso pena
+* Levitação 
+
+## Complexidade - Baixa
+
+## Gasto de Energia -  Variável
+
+
+
+
+
 

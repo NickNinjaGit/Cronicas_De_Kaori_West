@@ -1,4 +1,4 @@
-## Ficha de Personagem:
+# Ficha de Personagem:
 
 ## ! Personalidade
 ### *Traços Básicos*
