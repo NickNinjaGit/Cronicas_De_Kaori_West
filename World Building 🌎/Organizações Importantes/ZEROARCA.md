@@ -59,13 +59,13 @@ Pobre 2 -  A Vela - Dependência Emocional - Busca aprovação dos outros
 Pobre 3 - 
 
 
-| Nome        | Cargo      | Defeito                  | Sonho                          |
-| ----------- | ---------- | ------------------------ | ------------------------------ |
-| [[LEONNIS]] | O Espelho  | Falta de Individualidade | Busca por Identidade           |
-| Pobre 2     | A vela     | Dependência Emocional    | Busca aprovação constante      |
-| Pobre 3     | O Isqueiro | Auto sabotagem           | Busca por estabilidade         |
-| Pobre 4     | O Compasso |                          | Busca por controle absoluto    |
-| Pobre 5     | A algema   |                          | Busca por alguém para depender |
+| Nome        | Cargo      | Defeito                  | Sonho                       |
+| ----------- | ---------- | ------------------------ | --------------------------- |
+| [[LEONNIS]] | O Espelho  | Falta de Individualidade | Busca por Identidade        |
+| Pobre 2     | A          | Dependência Emocional    | Busca aprovação constante   |
+| Pobre 3     |            | Auto sabotagem           | Busca por estabilidade      |
+| Pobre 4     | O Compasso |                          | Busca por controle absoluto |
+| Pobre 5     | A algema   |                          | Busca a                     |
 
 
 
