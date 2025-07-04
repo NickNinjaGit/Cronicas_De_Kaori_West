@@ -46,7 +46,7 @@ kanban-plugin: board
 - [ ] 2. Lanchonete Pequena
 - [ ] 3. Bairro DUMBO; Manhattan Bridge; QNDB
 - [ ] 4. Apartamento de Kaori
-- [ ] 5. Residência dos West
+- [ ] 
 
 
 ## Mise en Scène
