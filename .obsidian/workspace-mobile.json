@@ -67,28 +67,14 @@
             "id": "a3ac5e3ff264a0a2",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Escaleta/Cenas/Arco de Introdução/Scene Board.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Escaleta/Guia de Mise en Scène.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Scene Board"
+              "icon": "lucide-file",
+              "title": "Guia de Mise en Scène"
             }
           }
         ],
@@ -234,6 +220,10 @@
   },
   "active": "a3ac5e3ff264a0a2",
   "lastOpenFiles": [
+    "Personagens 👤/Protagonistas/KAORI SILVA WEST.md",
+    "Escaleta/Cenas/Arco de Introdução/Scene Board.md",
+    "Escaleta/Cenas/Arco de Introdução/Mise en Scène Cena 1.md",
+    "Escaleta/Cenas/Arco de Introdução/Mise en Scène Cena 2.md",
     "Imagens 🖼️/hanna-img.jpg",
     "conflict-files-obsidian-git.md",
     "/conflict-files-obsidian-git.md",
@@ -244,7 +234,6 @@
     "/Escaleta",
     "Imagens 🖼️/IMG_6643.jpeg",
     "Personagens 👤/Protagonistas/TAE-JUNG.md",
-    "Personagens 👤/Protagonistas/KAORI SILVA WEST.md",
     "Personagens 👤/Secundários/Dominadores de Éter/Mestres do Éter/ENNARD-MELAHEL.md",
     "Templates/Template Personagem.md",
     "Personagens 👤/Vilões/ZEROM.md",
@@ -258,9 +247,6 @@
     "Personagens 👤/Secundários/Dominadores de Éter/ANGELUS.md",
     "Untitled Kanban.md",
     "Escaleta/Arco de Introdução.md",
-    "Escaleta/Cenas/Arco de Introdução/Mise en Scène Cena 1.md",
-    "Escaleta/Cenas/Arco de Introdução/Scene Board.md",
-    "Escaleta/Cenas/Arco de Introdução/Mise en Scène Cena 2.md",
     "Escaleta/Cenas/Arco de Introdução.md",
     "Escaleta/Guia de Mise en Scène.md",
     "Escaleta/Cenas/Arco de Introdução",
