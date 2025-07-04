@@ -1,4 +1,4 @@
-# Ficha de Personagem
+# @ Character Bible
 
 ## ! Personalidade 
 
@@ -60,7 +60,7 @@
 
 **Relação com [[QUEELBETHWO]]**
 
-> Hanna e Queelbethwo possuem uma relação de mestra e aluna, ja que Queel era uma das pessoas leigas que Saori havia ensinado a arte do Éter, e provavelmente a sacerdotisa mais poderosa do grupo em questão de técnicas. Além disso Queelbethwo era muito próxima de Saori, e enxergou totalmente sua amiga em Hanna, por isso ela se preocupa como se fosse sua mãe, ensinando também realidades que Hanna nunca imaginaria viver.
+> Hanna e Queelbethwo possuem uma relação de mestra e aluna, já que Queel era uma das pessoas leigas que Saori havia ensinado a arte do Éter, e provavelmente a sacerdotisa mais poderosa do grupo em questão de técnicas. Além disso Queelbethwo era muito próxima de Saori, e enxergou totalmente sua amiga em Hanna, por isso ela se preocupa como se fosse sua mãe, ensinando também realidades que Hanna nunca imaginaria viver.
 
 **Relação com [[CORNELLE KATARAMÉNI]]**
 
@@ -76,7 +76,7 @@
 
 **Relação com [[KAORI SILVA WEST]]**
 
-> Apesar de conseguirem se conhecer depois de tantos anos, Hanna ficou muito feliz de se reencontrar com sua primogênita, na qual foi um encontro emocionante para ambos os lados, com a mulher relembrando de seu passado e retomando laços com sua filha. Porém , infelizmente na batalha decisiva para libertar Lúcifer, Hanna acabou se sacrificando para salvar a todos, passando também sua chama e o seu legado para Kaori em uma morte honrosa.
+> Apesar de conseguirem se conhecer depois de tantos anos, Hanna ficou muito feliz de se reencontrar com sua primogênita, na qual foi um encontro emocionante para ambos os lados, com a mulher relembrando de seu passado e retomando laços com sua filha. Porém, infelizmente na batalha decisiva para libertar Lúcifer, Hanna acabou se sacrificando para salvar a todos, passando também sua chama e o seu legado para Kaori em uma morte honrosa.
 ### Máscaras Sociais
 
 **Empresarial/Formal**
@@ -91,9 +91,6 @@
 **Como Esposa/Figura Materna**
 
 > Aqui é onde Hanna demonstra sua verdadeira face, se revelando como uma pessoa reservada e quieta, porém protetora e carinhosa, coisa que é bem incomum para quem a não conhece bem. Isso se mostrou verdade tanto com Cornelle quanto com Kaori.
-
-
-
 
 ## ! Informativo 
 
@@ -225,8 +222,8 @@
 > Assim, para preservar um pouco da integridade e juventude de sua discípula, Hanna decidiu fazer uma ação ousada tanto para sua saúde quanto para sua honra, ela simplesmente dividiu sua chama renascente em 2 partes, dando uma para Cornelle. Antes que se despedisse da garota ela não prometeu que voltaria, mas com metade de sua essência integrada a ela, Cornelle estaria confortável a todo momento enquanto estivesse ali, e em suas últimas palavras Hanna disse que a amou como se fosse sua filha todo esse tempo.
 
 
-
-# Arquétipo do Cuidador
+# @ Arquétipos
+## Arquétipo do Cuidador
 
 **Características:**
 
@@ -240,18 +237,79 @@
 
 **Exemplos:** Eva em _Precisamos Falar Sobre Kevin_ , Samwise de _O Senhor dos Anéis_, Mary Poppins.
 
+## Arquétipo do Guerreiro Redentor
 
-# Habilidades
+### **Características:**
 
-#### Classe: #Dominador-Hibrido
+O _**Guerreiro Redentor**_ é aquele que luta não apenas para vencer inimigos, mas para salvar a si mesmo e aos outros da dor, da injustiça ou da escuridão interior. Ele carrega cicatrizes profundas — físicas, emocionais ou espirituais — e transforma a batalha em um ato de redenção. Sua força não vem apenas da espada, mas do arrependimento, do sacrifício e da coragem de mudar.
 
----
+### **Pontos Fortes:**
 
-#### Estilo de Combate: N/A
+- Coragem moral
+    
+- Determinação inabalável
+    
+- Capacidade de inspirar e proteger os outros
+    
+### **Fraquezas:**
 
----
+- Culpa ou traumas não resolvidos
+    
+- Tendência ao auto-sacrifício excessivo
+    
+- Isolamento emocional
+### **Desejo Central:**
 
-#### Chama da Renascença
+Redimir-se de erros do passado protegendo o futuro de outras pessoas.
 
-## Técnicas de Éter
+### **Exemplos:**
 
+Zuko (_Avatar: A Lenda de Aang_), Jean Valjean (_Os Miseráveis_), Maximus (_Gladiador_), Aragorn (_O Senhor dos Anéis_)
+
+# @ Habilidades
+
+## Conexão Elemental - Celestial do Fogo
+
+## Competências Comuns
+
+* Escalada
+* Estrategista nata
+* Acrobacias
+
+## #Dominador-Primordial (Dom. Hibrido -> Dom. Primordial)
+
+## #Encantador
+
+## Técnicas 
+
+### Aurea Mediocritas (Encantamento)
+
+### Descrição 
+
+> Ao redor de Hanna, chamas brancas tão brilhantes como o sol surgem como pilastras de fogo ao redor dela e de quem está sendo afetado. Ao se aproximar da pessoa, a sacerdotisa utiliza de toda a sua humildade para abdicar de seus bens em prol de purificar o próximo para que ele se torne limpo. Ao final Hanna carrega consigo chamas brancas na qual simbolizam literalmente a paz, assim caso o alvo resista, ela ainda terá a opção de lutar em favor dele.
+
+> Ao usar o Aurea Plactus seus olhos se ilumimam de amarelo grandes membranas de luz são criadas em seus braços como se fossem extensões de seu corpo, toda chama ao seu redor se torna parte dela assim lhe trazendo harmonia com o elemento.
+
+### Uso da Técnica
+
+> Hanna pode ativar o Aurea Mediocritas em qualquer contato que as chamas façam com o alvo. Ao ativá-lo, ambos são envolvidos por uma aura serena na qual consome o éter do usuário constantemente. Pode a princípio parecer uma técnica de transmissão, porém Hanna simplesmente molda suas chamas ao ponto de serem tão limpas ao ponto de atingirem o réquiem. 
+
+**Aurea Plactus**
+
+> Caso o alvo resista e aceite a violencia, Hanna ainda pode realizar um "Plactus" ou seja, uma apaziguação, que consiste em usar ataques ofensivos de luz pura com o objetivo de conter o alvo e deixar que a aurea de humildade o converta.
+
+Aurea Remedium
+
+> Hanna consegue utilizar sua energia para curar o próximo através de sua própria vitalidade, ou seja, literalmente doar sua energia vital o Éter para o próximo.
+
+### Limitações
+
+> Apesar de poderosa, caso o alvo não tenha um pingo de bondade em seu coração é praticamente impossível apenas ganhar a luta com humildade. 
+
+### Efeitos
+
+* Ataque Radiante
+* Ataque Psíquico
+### Complexidade: Alta
+
+### Gasto de Energia: Moderado

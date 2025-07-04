@@ -1,7 +1,6 @@
 Sacerdotisa em referência a Sophie Scholl, uma das principais ativistas contra o movimento anti nazista
 
 # Material de Apoio e Fontes Úteis 
-Seu nome é uma mistura das palavras Rock em inglês que remete a uma estética punk anarquista e Fiurer remete a Fogo ou chama em alemão, simbolizando uma libertação das amarras daquela época.
 
 Infância e Educação
 
@@ -10,12 +9,6 @@ Infância e Educação
 • Era a quarta de seis irmãos e teve uma infância relativamente tranquila, repleta de brincadeiras e estudos. Seus irmãos mais velhos, especialmente Hans Scholl, tiveram um grande impacto em sua visão de mundo.
 
 • Quando criança, ela era curiosa, perspicaz e apaixonada por arte e filosofia. Seu amor pela leitura e pelo aprendizado a acompanhou ao longo da vida.
-
-  
-
-  
-
-  
 
 Adolescência e Primeiros Conflitos
 
@@ -85,11 +78,6 @@ Fontes Inspiradoras para Explorar
 • Memoriais e Museus:
 
 • Museus dedicados à resistência contra o nazismo, como o Memorial da Resistência na Alemanha, frequentemente destacam sua história, servindo como ponto de referência para debates sobre cidadania e direitos humanos.
-  
-
-  
-
-  
 
 Últimos Momentos e Sua Postura Diante da Morte
 

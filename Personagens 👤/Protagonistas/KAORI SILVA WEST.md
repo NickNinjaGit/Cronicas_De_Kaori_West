@@ -1,4 +1,4 @@
-# @ Character Bible - Kaori
+# @ Character Bible
 
 ## ! Personalidade 
 
@@ -173,3 +173,35 @@ O ***arquétipo do órfão*** está frequentemente associado a personagens que, 
 * Falta de confiança 
 * Necessidade de agradar aos outros.
 --- 
+
+# Habilidades
+
+## Conexão Elemental - Celestial do Fogo
+
+## Competências Comuns
+
+* Líder nato
+* Criativa
+* Conhecimentos Gerais Aprimorados (Base comum escolar: Matemática, Química, Física, Biologia)
+* Marketing (Se for útil)
+## #Dominador-Hibrido 
+
+## #Encantador/Amaldiçoador
+
+
+## Técnicas
+### The Strokes (Encantamento)
+
+### Descrição 
+
+### Uso da Técnica
+
+### Limitações
+
+### Efeitos
+
+### Complexidade
+
+### Gasto de Energia
+
+

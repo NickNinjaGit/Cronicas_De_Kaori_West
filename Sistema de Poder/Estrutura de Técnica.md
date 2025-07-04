@@ -12,19 +12,19 @@
 
 #criar-tecnica 
 
-## Nome
+### Nome
 
-## Descrição 
+### Descrição 
 
-## Uso da Técnica
+### Uso da Técnica
 
-## Limitações
+### Limitações
 
-## Efeitos
+### Efeitos
 
-## Complexidade
+### Complexidade
 
-## Gasto de Energia
+### Gasto de Energia
 
 
 

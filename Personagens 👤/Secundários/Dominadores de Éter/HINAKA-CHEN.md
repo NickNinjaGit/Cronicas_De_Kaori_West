@@ -1,4 +1,4 @@
-# Ficha de Personagem:
+# @ Character Bible
 
 ## ! Personalidade
 ### *Traços Básicos*
@@ -192,11 +192,11 @@
 > Após conseguirem derrotar Ennard, cada membro presente segue um caminho, e com Hinaka foi o mesmo. Ela decide ficar fora da missão ao inferno com o objetivo de investigar mais a fundo o passado de Morvia e entender sua relação com Lilith. No meio do caminho ela acaba se aliando com [[CLEVER-ROACH]] afim de deterem uma ameaça em comum que assombra o mundo e podem trazer respostas para suas dúvidas.
 
 
-# Habilidades
+# @ Habilidades
 
 ## Competências Comuns
 
-* Artes Marciais
+* Tenjosho-ryu
 * Atletismo
 * Escalada
 ## Conexão Elemental - Celestial da Água
@@ -205,15 +205,15 @@
 
 ## #Transmutador/Desconstrutor
 
-# Técnicas
+## Técnicas
 
-## Weaver Wave (Desconstrução)
+### Weaver Wave (Desconstrução)
 
-## Descrição 
+### Descrição 
 
 > Hinaka consegue desconstruir qualquer componente que contenha moléculas de água para gerar uma corrente marítima com uma solução química artificial. Essa mistura permite que ela possa utilizar a água tanto de forma ofensiva como defensiva. 
 
-## Uso da Técnica
+### Uso da Técnica
 
 > Para que a técnica funcione, é preciso que Hinaka tenha acesso a qualquer objeto que possua água em sua formação química. Caso tenha, ela precisa toca-lo para usar a técnica.
 
@@ -235,14 +235,14 @@
 **Weaver Wall**
 
 > Caso Hinaka extraía água do solo, ela pode criar uma corrente lamacenta que pode ser usada como barreira por ela.
-## Limitações
+### Limitações
 
 * A técnica não funciona em seres vivos 
 * Hinaka só pode manter uma corrente marítima por vez. 
 * Quanto mais complexa a mistura for, mais éter consumirá
 * Caso Hinaka sofra grandes danos, a técnica é automaticamente desativada.
 
-## Efeitos
+### Efeitos
 
 > Os efeitos do Weaver Wave são diversos pois dependem exclusivamente do que está sendo desconstruído por Hinaka, alguns deles são:
 
@@ -252,18 +252,18 @@
 * Cura
 * Fadigas
 
-## Complexidade: Moderada
+### Complexidade: Moderada
 
-## Gasto de Energia: Baixo
+### Gasto de Energia: Baixo
 
 
-## Iron Maiden (Transmutação)
+### Iron Maiden (Transmutação)
 
-## Descrição
+### Descrição
 
 > Hinaka é capaz de evaporar a água de seu próprio corpo para se formar e aliementar um núcleo interno de calor similar a uma bobina de vapor, que enrijece seu corpo através do Éter. Quando utilizado seu corpo se torna mais resistente que o aço e ela ganha uma força extraordinária, além de sua pele ficar totalmente avermelhada graças a elevada temperatura.
 
-## Uso da Técnica
+### Uso da Técnica
 
 > Para que a técnica funcione adequadamente, Hinaka precisa estar bem hidratada e com uma temperatura ambiente ou abaixo dela. 
 
@@ -280,7 +280,7 @@
 > Como uma forma de manter sua técnica em um estado equilibrado, Hinaka pode usar a pressão causada pelo vapor ao seu favor disparando ela em uma rajada concentrada.
 
 ****
-## Limitações
+### Limitações
 
 * Após a técnica ser ativada, Hinaka não pode desativá-la até que se passe uma hora.
 
@@ -288,15 +288,15 @@
 
 * Caso esteja com muito vapor acumulado, Hinaka pode sobrecarregar e seu corpo poderá explodir a qualquer momento.
 
-## Efeitos
+### Efeitos
 
 * Derretimento
 * Aumento das capacidades físicas
 * Calor extremo
 
-## Complexidade: Baixo
+### Complexidade: Baixo
 
-## Gasto de Energia: Alto
+### Gasto de Energia: Alto
 
 
 
