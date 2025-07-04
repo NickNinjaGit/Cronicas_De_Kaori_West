@@ -11,23 +11,14 @@
             "id": "0c24a25a3035cdfe",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Escaleta/Cenas/Arco de Introdução/Mise en Scène Cena 2.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Personagens 👤/Protagonistas/TAE-JUNG.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Mise en Scène Cena 2"
+              "icon": "lucide-file",
+              "title": "TAE-JUNG"
             }
           }
         ]
@@ -187,14 +178,17 @@
   },
   "active": "0c24a25a3035cdfe",
   "lastOpenFiles": [
+    "Personagens 👤/Protagonistas/KAORI SILVA WEST.md",
+    "Personagens 👤/Protagonistas/TAE-JUNG.md",
+    "Personagens 👤/Secundários/Dominadores de Éter/Mestres do Éter/YUJIMA-CHEN.md",
+    "Estrutura de 3 Atos Completa (Livro 1).md",
+    "Estrutura de 3 Atos Resumida (Livro 1).md",
+    "Escaleta/Cenas/Arco de Introdução/Mise en Scène Cena 2.md",
     "Escaleta/Cenas/Arco de Introdução/Mise en Scène Cena 1.md",
     "Escaleta/Cenas/Arco de Introdução/Scene Board.md",
-    "Personagens 👤/Protagonistas/KAORI SILVA WEST.md",
     "Escaleta/Guia de Mise en Scène.md",
-    "Escaleta/Cenas/Arco de Introdução/Mise en Scène Cena 2.md",
     "Escaleta/Arco de Introdução.md",
     "conflict-files-obsidian-git.md",
-    "Escaleta/Cenas/Arco de Introdução/Mise en Scène Cena 2.md",
     "World Building 🌎/Organizações Importantes/ZEROARCA.md",
     "Personagens 👤/Vilões/ZEROM.md",
     "Personagens 👤/Vilões",
@@ -212,9 +206,7 @@
     "Escaleta/Ato 1 - Introdução.md",
     "Personagens 👤/Secundários/FRANCIS-GARCIA.md",
     "Personagens 👤/Antagonistas/CLEVER-ROACH.md",
-    "Personagens 👤/Protagonistas/TAE-JUNG.md",
     "Personagens 👤/Secundários/Dominadores de Éter/Mestres do Éter/ENNARD-MELAHEL.md",
-    "Personagens 👤/Secundários/Dominadores de Éter/Mestres do Éter/EVELYN-RABNOTT.md",
     "Escaleta",
     "Pasted image 20250430133320.png",
     "Sistema de Poder",

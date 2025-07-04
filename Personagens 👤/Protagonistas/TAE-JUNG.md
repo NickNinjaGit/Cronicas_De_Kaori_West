@@ -1,5 +1,5 @@
-
-# Ficha de Personagem:
+CB - Character Bible
+# @ Character Bible
 
 ## ! Personalidade 
 
@@ -77,6 +77,7 @@
 * Altura: 1,85m
 * Peso: 77kg
 * Signo: Sagitário
+* Aniversário: 8 de dezembro (Dia de Nossa Senhora da Conceição)
 * Etnia: Coreana
 
 ### *Gostos*:
@@ -191,13 +192,13 @@ Hero - Dragon Quest
 
 > Foi mais ou menos na época em que Taejung iria completar 24 anos, novos ataques demoníacos começaram a surgir repentinamente, porém ao invés de lhe instigarem medo, essa notícia foi uma luz para encontrar alguma pista sobre Leonnis e a alma de Sarah. 
 
-> Ao conseguir capturar e interrogar alguns demônios, Taejung perguntou precisamente sobre o nome de seu inimigo, porém toda vez que era mencionado, parecia que seu nome causava arrepios até nos demônios mais mal encarados. 
+> Ao conseguir capturar e interrogar alguns demônios, Taejung perguntou precisamente sobre o nome de seu inimigo, porém toda vez que era mencionado, parecia que seu nome causava arrepios até nos demônios mal encarados. 
 
 > Mesmo sem conseguir atingir seu objetivo principal, ele descobriu sobre uma história que prendeu sua atenção. 
  
 > Quando perguntou qual era o motivo de voltarem do inferno, alguns deles diziam estar caçando Hanna Devil, a traidora do inferno que havia roubado 5 artefatos preciosos conhecidos como as “Chaves do Inferno”. 
 
-> Ao ouvir isso, imediatamente Jung contou isso ao seu mestre, que dissera tê-la encontrado uma vez, como sacerdotisa sem qualquer ligação demoníaca, porém convencido das motivações de seu aluno, ele concordou em ajudá-lo com a busca dos artefatos, mesmo o desencorajando a se meter com o inferno novamente.
+> Ao ouvir isso, imediatamente Jung contou isso ao seu mestre, que dissera tê-la encontrado uma vez, como sacerdotisa sem qualquer ligação demoníaca, contudo, convencido das motivações de seu aluno, ele concordou em ajudá-lo com a busca dos artefatos, mesmo o desencorajando a se meter com os demônios novamente.
 
 
 ### Incertezas que corroem a esperança
@@ -215,7 +216,107 @@ NOTA PARA ANOTAÇÕES FUTURAS
 
 > a tendência é Taejung se corroer ao ponto de uma hora se tornar instável e finalmente um vilão movido por suas próprias vontades. Porém provavelmente sua hora de agir com os poderes do vazio aconteceria provavelmente em uma sequência da obra.
 
-# Habilidades 
+
+
+
+# @ Arquétipos
+## Arquétipo do Herói
+
+---
+
+### **Características:**
+
+O _**arquétipo do herói**_ representa aquele que é chamado a realizar grandes feitos, enfrentando desafios internos e externos para proteger algo maior que si mesmo. É movido por **coragem, senso de dever** e o desejo de fazer a diferença, mesmo que precise se sacrificar no processo.
+
+---
+
+### **Pontos fortes:**
+
+- Coragem
+    
+- Determinação
+    
+- Espírito de sacrifício
+    
+- Inspiração para os outros
+    
+
+---
+
+### **Fraquezas:**
+
+- Tendência ao orgulho
+    
+- Incapacidade de pedir ajuda
+    
+- Obsessão por vencer
+    
+
+---
+
+## Arquétipo da Sombra
+
+---
+
+### **Características:**
+
+A _**sombra**_ é o lado oculto e reprimido da personalidade, onde habitam os **instintos negados, dores não resolvidas e desejos destrutivos**. Ela representa o “outro lado” do herói — o que pode surgir quando ele **não aceita suas fraquezas ou tenta controlar demais seu destino.**
+
+---
+
+### **Pontos fortes:**
+
+- Autoconhecimento quando integrada
+    
+- Acesso a emoções reprimidas
+    
+- Fonte de transformação interior
+    
+
+---
+
+### **Fraquezas:**
+
+- Impulsos destrutivos
+    
+- Autossabotagem
+    
+- Corrupção moral e emocional
+    
+
+---
+
+## Arquétipo do Salvador
+
+---
+
+### **Características:**
+
+O _**arquétipo do salvador**_ é aquele que se sente chamado a redimir ou curar os outros, mesmo à custa do próprio bem-estar. Guiado por um senso profundo de **missão espiritual, empatia e sacrifício**, ele busca **dar sentido à dor através da salvação alheia**.
+
+---
+
+### **Pontos fortes:**
+
+- Compaixão profunda
+    
+- Capacidade de inspirar fé
+    
+- Disposição para se sacrificar pelos outros
+    
+
+---
+
+### **Fraquezas:**
+
+- Negligência consigo mesmo
+    
+- Complexo de mártir
+    
+- Carga emocional insustentável
+
+
+# @ Habilidades 
 
 ## Conexão Elemental - Celestial do Ar
 
@@ -233,15 +334,15 @@ NOTA PARA ANOTAÇÕES FUTURAS
 
 ## #Encantador
 
-# Técnicas 
+## Técnicas 
 
-## A Fúria dos 12 (Encantamento)
+### A Fúria dos 12 (Encantamento)
 
-## Descrição 
+#### Descrição 
 
 > A partir da de sua fé e da morte de seus 11 companheiros Taejung foi capaz de transformar as pequenas correntes vento em uma fonte de energia divina suprema que sopra contra todo mal. Quando usa esse encantamento, ele não apenas ganha mais poder, sua aura muda para algo iluminado como um santo e ventos áureos se reúnem em nome dele.
 
-## Uso da Técnica
+#### Uso da Técnica
 
 > Taejung pode ativar a fúria dos doze quase que a qualquer momento, desde que esteja com a mente limpa e concentrando seu éter para se expandir continuamente. A técnica em si já dá uma enorme vantagem ao usuário, porém quanto mais ele acredita em sua vitória e mais ele tiver fé, mais forte a habilidade ficará, e diferente de outras técnicas de buff. A Fúria dos 12 pode se tornar quase que infinita.
 
@@ -298,30 +399,30 @@ NOTA: Basicamente, seria algo como deixar os instintos carnais (como a dor) para
 
 > Jung se desfaz de seus sentimentos por um tempo determinado, assim seguindo um último comando deixado por ele antes de desligar sua mente completamente. Nessa forma, Taejung se torna extremamente focado e não para até cumprir seu objetivo ou o tempo acabar.
 
-## Limitações
+#### Limitações
 
 * Jung não pode usar as leis em outras pessoas
 * Ele não pode utilizar duas leis simultaneamente
 * Sua força é mantida por fé, caso não a tenha, a técnica é desativada.
 
-## Efeitos
+#### Efeitos
 
 * Aumento de Força; Velocidade e Resistência gradativos
 * Proteção Mental e Física
 * Manipulação Mental
 
-## Complexidade - Alta
+#### Complexidade - Alta
 
-## Gasto de Energia - Baixo/Moderado
+#### Gasto de Energia - Baixo/Moderado
 
 
-## Learn To Fly (Encantamento)
+### Learn To Fly (Encantamento)
 
-## Descrição 
+#### Descrição 
 
 > Os ventos são capazes de elevar você as alturas. O Learn to Fly permite Taejung criar ventanias que deixam objetos e seres vivos extremamente leves. Normalmente quando feito, o vento assume uma forma azulada clara bem amena.
 
-## Uso da Técnica
+#### Uso da Técnica
 
 > Para ativar a técnica, Taejung precisa disparar um vento no objeto na qual irá se penetrar e modifica-lo. Esses ventos são gerados diretamente do usuário, ou seja, seu próprio oxigênio.
 
@@ -330,19 +431,19 @@ NOTA: Basicamente, seria algo como deixar os instintos carnais (como a dor) para
 > Jung é capaz de gerar um grande ciclone que sustenta uma grande carga de leveza envolta de si, podendo levitar quase que todo tipo de objeto ou pessoa (dependendo da força do ciclone)
 
 
-## Limitações
+#### Limitações
 
 * Jung necessita de uma boa respiração ou fonte de oxigênio considerável para manter o Learn to Fly.
 * Para flutuar pessoas, É necessário uma quantidade de oxigênio equivalente ao peso dela.
 
-## Efeitos
+#### Efeitos
 
 * Peso pena
 * Levitação 
 
-## Complexidade - Baixa
+#### Complexidade - Baixa
 
-## Gasto de Energia -  Variável
+#### Gasto de Energia -  Variável
 
 
 
