@@ -8,49 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "41cb7670e50dc31a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sistema de Poder/Estrutura de Técnica.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Estrutura de Técnica"
-            }
-          },
-          {
             "id": "b687634b3193b98e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personagens 👤/Secundários/Dominadores de Éter/Mestres do Éter/YUJIMA-CHEN.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "YUJIMA-CHEN"
-            }
-          },
-          {
-            "id": "4ddfe157fff19608",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Escaleta/Ato 1 - Introdução.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ato 1 - Introdução"
-            }
-          },
-          {
-            "id": "247e0539d9600a4f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -64,30 +22,59 @@
             }
           },
           {
-            "id": "acc9ea26db2bc2ad",
+            "id": "d19b31b63d23b573",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Escaleta/Cenas/Arco de Introdução.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Sistema de Poder/Estrutura de Técnica.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Arco de Introdução"
+              "icon": "lucide-file",
+              "title": "Estrutura de Técnica"
+            }
+          },
+          {
+            "id": "a5118b2c240d5be3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Template Personagem.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Template Personagem"
+            }
+          },
+          {
+            "id": "9d06feef8b41346f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personagens 👤/Protagonistas/KAORI SILVA WEST.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "KAORI SILVA WEST"
+            }
+          },
+          {
+            "id": "a3ac5e3ff264a0a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personagens 👤/Protagonistas/TAE-JUNG.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TAE-JUNG"
             }
           }
         ],
@@ -154,7 +141,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "783e05f9d37f295b",
@@ -231,46 +218,46 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "16f4f8c124c6d77b",
+  "active": "a3ac5e3ff264a0a2",
   "lastOpenFiles": [
-    "Escaleta/Arco de Introdução.md",
-    "Escaleta/Cenas/Arco de Introdução.md",
-    "Planos POV 3 Livro.md",
-    "Escaleta/Cenas/Arco de Introdução",
-    "Escaleta/Cenas",
-    "Estrutura de 3 Atos Completa (Livro 1).md",
-    "Kate X Hinaka.md",
-    "Ideias Rápidas Saga Chaves do Inferno.md",
+    "Personagens 👤/Protagonistas/KAORI SILVA WEST.md",
+    "Imagens 🖼️/IMG_6643.jpeg",
+    "Personagens 👤/Secundários/Dominadores de Éter/Mestres do Éter/ENNARD-MELAHEL.md",
+    "Templates/Template Personagem.md",
     "Personagens 👤/Protagonistas/TAE-JUNG.md",
-    "Personagens 👤/Secundários/FRANCIS-GARCIA.md",
-    "Personagens 👤/Secundários/KATE-GARCIA.md",
-    "Personagens 👤/Secundários/MARTIN SILVA WEST.md",
-    "Personagens 👤/Secundários/Dominadores de Éter/Mestres do Éter/BAAKO.md",
-    "Sistema de Poder/Técnicas de Éter.md",
-    "Sistema de Poder/Reconexão Elemental.md",
-    "Sistema de Poder/Origem Elemento-Etérica.md",
-    "Sistema de Poder/Estilo de Combate.md",
+    "Personagens 👤/Vilões/ZEROM.md",
+    "World Building 🌎/Organizações Importantes/10 Mestres do Éter.md",
+    "World Building 🌎/Organizações Importantes/ZEROARCA.md",
+    "Personagens 👤/Vilões",
     "Sistema de Poder/Estrutura de Técnica.md",
     "Personagens 👤/Secundários/Dominadores de Éter/HINAKA-CHEN.md",
-    "Templates/Template Personagem.md",
-    "Personagens 👤/Secundários/Dominadores de Éter/Angelus.md",
-    "Personagens 👤/Secundários/Dominadores de Éter/Mestres do Éter/ENNARD-MELAHEL.md",
-    "Personagens 👤/Secundários/Dominadores de Éter/Mestres do Éter/ALEXANDRE-CLIFFORD.md",
-    "Personagens 👤/Secundários/Dominadores de Éter/Sacerdotisas/Chamas Renascentes/CORNELLE KATARAMÉNI.md",
-    "World Building 🌎/Organizações Importantes/10 Mestres do Éter.md",
-    "Personagens 👤/Secundários/Dominadores de Éter/Mestres do Éter/EVELYN-RABNOTT.md",
+    "Personagens 👤/Secundários/Dominadores de Éter/Mestres do Éter/YUJIMA-CHEN.md",
     "Personagens 👤/Secundários/Dominadores de Éter/Mestres do Éter/SIGVARD.md",
+    "Personagens 👤/Secundários/Dominadores de Éter/ANGELUS.md",
+    "Untitled Kanban.md",
+    "Escaleta/Arco de Introdução.md",
+    "Escaleta/Cenas/Arco de Introdução/Mise en Scène Cena 1.md",
+    "Escaleta/Cenas/Arco de Introdução/Scene Board.md",
+    "Escaleta/Cenas/Arco de Introdução/Mise en Scène Cena 2.md",
+    "Escaleta/Cenas/Arco de Introdução.md",
+    "Escaleta/Guia de Mise en Scène.md",
+    "Escaleta/Cenas/Arco de Introdução",
+    "/Templates/Template Mise en Scène.md",
+    "Templates/Template Mise en Scène.md",
+    "/Templates",
+    "/Escaleta/Guia de Mise en Scène.md",
+    "/Escaleta/Cenas/Arco de Introdução/Scene Board.md",
+    "/Escaleta/Cenas/Arco de Introdução/Mise en Scène Cena 2.md",
+    "/Escaleta/Cenas/Arco de Introdução/Mise en Scène Cena 1.md",
+    "/Escaleta/Cenas/Arco de Introdução",
+    "/Escaleta/Cenas",
+    "/Escaleta",
+    "Escaleta/Cenas",
     "/World Building 🌎/Organizações Importantes/Bruxas",
     "/World Building 🌎/Organizações Importantes",
     "/World Building 🌎",
-    "/Personagens 👤/Secundários/Dominadores de Éter",
-    "/Personagens 👤/Secundários",
-    "/Personagens 👤/Protagonistas",
-    "/Personagens 👤",
-    "/Personagens 👤/Secundários/Dominadores de Éter/Mestres do Éter",
     "Pasted image 20250430133320.png",
     "Imagens 🖼️/hanna-img.jpg",
-    "Imagens 🖼️/IMG_6643.jpeg",
     "/Imagens 🖼️/hanna-img.jpg",
     "/Imagens 🖼️/IMG_6643.jpeg",
     "Imagens/hanna-img.jpg",
