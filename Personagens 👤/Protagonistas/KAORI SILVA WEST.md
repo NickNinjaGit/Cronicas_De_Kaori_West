@@ -72,7 +72,7 @@
 ## Infância 
  >  Kaori Silva Matsuda nasceu e cresceu no bairro da Liberdade, em São Paulo, uma área conhecida pela presença marcante da cultura japonesa e pela diversidade que enche suas ruas de tradições e histórias. Criada pelo pai, Martin Silva, um homem amoroso e dedicado, Kaori sempre sentiu a ausência de sua mãe, Hanna Matsuda, que, segundo o pai, havia morrido em um acidente quando ela tinha por volta de 4 anos. Essa perda misteriosa e envolta em poucas lembranças deixava uma sensação de vazio que a acompanhava, reforçando nela uma natural introspecção e uma curiosidade sobre sua própria origem.
 --- 
-> Martin criou Kaori com um carinho imenso e tentou manter vivas as tradições da família de sua esposa. As memórias culturais foram se misturando ao cotidiano: Kaori frequentava aulas de  japonês nos finais de semana e adorava participar das festividades da Liberdade, como o Tanabata Matsuri e o Ano Novo Lunar. Martin incentivava essa conexão com a cultura japonesa, esperando que isso mantivesse algo da memória de Hanna viva em Kaori, ainda que a jovem sentisse que faltava uma peça importante para completar sua identidade. Aaaaaaaa
+> Martin criou Kaori com um carinho imenso e tentou manter vivas as tradições da família de sua esposa. As memórias culturais foram se misturando ao cotidiano: Kaori frequentava aulas de  japonês nos finais de semana e adorava participar das festividades da Liberdade, como o Tanabata Matsuri e o Ano Novo Lunar. Martin incentivava essa conexão com a cultura japonesa, esperando que isso mantivesse algo da memória de Hanna viva em Kaori, ainda que a jovem sentisse que faltava uma peça importante para completar sua identidade. 
 
   
 

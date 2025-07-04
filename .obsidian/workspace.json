@@ -11,14 +11,23 @@
             "id": "0c24a25a3035cdfe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Escaleta/Arco de Introdução.md",
-                "mode": "source",
-                "source": false
+                "file": "Escaleta/Cenas/Arco de Introdução/Mise en Scène Cena 2.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "lucide-file",
-              "title": "Arco de Introdução"
+              "icon": "lucide-trello",
+              "title": "Mise en Scène Cena 2"
             }
           }
         ]
@@ -179,8 +188,12 @@
   "active": "0c24a25a3035cdfe",
   "lastOpenFiles": [
     "Escaleta/Cenas/Arco de Introdução/Mise en Scène Cena 1.md",
-    "conflict-files-obsidian-git.md",
     "Escaleta/Cenas/Arco de Introdução/Scene Board.md",
+    "Personagens 👤/Protagonistas/KAORI SILVA WEST.md",
+    "Escaleta/Guia de Mise en Scène.md",
+    "Escaleta/Cenas/Arco de Introdução/Mise en Scène Cena 2.md",
+    "Escaleta/Arco de Introdução.md",
+    "conflict-files-obsidian-git.md",
     "Escaleta/Cenas/Arco de Introdução/Mise en Scène Cena 2.md",
     "World Building 🌎/Organizações Importantes/ZEROARCA.md",
     "Personagens 👤/Vilões/ZEROM.md",
@@ -190,8 +203,6 @@
     "Escaleta/Cenas/Kanban sem título.md",
     "Templates/Template Mise en Scène.md",
     "Templates/Template Personagem.md",
-    "Escaleta/Guia de Mise en Scène.md",
-    "Escaleta/Arco de Introdução.md",
     "Personagens 👤/Secundários/Dominadores de Éter/HINAKA-CHEN.md",
     "Personagens 👤/Secundários/Dominadores de Éter/Angelus.md",
     "Kate X Hinaka.md",
@@ -199,14 +210,11 @@
     "Planos POV 3 Livro.md",
     "World Building 🌎/Organizações Importantes/Bruxas/Filhas de Lilith.md",
     "Escaleta/Ato 1 - Introdução.md",
-    "Personagens 👤/Protagonistas/KAORI SILVA WEST.md",
     "Personagens 👤/Secundários/FRANCIS-GARCIA.md",
     "Personagens 👤/Antagonistas/CLEVER-ROACH.md",
     "Personagens 👤/Protagonistas/TAE-JUNG.md",
     "Personagens 👤/Secundários/Dominadores de Éter/Mestres do Éter/ENNARD-MELAHEL.md",
     "Personagens 👤/Secundários/Dominadores de Éter/Mestres do Éter/EVELYN-RABNOTT.md",
-    "Personagens 👤/Secundários/Dominadores de Éter/Mestres do Éter/ELEONORA-FIORE.md",
-    "Personagens 👤/Secundários/Dominadores de Éter/Mestres do Éter/BAAKO.md",
     "Escaleta",
     "Pasted image 20250430133320.png",
     "Sistema de Poder",
