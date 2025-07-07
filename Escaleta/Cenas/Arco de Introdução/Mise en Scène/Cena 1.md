@@ -6,9 +6,9 @@ kanban-plugin: board
 
 ## #Espaço-Fisico-Dominante
 
-- [ ] Sede da G&A é um espaço enorme e cheio de alas de atendimento; cafeteria; elevadores com inúmeros andares e uma estética limpa com vidro por todos os lados.
-- [ ] O Ambiente da estação de metrô é simples; quieto mas movimentado, painéis e mapas por todos os lados; escada rolantes que levam a diferentes caminhos e diferentes lojas dentro da estação.
-- [x] Escritório abafado; papéis jogados para todos os lados; telefones tocando sem parar; cliques de teclado; Murais de planejamento enormes.
+- [ ] 1. O Ambiente da estação de metrô é simples; quieto mas movimentado, painéis e mapas por todos os lados; escada rolantes que levam a diferentes caminhos e diferentes lojas dentro da estação.
+- [ ] 2. Sede da G&A é um espaço enorme e cheio de alas de atendimento; cafeteria; elevadores com inúmeros andares e uma estética limpa com vidro por todos os lados.
+- [x] 3. Escritório abafado; papéis jogados para todos os lados; telefones tocando sem parar; cliques de teclado; Murais de planejamento enormes.
 
 
 ## #Elementos-Visuais-Chave
@@ -36,8 +36,8 @@ kanban-plugin: board
 
 ## #Simbolismo-Espacial/Objetual
 
-- [ ] O escritório de Kaori reflete totalmente com sua personalidade organizada e pragmática, com livros organizados por ordem alfabética, itens de escritórios colocados em gavetas; monitores alinhados simetricamente com sua cadeira e uma grande janela ao fundo dando frescor ao ambiente.
 - [ ] O colar de âmbar que reage com seu estresse é um subtexto que transmite sua tensão relacionada ao trabalho e sua vida. Apesar se ser alguém equilibrada é também alguém extremamente ocupada que se sente obrigada em manter a ordem mesmo que isso signifique sacrificar sua convivência.
+- [ ] O escritório de Kaori reflete totalmente com sua personalidade organizada e pragmática, com livros organizados por ordem alfabética, itens de escritórios colocados em gavetas; monitores alinhados simetricamente com sua cadeira e uma grande janela ao fundo dando frescor ao ambiente.
 
 
 ## #Transição-de-Ambiente/Contraste

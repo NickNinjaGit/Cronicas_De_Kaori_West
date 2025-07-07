@@ -14,11 +14,7 @@ kanban-plugin: board
 - [ ] Jornal Televisivo ocorrendo no fundo (sinal de atenção para os personagens)
 
 
-<<<<<<< HEAD
-## ATPOV
-=======
 ## #ATPOV
->>>>>>> origin/master
 
 - [x] A - Conversas Avulsas; Cafeteiras trabalhando; Chapas esquentando pão.
 - [x] T - Ambiente Refrigerado por ar condicionado
@@ -39,13 +35,13 @@ kanban-plugin: board
 
 ## #Transição-de-Ambiente/Contraste
 
-- [ ] A cena transita de algo calmo e comum para um tom puxado para ação quando Yujima percebe que o colar de âmbar havia reagido na reportagem que Kaori apareceu, e é quando a mulher apareceu perto da padaria com as mãos em chamas ele não teve mais dúvidas que algo estava acontecendo.
+- [ ] A cena transita de algo calmo e comum para um tom puxado para ação quando Yujima percebe que o colar de âmbar havia reagido na reportagem que Kaori apareceu. Quando a mulher aparece perto da padaria com as mãos em chamas ele não teve mais dúvidas que é a hora de agir.
 
 
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false]}
 ```
 %%
