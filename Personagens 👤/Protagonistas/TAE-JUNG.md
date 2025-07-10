@@ -1,4 +1,3 @@
-CB - Character Bible
 # @ Character Bible
 
 ## ! Personalidade 
@@ -50,7 +49,7 @@ CB - Character Bible
 
 **[[YUJIMA-CHEN]]**
 
-> Taejung vê Yujima não somente como um mestre, mas também como uma figura paterna que ele nunca pode ter acesso. 
+> Taejung vê Yujima não somente como um mestre, mas também como uma figura paterna que ele nunca pode ter acesso, preenchendo um vazio antigo porém presente até o momento.
 
 [[HINAKA-CHEN]]
 
@@ -115,6 +114,9 @@ Taesan e skin de passe - King God Castle
 
 Hero - Dragon Quest
 
+![[Tae Jung concept art oficial.png]]
+
+![[Tae Jung concept art.png]]
 
 ## ! Backstory:
 

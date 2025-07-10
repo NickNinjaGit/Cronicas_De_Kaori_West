@@ -49,7 +49,7 @@
 
 > Yujima constantemente se mostra uma pessoa bem animada muitas vezes brincalhona e com um bom humor. O que reflete diretamente no seu carisma como lutador. Quando é reconhecido na rua, não pensa duas vezes em ser receptivo com seus fãs. 
 
-**Alexandre Clifford e Baako**
+**[[ALEXANDRE-CLIFFORD]] e [[BAAKO]]**
 
 > Especialmente com estes 2 Mestres, Yujima vê eles não apenas como colegas, mas também como amigos que compartilham histórias de superação parecidas, sendo expostos ao Éter mais por uma situação de emergência do que por terem consciências. 
 
@@ -57,13 +57,15 @@
 
 > Já com outros mestres Yujima mantém uma postura neutra mas não se recusa a conhecer os outros se assim eles queiram.
 
-**Taejung e Kaori:**
+**[[TAE-JUNG]] e [[KAORI SILVA WEST]]**
 
 > Yujima não só vê eles como seus discípulos, mas também se identifica totalmente com suas histórias, principalmente a de Jung sentindo que seu dever é guiar os dois para prepará-los ao mundo do Éter.  
 
 > E especialmente com Kaori, ele irá perceber uma determinação e um caminho muito parecido com as histórias de Hanna e Saori, assim apoiando ela interrompendo a guerra entre bruxas e sacerdotisas.
 
-**Hinaka**
+> Em especial com Jung, Yujima também enxerga nele a imagem de seu filho falecido, e se preocupa realmente com ele como um pai, além disso, ele é uma das únicas pessoas a reparar na obsessão doentia de Jung, e assim como Kaori, ele se preocupa e tenta lhe aconselhar desde antes a tentar esquecer disso.
+
+**[[HINAKA-CHEN]]**
 
 > Yujima sempre foi o clássico pai protetor que nunca deixou a filha sair sozinha ou fazer algo arriscado, muito disso se deve por ele temer que o caminho do Éter possa prejudicar de alguma forma trazendo inimigos diretamente a ela. 
 ### Máscaras Sociais

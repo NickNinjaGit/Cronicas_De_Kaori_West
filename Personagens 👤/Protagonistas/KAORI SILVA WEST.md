@@ -13,6 +13,10 @@
 * Reversada
 * Perfeccionista 
 ### *Extroversão:* Ambivertida
+
+> Quando se fala de negócios ou de amigos próximos, Kaori cria uma persona realmente extrovertida, porém normalmente ela altera entre um estado de introversão principalmente quando está mais reclusa ou está exposta ao mundo, refletindo diretamente com seu traço de ser reservada. 
+
+> Fazendo uma simples analogia com a astrologia, podemos considerar o ascendente de Kaori como Leonino e seu Sol como virgem, já que ela costuma a ser mais prática e realista.
 ### *Concienciosidade (Alta)*
 
 > Desde pequena, ela demonstra aptidão para a organização tanto de sua mente quanto e seu ambiente, o que casa bem com o signo de virgem e também com sua personalidade.
@@ -21,22 +25,22 @@
 > Por falta de uma boa figura materna e de seu pai ser super protetor, Kaori cresceu retraída de contatos externos e muitas vezes tem grandes dificuldades em demonstrar compaixão, ainda mais se for associado a romance.
 ### *Neurocitismo (Baixo)*
 
-> Kaori raramente foge do controle quando está focada ou até mesmo em sua rotina pessoal, além disso, seus sentimentos na maioria das vezes são equilibrados e harmonicos.
+> Kaori raramente foge do controle quando está focada ou até mesmo em sua rotina pessoal, além disso, seus sentimentos na maioria das vezes são equilibrados e harmônicos, o que é característico de um signo de terra que costuma a ser firme.
 ### *Abertura (Alta)*
 
-> Kaori procura em novas experiências alguma forma de fugir da solidão da falta de contato social constante com novas pessoas, assim, como desde pequena ela foi incentivada a aprender japonês, ela leva essa sua filosofia até os dias de hoje.
+> Kaori sempre está em busca de aprender algo novo e interagir com o conhecimento do mundo, na qual é a chave para seu propósito de vida, geralmente ela prefere experiências saudáveis, equilibradas e corretas.
 ## ! Social
 
 ### *Conflitos Internos*
 
-> Kaori carrega uma enorme angústia em relação à sua vida atual. Apesar de ter conquistado o sucesso profissional e social, ela não se sente verdadeiramente contente com isso. Sempre teve dificuldade de se abrir com as pessoas, por não conseguir encontrar alguém que compartilhe de sua visão de mundo — e, quando encontra, como no caso de Kate, é raro e passageiro.
+> Kaori carrega uma enorme angústia em relação à sua vida atual. Apesar de ter conquistado o sucesso profissional e social, ela não se sente verdadeiramente contente com isso. Sempre teve dificuldade de se abrir com as pessoas, por não conseguir encontrar alguém que compartilhe de sua visão de mundo, quando encontra, como no caso de Kate, é raro e passageiro.
 
 > Após o despertar de sua verdadeira origem, Kaori percebe que pode romper com esse ciclo de insatisfação, encontrando o seu verdadeiro eu por meio da história de sua mãe. Ela representa a mensagem de que o sucesso não significa realização, e transmite ao leitor um lembrete essencial:  
 > **"Procure aquilo que te faz feliz e que satisfaça seus sentimentos."**
 
-> O segundo grande dilema interno de Kaori surge de seu desejo de vingança contra [[ZEROM]], o assassino de sua mãe, momentos após ela ter libertado [[LUCIFER]] da Coroa da Serpente — um artefato que conduz seu portador à insanidade. Todos acreditam que Kaori morreu após esse evento, enquanto, na verdade, ela se isola para viver seu luto. Quando retorna, precisa enfrentar o fardo de ser caçada e desacreditada, já que Zerom assumiu sua identidade e deturpou sua imagem como líder das [[Sacerdotisas das Chamas Renascentes]].
+> O segundo grande dilema interno de Kaori surge de seu desejo de vingança contra [[ZEROM]], o assassino de sua mãe, momentos após ela ter libertado [[LUCIFER]] da Coroa da Serpente, um artefato que conduz seu portador à insanidade. Todos acreditam que Kaori morreu após esse evento, enquanto, na verdade, ela se isola para viver seu luto. Quando retorna, precisa enfrentar o fardo de ser caçada e desacreditada, já que Zerom assumiu sua identidade e deturpou sua imagem como líder das [[Sacerdotisas das Chamas Renascentes]].
 
-> Em um confronto prematuro com Zerom, ela quase morre — o que a leva a reconhecer o abismo de poder entre eles. A partir disso, ela promete a si mesma se tornar forte o bastante para fazer justiça à memória de sua mãe.
+> Em um confronto prematuro com Zerom, ela quase morre o que a leva a reconhecer o abismo de poder entre eles. A partir disso, ela promete a si mesma se tornar forte o bastante para fazer justiça à memória de sua mãe.
 
 > No arco final, com a volta de [[SARAH-KAYLA]] como Celestial do Éter, Kaori e seus aliados enfrentam o dilema de aceitar a criação de uma nova era sem deuses. Em troca, a criatura que ameaça o mundo se autodestruirá, junto de seus semelhantes. Kaori, que sempre negou ser uma líder, percebe que já está agindo como uma — e, ao aceitar esse destino, finalmente entende seu real propósito como porta-voz de uma nova era.
 ### *Conflitos Externos*
@@ -53,7 +57,59 @@
 * Ter uma vida equilibrada
 * Buscar o conhecimento e a verdade
 ### *Relações* 
+
+**[[MARTIN SILVA WEST]]**
+
+> Kaori tem um enorme respeito pelo seu pai e reconhece sua luta para manter a família estável mesmo na ausência de Hanna, porém ela reprova com todas as forças seus péssimos hábitos de fumar e beber. Essa relação é um misto de respeito e preocupação.
+
+**[[FRANCIS-GARCIA]]**
+
+> Kaori vê Francis como uma figura inspiradora e a frente de seu tempo, ao máximo ela tenta se espelhar na imagem de seu chefe com o objetivo de atingir a melhor versão de si no escritório. Além disso Francis juntamente de Kate são uma das poucas pessoas que ela considera realmente uma família.
+
+**[[KATE-GARCIA]]**
+
+> Kaori e Kate possuem uma grande amizade, onde ela se sente confortável ao ter alguém alegre e animada ao seu lado. Geralmente Kate vive comentando de suas tentativas de encontrar um namorado com Kaori, fazendo com que ela se divirta comentando também suas opiniões ácidas com a amiga. Além disso o fato que não terem uma grande criação da mãe as aproximou.
+
+**[[TAE-JUNG]]**
+
+> Enquanto Jung enxerga o entusiasmo e o futuro em Kaori, ela age de forma totalmente oposta. Em geral, a amizade dos dois é bem equilibrada, principalmente por compartilharem do mesmo objetivo, porém, Kaori é uma das primeiras pessoas a perceber a obsessão doentia de Jung após a saga do inferno, e de certa forma ela tenta ajuda-lo em certo ponto sem realmente carregar sua dor, já que este assunto é realmente delicado para Jung.
+
+[[YUJIMA-CHEN]]
+
+> Kaori enxerga Yujima como uma grande figura de respeito e admiração, após conhecer melhor seu passado, ela começa a ver Yujima não só como um mestre, mas também como uma pessoa honrada que se esforça para ajudar ao máximo a nova geração.
+
+[[HINAKA-CHEN]]
+
+> Kaori enxerga Hinaka de uma forma bem parecida com Kate, porém em conversas mais profundas ela enxerga Hinaka como uma pessoa um pouco pessimista e desanimada, o que contrasta um pouco com sua persona animada. Apesar de tudo, Hinaka se preocupa com o destino de Kaori e por isso está sempre a alertando dos riscos.
+
+[[HANNA SILVA MATSUDA]]
+
+> Apesar de ter conhecido tão pouco sua mãe, Kaori demonstrou enorme admiração e empatia pela sua luta para libertar o inferno do controle autoritário. A humildade e compaixão que Hanna mostrou a ela foram grandes memórias que ela teve antes de sua morte.
+
+TODO 
+
+CLEVER
+BROCKIE
+CHRISTIAN CORPUS CRUX
+CORNELLE
+LUCIFER
+QUEELBETWO
+...
 ### Máscaras Sociais
+
+**Gerente de Produção**
+
+> Kaori demonstra extrema segurança em sua fala e habilidades quando está exposta em uma situação empresarial onde precisa se manter focada. Muitos de seus empregados elogiam seu raciocínio rápido, comunicação e nível de conhecimento técnico que ela possui.
+
+**Social/Formal**
+
+> Quando está fora de um ambiente empresarial, é nítido que sua natureza transita para seu lado mais introvertido fazendo com que ela tome uma postura mais reclusa em relação a interagir com os outros. Normalmente como é reservada, ela tende a se afastar de conversas muito longas e prefere ficar sozinha.
+
+**Casual/Informal**
+
+> Kaori mostra uma mescla de introversão e extroversão dependendo da pessoa que ela esteja conversando. Geralmente com amigos mais próximos, ela tende a ser uma pessoa divertida e participativa em relação a tudo, já com pessoas menos próximas ela tende a ser mais passiva fazendo melhor o papel de ouvinte.
+
+****
 ## ! Informativo 
 
 * Religião: Agnóstica 
@@ -91,9 +147,12 @@
 * Acessórios: Colar de âmbar; Brincos de ouro sutis 
 * Roupas: Terno e calça social vermelhos; Salto preto 
 
+![[Kaori concept 3.png]]
+
 ## ! Backstory:
 
 ## Infância 
+
  >  Kaori Silva Matsuda nasceu e cresceu no bairro da Liberdade, em São Paulo, uma área conhecida pela presença marcante da cultura japonesa e pela diversidade que enche suas ruas de tradições e histórias. Criada pelo pai, Martin Silva, um homem amoroso e dedicado, Kaori sempre sentiu a ausência de sua mãe, Hanna Matsuda, que, segundo o pai, havia morrido em um acidente quando ela tinha por volta de 4 anos. Essa perda misteriosa e envolta em poucas lembranças deixava uma sensação de vazio que a acompanhava, reforçando nela uma natural introspecção e uma curiosidade sobre sua própria origem.
 --- 
 > Martin criou Kaori com um carinho imenso e tentou manter vivas as tradições da família de sua esposa. As memórias culturais foram se misturando ao cotidiano: Kaori frequentava aulas de  japonês nos finais de semana e adorava participar das festividades da Liberdade, como o Tanabata Matsuri e o Ano Novo Lunar. Martin incentivava essa conexão com a cultura japonesa, esperando que isso mantivesse algo da memória de Hanna viva em Kaori, ainda que a jovem sentisse que faltava uma peça importante para completar sua identidade. 
@@ -189,19 +248,53 @@ O ***arquétipo do órfão*** está frequentemente associado a personagens que, 
 ## #Encantador/Amaldiçoador
 
 
+## Vantagens Externas
+
+### Metade da Chama da Renascença 
+
+> Após a saga do inferno, Kaori acaba herdando a metade de uma chama da renascença, um encantamento que permite o usuário reconstituir seu corpo através das cinzas para assim renascer com o dobro de poder que havia anteriormente, normalmente a chama proporciona 8 ciclos de vida ao usuário, porém, como Kaori divide sua chama com [[CORNELLE KATARAMÉNI]], são apenas 4 usos para cada uma com a vantagem de receberem o triplo do poder por reencarnação. 
+
+### Transformação Demoníaca (Preciso achar algum nome melhor)
+
+> Inicialmente no arco RellLabs, [[GABE-RELLS]] acaba ativando a forma demoníaca de Kaori por acidente ao injetar nela a uma grande carga de Éter, porém depois da saga do inferno, ela irá aprender a controlar o poder de sua linhagem com [[LUCIFER]], seu vô e antigo herdeiro do inferno.
+
+> **A Forma Demoníaca** muda fisicamente a aparência de Kaori adicionando chifres compridos, pele 
 ## Técnicas
 ### The Strokes (Encantamento)
 
 ### Descrição 
 
+> Kaori consegue manipular suas chamas com um ou ambos braços criando uma corrente linear de fogo similar a forma de um chicote. O Stroke, ou a linha é formado por flamas que estão em constante queima, porém, graças ao fluxo de Éter, a forma e aparência de uma flama se assemelham a uma chama singular dando um aspecto de uma corrente flamejante.
+
 ### Uso da Técnica
+
+> Ao concentrar a potência de suas chamas em seus braços, Kaori expande seus membros depositando sua energia de forma cadenciada, sincronizando seu Éter com o fogo ela é capaz de amarrar suas flamas (chamas que formam o Stoke) a uma linha invisível que se comporta como um barbante na qual serve para manter os Strokes.
+
+> Um Stroke pode ser formado de 2 até 20 chamas em média, assim podendo-se aumentar o alcance dos ataques de maneira significativa. Quanto menor o número de flamas maior será o poder de ataque. 
+
+> Além disso, Kaori pode manipular uma Stroke com uma série de comandos que modificam a organização ou comportamento das flamas, podendo assim usa-lo de forma estratégica no combate:
+
+**Fracture**
+
+> Ao usar o comando Fracture, Kaori pode separar quantas flamas quiser do Stroke para se moverem de acordo com as ordens do usuário. O Fracture permite que ela cosiga deixar planejado estratégias de ante mão antes mesmo que o alvo perceba, um exemplo é utiliza-las para começar um incêndio inesperado ou rodear o alvo em chamas impedindo sua passagem.
+
+**Strike**
+
+> Utilizando do comando Strike, Kaori é capaz de sobrecarregar a última flama de um Stroke com a energia das flamas anteriores, desta forma ela consegue realizar um ataque mais direto concentrando o fluxo de Éter em um ponto só, assim amplificando o ataque.
+
+**Restroke**
+
+> Usufruindo do comando Restroke, Kaori consegue alterar a direção que uma Stroke irá refazendo seu trajeto, essa habilidade permite com que o usuário monte uma estratégia inesperada surpreendendo o inimigo. O Restroke pode alterar as flamas da Stroke atual 5 vezes.
 
 ### Limitações
 
-### Efeitos
+* Em ambientes húmidos ou com fortes ventos, o The Strokes fica mais fraco e até pode ser inutilizado.
+* A partir de 20 flamas, o Stroke começa a consumir mais Éter do que se pode produzir, aumentando drasticamente o gasto e o equilíbrio da técnica.
 
-### Complexidade
+### Efeitos N/A
 
-### Gasto de Energia
+### Complexidade: Baixa
+
+### Gasto de Energia: Moderado/Alto
 
 
